@@ -1,0 +1,1112 @@
+[
+  {
+    "question": "A 60-year-old man presents with shortness of breath and pleuritic chest pain. Chest X-ray reveals a large pleural effusion. Thoracentesis is performed, and the pleural fluid analysis shows: WBC count 15,000/mm3, glucose 80 mg/dL, LDH 800 U/L. Gram stain reveals gram-positive diplococci. Which of the following pleural fluid characteristics is the strongest indication for chest tube drainage?",
+    "choices": [
+      "a. LDH 800U/L",
+      "b. Glucose 90mg/dL",
+      "c. Gram stain diplococci in chain",
+      "d. WBC 15,000/mm³"
+    ],
+    "answer": "c. Gram stain diplococci in chain",
+    "explanation": "Pleural effusions can result from infectious, malignant, or other inflammatory causes. Thoracentesis with pleural fluid analysis helps differentiate between transudative and exudative effusions and guides management. Gram stain showing gram-positive diplococci is diagnostic of an infected effusion and indicates empyema, which necessitates immediate drainage via a chest tube to evacuate the infected material."
+  },
+  {
+    "question": "A 65-year-old man with stage 3 chronic kidney disease (CKD) presents for a routine follow-up appointment. His most recent hemoglobin level is 9.5 g/dL. According to current guidelines, what is the recommended target hemoglobin range for patients with CKD?",
+    "choices": [
+      "a. 9-10 g/dL",
+      "b. 10-11.5 g/dL",
+      "c. 11.5-13 g/dL",
+      "d. 13-15 g/dL"
+    ],
+    "answer": "b. 10-11.5 g/dL",
+    "explanation": "Anemia is a common complication of CKD due to reduced erythropoietin production. Management involves erythropoiesis-stimulating agents (ESAs) to target an appropriate hemoglobin range. Current recommendations (KDIGO guidelines): ESAs should be used to maintain hemoglobin levels above 10 g/dL to reduce the need for transfusions and improve symptoms. Target hemoglobin should not exceed 11.5 g/dL, as higher levels are associated with increased cardiovascular risk."
+  },
+  {
+    "question": "A public health team plans to conduct active surveillance for tuberculosis (TB) in a specific community for one year. The team will perform door-to-door screening, including symptom assessment, tuberculin skin testing (TST), and chest X-rays as needed. Which type of surveillance is being implemented?",
+    "choices": [
+      "a. Active surveillance",
+      "b. Passive surveillance",
+      "c. Sentinel surveillance",
+      "d. Syndromic surveillance"
+    ],
+    "answer": "a. Active surveillance",
+    "explanation": "Active surveillance: Public health teams actively seek cases through screenings, tests, and interventions. Door-to-door symptom assessment and targeted testing (as in this case) are hallmark examples. This is aimed at reducing TB burden in the community."
+  },
+  {
+    "question": "A 28-year-old man presents with a 6-month history of persistent diarrhea, characterized by frequent, loose stools. He also reports painful ulcerations in his mouth and around his anus. He has experienced significant weight loss and fatigue. Physical examination reveals pale conjunctivae, angular cheilitis, and aphthous ulcers in the oral mucosa. There are also painful, shallow ulcers in the perianal region. Which of the following trace elements is most likely deficient in this patient?",
+    "choices": [
+      "a. Iron",
+      "b. Niacin",
+      "c. Selenium",
+      "d. Zinc"
+    ],
+    "answer": "d. Zinc",
+    "explanation": "Persistent diarrhea causes excessive zinc loss, as zinc is lost in feces during intestinal inflammation. Zinc is critical for epithelial repair and immune function. Deficiency leads to impaired wound healing and epithelial breakdown, presenting as perianal and oral ulcers."
+  },
+  {
+    "question": "A 35-year-old woman is diagnosed with iron deficiency anemia based on laboratory findings showing low hemoglobin, low MCV, and low ferritin. She is prescribed oral ferrous sulfate supplementation. What is the recommended duration of iron supplementation therapy?",
+    "choices": [
+      "a. For a total of 6 months.",
+      "b. For 3 months.",
+      "c. For 3 months after anemia is corrected (hemoglobin returns to normal).",
+      "d. Until serum iron levels normalize."
+    ],
+    "answer": "c. For 3 months after anemia is corrected (hemoglobin returns to normal).",
+    "explanation": "Iron supplementation is essential for replenishing hemoglobin and correcting the iron deficit in the bone marrow and tissues. Once hemoglobin normalizes, iron stores (reflected by ferritin) remain depleted, necessitating continued therapy to prevent relapse. Therapy should continue for 3 months after normalization to replenish iron stores fully."
+  },
+  {
+    "question": "A 50-year-old man presents with a mass protruding from his anus during defecation. He reports intermittent rectal bleeding and discomfort. On physical examination, a soft, compressible mass is visible protruding from the anus. It reduces spontaneously after defecation. Which of the following is the most likely diagnosis?",
+    "choices": [
+      "a. Anal fistula",
+      "b. Anal abscess",
+      "c. Anal fissure",
+      "d. Hemorrhoids"
+    ],
+    "answer": "d. Hemorrhoids",
+    "explanation": "Protruding mass during defecation suggests prolapsing internal hemorrhoids. Intermittent bright red rectal bleeding is a hallmark symptom of hemorrhoids. Internal hemorrhoids are soft, non-tender, and reduce spontaneously in early stages."
+  },
+  {
+    "question": "A 65-year-old male with a 30-year history of smoking presents to the emergency department with complaints of worsening shortness of breath, a persistent cough, and hemoptysis. He reports that the cough has been productive with bloody sputum for the past week. On physical examination, he is noted to have decreased breath sounds on the right side and dullness to percussion. A chest X-ray is performed and shows multiple opacities in the right lung field.",
+    "choices": [
+      "a. Chest CT",
+      "b. Bronchial lavage",
+      "c. MRI of the chest",
+      "d. Sputum culture"
+    ],
+    "answer": "a. Chest CT",
+    "explanation": "This patient presents with symptoms concerning for lung cancer, particularly with his smoking history, hemoptysis, and abnormal chest X-ray findings. A chest CT is the most appropriate next step to further evaluate the extent and nature of the lung pathology."
+  },
+  {
+    "question": "A health team in a woreda (district) aims to assess polio vaccination coverage among children under 5 years of age. They plan to conduct a house-to-house survey to collect data on vaccination status. Which of the following study designs is most appropriate for this purpose?",
+    "choices": [
+      "a. Case series",
+      "b. Case report",
+      "c. Cross-sectional study",
+      "d. Case-control study"
+    ],
+    "answer": "c. Cross-sectional study",
+    "explanation": "The health team is assessing vaccination coverage at a single point in time. This makes a cross-sectional study the most appropriate choice because it collects data on both exposure (vaccination) and outcome (coverage) simultaneously."
+  },
+  {
+    "question": "A 25-year-old man presents with high grade fever, left upper quadrant abdominal pain, and mild hepatosplenomegaly with tenderness on palpation. He reports recent travel to a rural area. Which of the following is the most appropriate initial diagnostic investigation?",
+    "choices": [
+      "a. Blood culture",
+      "b. Stool culture",
+      "c. Bone marrow culture",
+      "d. Stool microscopy"
+    ],
+    "answer": "a. Blood culture",
+    "explanation": "High-grade fever and left upper quadrant abdominal pain suggest systemic infection. Hepatosplenomegaly and recent travel to a rural area raise suspicion for typhoid fever or another systemic infectious disease. Blood culture is the most sensitive and specific test for identifying bacteremia."
+  },
+  {
+    "question": "A 30-year-old man is brought to the emergency department after a motor vehicle accident. He is hypotensive (BP 90/60 mmHg), tachycardic (PR 120 bpm), and his oxygen saturation is 80% on room air. Physical examination reveals absent breath sounds on the right side of his chest. Chest X-ray shows hyperlucency and absent lung markings on the right with mediastinal shift to the left. Which of the following is the most likely diagnosis?",
+    "choices": [
+      "a. Simple pneumothorax",
+      "b. Tension pneumothorax",
+      "c. Hemothorax",
+      "d. Pulmonary contusion"
+    ],
+    "answer": "b. Tension pneumothorax",
+    "explanation": "Hypotension and tachycardia indicate compromised hemodynamics due to impaired venous return. Absent breath sounds on the right side suggests pneumothorax. Mediastinal shift is a hallmark of tension pneumothorax caused by increased intrathoracic pressure."
+  },
+  {
+    "question": "A 25-year-old man arrives at the emergency department after being shot in the lower right abdomen during a robbery. He is hypotensive and has severe abdominal pain with distension and guarding on palpation. Exploratory laparotomy (surgical exploration of the abdomen) is planned. Considering the high-velocity nature of a gunshot wound, which of the following abdominal organs is most likely to be injured?",
+    "choices": [
+      "a. Liver",
+      "b. Large intestine (colon)",
+      "c. Small intestine",
+      "d. Spleen"
+    ],
+    "answer": "c. Small intestine",
+    "explanation": "A gunshot wound to the lower right abdomen suggests high-velocity trauma. The small intestine is the most commonly injured organ in penetrating abdominal trauma due to its length and central location in the abdomen."
+  },
+  {
+    "question": "A public health researcher wants to investigate the association between excess body weight and the development of chronic diseases like type 2 diabetes and heart disease in a large population study. Which of the following anthropometric measurements is the most widely used and considered a simple, reliable indicator of overall obesity-related health risks?",
+    "choices": [
+      "a. Body mass index",
+      "b. Hip circumference",
+      "c. Skinfold thickness",
+      "d. Waist circumference"
+    ],
+    "answer": "a. Body mass index",
+    "explanation": "BMI is the most widely used anthropometric measure for assessing overall obesity and health risks associated with excess body weight in large population studies. It offers a standardized and reproducible method."
+  },
+  {
+    "question": "A 52-year-old woman with a history of rheumatoid arthritis has been taking methotrexate weekly for the past two years. She presents with fatigue and reports experiencing easy bruising and frequent nosebleeds recently. Laboratory tests reveal: WBC 2,000/mm3 (low), hemoglobin 7 g/dL (anemia), MCV 110 fL (macrocytosis), and platelets 80,000/mm3 (within normal range). What is the most likely explanation for these abnormal laboratory findings?",
+    "choices": [
+      "a. Active rheumatoid arthritis causing blood abnormalities",
+      "b. Methotrexate-induced bone marrow suppression leading to decreased blood cell production",
+      "c. Vitamin B12 deficiency secondary to methotrexate use",
+      "d. Myelodysplastic syndrome (MDS) developing independently of methotrexate use"
+    ],
+    "answer": "b. Methotrexate-induced bone marrow suppression leading to decreased blood cell production",
+    "explanation": "Methotrexate inhibits dihydrofolate reductase, interfering with folate metabolism and DNA synthesis. This can lead to bone marrow suppression, resulting in pancytopenia (affecting all three blood cell lines: WBCs, RBCs, platelets)."
+  },
+  {
+    "question": "A 35-year-old male presents to the clinic with a 3-month history of cough, shortness of breath, and night sweats. He has a history of pulmonary tuberculosis (TB) treated 4 years ago. Upon examination, he appears cachectic and has decreased breath sounds on auscultation. A chest X-ray shows bilateral infiltrates and possible cavitary lesions. The patient is also found to be HIV positive with a CD4 count of 350 cells/mm³.",
+    "choices": [
+      "a. Full course of TB treatment",
+      "b. Isoniazid preventive therapy (IPT) after ruling out active TB",
+      "c. Initiate antiretroviral therapy (ART)",
+      "d. Obtain a sputum culture for acid-fast bacilli"
+    ],
+    "answer": "d. Obtain a sputum culture for acid-fast bacilli",
+    "explanation": "The patient has clinical features of recurrent tuberculosis (TB) with HIV coinfection. The first step is to confirm active TB through a sputum culture for acid-fast bacilli (AFB) or other diagnostic tests before treatment."
+  },
+  {
+    "question": "A medical student is performing a neurological examination. To elicit the plantar reflex, the lateral aspect of the sole of the foot is stroked. Which of the following nerve root levels is primarily responsible for mediating the normal plantar reflex (plantar flexion of the toes)?",
+    "choices": [
+      "a. S1-S2",
+      "b. S2-S3",
+      "c. S3-S4",
+      "d. L4-L5"
+    ],
+    "answer": "a. S1-S2",
+    "explanation": "The plantar reflex is mediated by the tibial nerve, a branch of the sciatic nerve, which primarily originates from S1-S2 nerve roots. These nerve roots contribute to the motor function of muscles responsible for plantar flexion."
+  },
+  {
+    "question": "A 25-year-old man presents with acute onset of quadriplegia and absent deep tendon reflexes. He also reports recent onset of urinary retention. His vital signs are stable. Laboratory investigations reveal a white blood cell count (WBC) of 8,000/mm3. Cerebrospinal fluid (CSF) analysis shows 30 cells/mm3 (lymphocytic pleocytosis) and a protein level of 6 g/L (markedly elevated). Which of the following is the most likely initial treatment for this patient?",
+    "choices": [
+      "a. Intravenous ceftriaxone",
+      "b. Intravenous immunoglobulin (IVIG)",
+      "c. Intravenous methylprednisolone",
+      "d. Intravenous acyclovir"
+    ],
+    "answer": "b. Intravenous immunoglobulin (IVIG)",
+    "explanation": "Acute quadriplegia with absent deep tendon reflexes and albuminocytologic dissociation is consistent with Guillain-Barré syndrome (GBS). Treatment options are IVIG or plasmapheresis as first-line therapies."
+  },
+  {
+    "question": "A surgeon is preparing to perform an inguinal herniorrhaphy. Which of the following steps is considered the most crucial for preventing surgical site infection?",
+    "choices": [
+      "a. Thorough handwashing with antiseptic soap",
+      "b. Application of povidone-iodine to the surgical site",
+      "c. Preoperative shaving of the surgical site",
+      "d. Wearing sterile surgical gloves"
+    ],
+    "answer": "a. Thorough handwashing with antiseptic soap",
+    "explanation": "Handwashing with antiseptic soap eliminates transient and reduces resident microorganisms on the surgeon's hands, making it the cornerstone of infection control in the operating room."
+  },
+  {
+    "question": "A 40-year-old woman presents with a swelling in her right groin area that she noticed several months ago. She reports that the swelling becomes more prominent when she coughs or strains. On physical examination, a soft, reducible mass is palpated below the inguinal ligament. Which of the following types of hernia is most likely?",
+    "choices": [
+      "a. Direct inguinal hernia",
+      "b. Femoral hernia",
+      "c. Indirect inguinal hernia",
+      "d. Obturator hernia"
+    ],
+    "answer": "b. Femoral hernia",
+    "explanation": "Chronic and reducible right groin swelling located below the inguinal ligament strongly suggests a femoral hernia. They are more common in women due to a wider pelvis."
+  },
+  {
+    "question": "A 25-year-old man was admitted to the orthopedic ward after sustaining a closed fracture of his tibia and fibula in a motorcycle accident. Three days post-operatively, he reports severe, unrelenting pain in his lower leg, disproportionate to his injury. On examination, his lower leg is markedly swollen, tense, and exquisitely tender to palpation. Distal pulses (dorsalis pedis and posterior tibial) are not palpable. There is also paresthesia in the foot. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      "a. Measuring compartment pressures",
+      "b. Urgent fasciotomy",
+      "c. Fracture fixation revision",
+      "d. Administration of intravenous analgesics"
+    ],
+    "answer": "b. Urgent fasciotomy",
+    "explanation": "These are classic indicators of compartment syndrome. Compartment syndrome is a surgical emergency, and urgent fasciotomy is required to release the pressure and restore perfusion, preventing ischemia and necrosis."
+  },
+  {
+    "question": "An 18-year-old female presents to the clinic with complaints of dysuria and increased urinary frequency for the past two weeks. She denies any fever, flank pain, or vaginal discharge. A urinalysis is performed, which shows no evidence of infection (negative nitrites and leukocyte esterase). The urine test is otherwise normal, with no signs of hematuria or proteinuria.",
+    "choices": [
+      "a. Urine culture",
+      "b. Fosfomycin",
+      "c. Reassure and send home",
+      "d. Ultrasound of the kidneys and bladder"
+    ],
+    "answer": "d. Ultrasound of the kidneys and bladder",
+    "explanation": "Persistent dysuria and increased urinary frequency without evidence of infection on urinalysis requires non-invasive imaging to evaluate structural abnormalities, such as bladder outlet obstruction, hydronephrosis, or urinary tract stones."
+  },
+  {
+    "question": "In some traditional communities, a practice is performed on newborns shortly after birth with the intention of preventing feeding problems. This practice involves the removal of the uvula. What is the name of this traditional practice?",
+    "choices": [
+      "a. Milk tooth extraction",
+      "b. Uvulectomy",
+      "c. Tongue-tie clipping",
+      "d. Palatoplasty"
+    ],
+    "answer": "b. Uvulectomy",
+    "explanation": "Traditional practice in some cultures, often performed on neonates or young children, believed to prevent feeding or respiratory problems. Uvulectomy refers to the surgical removal of the uvula."
+  },
+  {
+    "question": "A 30-year-old woman is brought to the emergency department after a motor vehicle collision. She has significant chest trauma and is experiencing respiratory distress. On examination, she is coughing up blood-tinged secretions and has a large open wound on the right side of her chest that makes a sucking sound with each breath. Which of the following is the most appropriate *initial* management step?",
+    "choices": [
+      "a. Application of a three-sided occlusive dressing to the chest wound",
+      "b. Suctioning of airway secretions",
+      "c. Administration of supplemental oxygen",
+      "d. Insertion of a chest tube"
+    ],
+    "answer": "a. Application of a three-sided occlusive dressing to the chest wound",
+    "explanation": "An open chest wound producing a sucking sound with each breath creates a one-way valve effect. A three-sided occlusive dressing allows air to exit during expiration while preventing air entry during inspiration, stabilizing the patient."
+  },
+  {
+    "question": "A 45-year-old woman underwent a total thyroidectomy for multinodular goiter. On the first postoperative day, she complains of numbness and tingling around her mouth and in her hands. Physical examination reveals a positive Chvostek's sign and Trousseau's sign. Which of the following is the most appropriate treatment?",
+    "choices": [
+      "a. Oral calcium supplementation",
+      "b. Intravenous calcium gluconate",
+      "c. Oral vitamin D supplementation",
+      "d. Intramuscular calcitonin"
+    ],
+    "answer": "b. Intravenous calcium gluconate",
+    "explanation": "Perioral numbness, tingling in hands, positive Chvostek's sign and Trousseau's sign are symptoms of symptomatic hypocalcemia following a total thyroidectomy, requiring immediate correction with IV calcium gluconate."
+  },
+  {
+    "question": "A researcher is studying the age distribution of patients diagnosed with a specific condition. The ages of 12 patients are recorded as follows: 12, 19, 23, 55, 55, 54, 56, 51, 52, 53, 54, 56. Which measure of central tendency best represents the typical age of patients in this sample, minimizing the influence of outliers?",
+    "choices": [
+      "a. Arithmetic mean",
+      "b. Mode",
+      "c. Median",
+      "d. Range"
+    ],
+    "answer": "c. Median",
+    "explanation": "The median is less influenced by outliers compared to the mean and provides a more accurate representation of central tendency for skewed data."
+  },
+  {
+    "question": "A 25-year-old male presents to the ED after a fall from his bike. He complains of severe pain in his forearm. An X-ray reveals fractures in the lower third and upper third of the forearm. On physical examination, there is swelling and tenderness over the fracture sites. The patient has difficulty extending his wrist and fingers, and there is sensory loss over the dorsal aspect of the hand.",
+    "choices": [
+      "a. Lateral cutaneous nerve",
+      "b. Radial nerve",
+      "c. Ulnar nerve",
+      "d. Median nerve"
+    ],
+    "answer": "b. Radial nerve",
+    "explanation": "The radial nerve runs along the posterior aspect of the humerus and provides motor function to the extensor muscles of the wrist and fingers, and sensory function to the dorsal aspect of the hand. Injury leads to difficulty in wrist extension (wrist drop)."
+  },
+  {
+    "question": "A mother brings her 4-month-old baby to the clinic with complaints of photophobia and tearing after the baby accidentally poked her right eye with his finger while playing. On examination, the affected eye appears red and she reports discomfort exacerbated by blinking. Visual acuity is normal, and there is no discharge or foreign body visible on the conjunctiva. What is the most likely diagnosis?",
+    "choices": [
+      "a. Corneal abrasion",
+      "b. Conjunctival injury",
+      "c. Foreign body",
+      "d. Iritis"
+    ],
+    "answer": "a. Corneal abrasion",
+    "explanation": "A corneal abrasion is a common injury resulting from mechanical trauma to the corneal surface, such as a finger poke. Symptoms include photophobia, tearing, foreign body sensation, and discomfort exacerbated by blinking."
+  },
+  {
+    "question": "A hospital manager conducts a training program for nurses on the proper use of the partograph during labor. After the training, a post-training assessment is administered to evaluate the nurses' knowledge and skills. The results indicate that the training was effective in improving their understanding and application of the partograph. Which aspect of program evaluation is being assessed?",
+    "choices": [
+      "a. Process evaluation",
+      "b. Impact evaluation",
+      "c. Outcome evaluation",
+      "d. Needs assessment"
+    ],
+    "answer": "c. Outcome evaluation",
+    "explanation": "Outcome evaluation measures the effectiveness of a program in achieving its intended results (e.g., improved skills or knowledge), assessing what changed as a result of the intervention."
+  },
+  {
+    "question": "A 28-year-old man presents to the emergency department after a motor vehicle accident. He sustained blunt trauma to his abdomen and reports blood in his urine. He is hemodynamically stable. Which of the following is the most appropriate initial diagnostic investigation to evaluate for genitourinary injury?",
+    "choices": [
+      "a. Abdominal ultrasound",
+      "b. Cystourethrography (retrograde or voiding)",
+      "c. CT scan of the abdomen and pelvis with intravenous contrast",
+      "d. Intravenous pyelogram (IVP)"
+    ],
+    "answer": "c. CT scan of the abdomen and pelvis with intravenous contrast",
+    "explanation": "Blunt abdominal trauma with hematuria suggests potential genitourinary (GU) injury. CT scan with IV contrast is the gold standard for evaluating GU injuries in hemodynamically stable patients."
+  },
+  {
+    "question": "Researchers are conducting a study on the prevalence of depression in a population with high literacy rates. They need to collect detailed information about participants' symptoms, mood, and experiences related to depression. Which of the following data collection methods is most appropriate for this population?",
+    "choices": [
+      "a. Face-to-face interviews",
+      "b. Self-administered questionnaires",
+      "c. Focus group discussions",
+      "d. Direct observation"
+    ],
+    "answer": "b. Self-administered questionnaires",
+    "explanation": "The target population has high literacy rates, meaning they can effectively understand and respond to written materials. Researchers need detailed, individualized information about depression symptoms."
+  },
+  {
+    "question": "Two physicians in a busy emergency department have differing opinions on the optimal management of a critically ill patient. One physician advocates for aggressive intervention, while the other prefers a more conservative approach. They engage in a discussion, actively listening to each other's perspectives and ultimately reaching a mutually agreeable treatment plan that incorporates elements of both approaches. Which conflict management style did they employ?",
+    "choices": [
+      "a. Competing",
+      "b. Accommodating",
+      "c. Compromising",
+      "d. Collaborating"
+    ],
+    "answer": "d. Collaborating",
+    "explanation": "The two physicians actively listened to each other's viewpoints and incorporated elements of both perspectives to develop an optimal treatment plan. Collaboration emphasizes open communication and mutual respect."
+  },
+  {
+    "question": "A public health worker aims to provide education about safe abortion practices in a rural community with limited access to healthcare facilities and varying levels of literacy. Which of the following communication strategies is likely to be most effective in this setting?",
+    "choices": [
+      "a. Distributing pamphlets and brochures",
+      "b. Broadcasting radio announcements",
+      "c. Conducting interpersonal communication",
+      "d. Utilizing online educational platforms"
+    ],
+    "answer": "c. Conducting interpersonal communication",
+    "explanation": "The target population has limited healthcare access and varying literacy levels. Interpersonal communication strategies (e.g., small group discussions or community meetings) enable direct engagement, clarifying doubts and correcting misinformation."
+  },
+  {
+    "question": "A hospital administrator makes decisions independently, rarely consulting with staff or seeking their input. They enforce strict rules and procedures, expecting strict adherence from all employees. Which leadership style is this administrator exhibiting?",
+    "choices": [
+      "a. Transformational leadership",
+      "b. Democratic leadership",
+      "c. Laissez-faire leadership",
+      "d. Autocratic leadership"
+    ],
+    "answer": "d. Autocratic leadership",
+    "explanation": "Autocratic leadership involves centralized decision-making, where the leader makes decisions independently and enforces strict rules without consulting team members."
+  },
+  {
+    "question": "In a team meeting, a manager consistently criticizes and blames team members for any errors or setbacks. They create a hostile and tense atmosphere, discouraging open communication and collaboration. Which of the following negative group roles is this manager demonstrating?",
+    "choices": [
+      "a. The aggressor",
+      "b. The blocker",
+      "c. The recognition-seeker",
+      "d. The self-confessor"
+    ],
+    "answer": "a. The aggressor",
+    "explanation": "The aggressor role involves criticizing or blaming others, often without justification, undermining team morale and creating a toxic atmosphere that stifles collaboration."
+  },
+  {
+    "question": "A 62-year-old woman presents to the emergency department with progressive jaundice, dark urine, and light-colored stools for the past 3 weeks. Her skin exhibits a yellowish discoloration, and multiple ecchymoses are noted on her arms and legs. She reports no abdominal pain but has experienced significant fatigue and weight loss. Her past medical history is significant for hypertension and hyperlipidemia, managed with medications. On physical examination, her sclerae are icteric, and her abdomen is soft with mild right upper quadrant tenderness. Laboratory studies reveal elevated total and direct bilirubin, alkaline phosphatase, and gamma-glutamyl transferase (GGT). Her prothrombin time (PT) and international normalized ratio (INR) are prolonged. Which blood component is MOST appropriate to administer before a planned biliary drainage procedure?",
+    "choices": [
+      "a. Whole blood",
+      "b. Fresh frozen plasma",
+      "c. Platelets",
+      "d. Packed red blood cells"
+    ],
+    "answer": "b. Fresh frozen plasma",
+    "explanation": "The patient has obstructive jaundice with prolonged PT/INR, indicating a coagulation defect due to vitamin K deficiency from impaired bile flow. FFP contains clotting factors that can rapidly correct coagulopathy."
+  },
+  {
+    "question": "A 43-year-old male presents to your office with several months history of progressive fatigue and occasional palpitations. He had three episodes of acute respiratory infections over the last year, otherwise, his past medical history is insignificant. He smokes two packs of cigarettes daily and consumes alcohol occasionally. He is not taking any medications and denies drug abuse. He has been sexually active with several partners recently. The physical examination is insignificant. CBC shows Hb 6.7 g/dL, RBC 2.3 million/cmm, WBC 5,900/cmm, Segmented neutrophils 60%, Bands 3%, Lymphocytes 30% and MCV 85fL. His HIV test results are negative. Which of the following is the best next step in the management of this patient?",
+    "choices": [
+      "a. ESR and serum C-reactive protein",
+      "b. Serum iron and TIBC",
+      "c. Reticulocyte count",
+      "d. Hemoglobin electrophoresis and Coombs' test"
+    ],
+    "answer": "c. Reticulocyte count",
+    "explanation": ""
+  },
+  {
+    "question": "A 3-day-old neonate is brought to the emergency department due to difficulty feeding and episodes of choking and coughing during breastfeeding. The mother reports excessive drooling. On examination, the infant is tachypneic and has mild intercostal retractions. Auscultation of the chest reveals a holosystolic murmur best heard at the left lower sternal border. The infant's oxygen saturation is 92% on room air. An orogastric tube has been placed for feeding. Which of the following is the MOST appropriate next diagnostic step?",
+    "choices": [
+      "a. Echocardiogram",
+      "b. Chest X-ray",
+      "c. Abdominal ultrasound",
+      "d. Head CT scan"
+    ],
+    "answer": "a. Echocardiogram",
+    "explanation": "Feeding difficulty, choking, and excessive drooling raise suspicion for tracheoesophageal fistula (TEF) or other congenital anomalies. Presence of a holosystolic murmur and desaturation indicates possible cardiac involvement, making an echocardiogram critical."
+  },
+  {
+    "question": "A 9-year-old boy presents to the clinic with a 3-day history of abdominal pain. The pain initially started in the periumbilical region but has become more diffuse over the past 24 hours. He has also developed fever, nausea, and anorexia. On physical examination, his temperature is 101°F (38.3°C), and his heart rate is 120 bpm. His abdomen is tender to palpation, with guarding and rebound tenderness in the right lower quadrant. What is the MOST likely diagnosis?",
+    "choices": [
+      "a. Gastroenteritis",
+      "b. Mesenteric adenitis",
+      "c. Appendicitis",
+      "d. Intussusception"
+    ],
+    "answer": "c. Appendicitis",
+    "explanation": "Appendicitis is the most common surgical emergency in children. The migration of pain and localized peritoneal irritation are hallmark findings."
+  },
+  {
+    "question": "A 55-year-old man presents to the clinic complaining of chest pain that occurs during exertion. He describes the pain as a squeezing sensation in the center of his chest, which radiates to his left arm. The pain is relieved by rest within a few minutes. He has a history of hypertension and hyperlipidemia, for which he takes medications. He is a smoker with a 20-pack-year history. Which of the following is the BEST initial diagnostic test for this patient?",
+    "choices": [
+      "a. Electrocardiogram (ECG)",
+      "b. Exercise stress test",
+      "c. Coronary angiography",
+      "d. Chest X-ray"
+    ],
+    "answer": "a. Electrocardiogram (ECG)",
+    "explanation": "ECG is the first-line test for patients with chest pain to rule out ischemic changes or arrhythmias. Resting ECG may show ST depression, T wave inversion, or be normal in stable angina."
+  },
+  {
+    "question": "A 78-year-old woman with a history of hypertension and coronary artery disease presents to the emergency department with palpitations and shortness of breath. She reports feeling her heart racing for the past several hours. On examination, her heart rate is 160 bpm and irregularly irregular. Her blood pressure is 100/60 mmHg. An ECG reveals atrial fibrillation with rapid ventricular response. Which of the following is the MOST appropriate initial treatment for this patient?",
+    "choices": [
+      "a. Amiodarone",
+      "b. Metoprolol",
+      "c. Digoxin",
+      "d. Electrical cardioversion"
+    ],
+    "answer": "b. Metoprolol",
+    "explanation": "Symptoms of palpitations and shortness of breath with tachycardia and an irregularly irregular rhythm indicate atrial fibrillation (AF). Beta-blockers (e.g., metoprolol) are first-line for rate control in hemodynamically stable patients."
+  },
+  {
+    "question": "A 14-year-old boy presents to his pediatrician with periorbital and lower extremity edema. His mother reports that his urine has been foamy for the past few weeks. He denies any recent infections or illnesses. On physical examination, he has significant pitting edema in his lower extremities and periorbital puffiness. Urinalysis reveals 4+ proteinuria and microscopic hematuria. Serum albumin is low. Which of the following is the MOST likely diagnosis?",
+    "choices": [
+      "a. Focal segmental glomerulosclerosis",
+      "b. Minimal change disease",
+      "c. Membranoproliferative glomerulonephritis",
+      "d. IgA nephropathy"
+    ],
+    "answer": "b. Minimal change disease",
+    "explanation": "Minimal Change Disease is the most common cause of nephrotic syndrome in this age group."
+  },
+  {
+    "question": "A 60-year-old man with type 2 diabetes mellitus is being managed with metformin and a sulfonylurea. His HbA1c is 7.5%. His lipid panel reveals an LDL cholesterol of 110 mg/dL, HDL cholesterol of 35 mg/dL, and triglycerides of 200 mg/dL. He has a history of hypertension and is a current smoker. Which of the following medications would be MOST beneficial in reducing his cardiovascular risk?",
+    "choices": [
+      "a. Ezetimibe",
+      "b. Fibrate",
+      "c. Statin",
+      "d. Bile acid sequestrant"
+    ],
+    "answer": "c. Statin",
+    "explanation": "Statins are first-line therapy for cardiovascular risk reduction in diabetics, irrespective of LDL level, due to their pleiotropic effects."
+  },
+  {
+    "question": "A 30-year-old man presents to the emergency department with high-grade fever, chills, and rigors. He recently returned from a trip to sub-Saharan Africa. He is lethargic and pale. Laboratory studies reveal a creatinine of 3.2 mg/dL, hemoglobin of 6 g/dL, and a positive blood smear for Plasmodium falciparum. Which of the following is the MOST appropriate treatment for this patient?",
+    "choices": [
+      "a. Oral atovaquone-proguanil",
+      "b. Intravenous artesunate",
+      "c. Oral chloroquine",
+      "d. Oral doxycycline"
+    ],
+    "answer": "b. Intravenous artesunate",
+    "explanation": "High-grade fever, chills, and rigors are malaria symptoms. Endemic travel history combined with signs of severe malaria means IV artesunate is the gold standard recommended by the WHO."
+  },
+  {
+    "question": "A 45-year-old woman presents with progressive shortness of breath on exertion and orthopnea. She reports a history of rheumatic fever as a child. On physical examination, a loud S1 and an opening snap followed by a low-pitched diastolic murmur are heard at the apex. An echocardiogram reveals an ejection fraction of 65%, a mitral valve area of 1.5 cm², and thickened mitral valve leaflets. What is the MOST likely diagnosis?",
+    "choices": [
+      "a. Mitral regurgitation",
+      "b. Mitral stenosis",
+      "c. Aortic stenosis",
+      "d. Tricuspid stenosis"
+    ],
+    "answer": "b. Mitral stenosis",
+    "explanation": ""
+  },
+  {
+    "question": "A 50-year-old woman who underwent laparoscopic cholecystectomy 3 days ago presents to the emergency department with severe epigastric pain radiating to the back. She also reports nausea and vomiting. On examination, her abdomen is tender to palpation in the epigastric region. Laboratory studies reveal elevated serum amylase and lipase levels, eight times the upper limit of normal. What is the MOST appropriate initial management for this patient?",
+    "choices": [
+      "a. Immediate surgical exploration",
+      "b. Endoscopic retrograde cholangiopancreatography (ERCP)",
+      "c. Conservative management with bowel rest, intravenous fluids, and analgesics",
+      "d. Administration of antibiotics"
+    ],
+    "answer": "c. Conservative management with bowel rest, intravenous fluids, and analgesics",
+    "explanation": "Gallstone-related biliary pancreatitis is a common cause of post-surgical acute pancreatitis. Initial management involves bowel rest, intravenous fluids and analgesics."
+  },
+  {
+    "question": "A 28-year-old man presents for routine medical evaluation. He reports no specific complaints but requests testing for sexually transmitted infections (STIs). He reports having multiple sexual partners. Testing reveals a positive HIV antibody test, confirmed by Western blot. His CD4 count is 450 cells/mm³ and his viral load is 50,000 copies/mL. Which of the following is the MOST appropriate first-line antiretroviral therapy (ART) regimen to initiate?",
+    "choices": [
+      "a. Two nucleoside reverse transcriptase inhibitors (NRTIs) plus a non-nucleoside reverse transcriptase inhibitor (NNRTI)",
+      "b. Two NRTIs plus a protease inhibitor (PI) boosted with ritonavir or cobicistat",
+      "c. Two NRTIs plus an integrase strand transfer inhibitor (INSTI)",
+      "d. A single-tablet regimen containing an INSTI, an NRTI, and a pharmacokinetic enhancer"
+    ],
+    "answer": "c. Two NRTIs plus an integrase strand transfer inhibitor (INSTI)",
+    "explanation": "First-line therapy for HIV involves combination antiretroviral therapy (ART), typically consisting of two NRTIs (backbone) and a third agent, usually an INSTI due to its potency, favorable side effect profile, and low resistance potential."
+  },
+  {
+    "question": "A 45-year-old woman presents with complaints of intermittent bloody stools for the past 6 months. She also reports increasing fatigue and weakness. She denies abdominal pain, weight loss, or changes in bowel habits. Physical examination, including digital rectal examination, is unremarkable. Which of the following is the MOST appropriate next investigation?",
+    "choices": [
+      "a. Flexible sigmoidoscopy",
+      "b. Colonoscopy",
+      "c. Abdominal CT scan",
+      "d. Stool culture"
+    ],
+    "answer": "b. Colonoscopy",
+    "explanation": "Colonoscopy evaluates the entire colon and rectum, which is necessary to identify potential causes of bleeding such as colorectal cancer, polyps, or angiodysplasia."
+  },
+  {
+    "question": "A 55-year-old man presents with persistent dyspepsia despite trying various over-the-counter and prescription medications, including proton pump inhibitors (PPIs) and H2 receptor antagonists. He reports epigastric burning and bloating, especially after meals. Stool H. pylori antigen test is negative. Which of the following is the MOST appropriate next step in management?",
+    "choices": [
+      "a. Trial of prokinetic agents",
+      "b. Upper endoscopy with biopsies",
+      "c. Abdominal ultrasound",
+      "d. Empiric treatment for *H. pylori*"
+    ],
+    "answer": "b. Upper endoscopy with biopsies",
+    "explanation": ""
+  },
+  {
+    "question": "There is an outbreak of acute watery diarrhea (AWD) in a community. The cumulative incidence is calculated to be 0.1 in one week. Which of the following is the correct interpretation of this finding?",
+    "choices": [
+      "a. There are 10 new cases per 100 people in one week.",
+      "b. There is 1 new case per 1000 people in one week.",
+      "c. There are 100 new cases per 1000 people in one week.",
+      "d. There is 1 new case per 100 people in one week."
+    ],
+    "answer": "a. There are 10 new cases per 100 people in one week.",
+    "explanation": "Cumulative Incidence is the proportion of an at-risk population that develops a new disease during a specified period. A value of 0.1 implies 10% of the population (or 10 out of 100 individuals) developed the condition within the specified period."
+  },
+  {
+    "question": "This question requires specific knowledge of the 1993 Ethiopian Health Policy. I cannot provide the specific details of the policy as it is a complex document with many facets. However, a typical USMLE-style question might ask about the core principles or focus areas of the policy. Which of the following was a key focus of the 1993 Ethiopian Health Policy?",
+    "choices": [
+      "a. Primarily focusing on tertiary care hospitals",
+      "b. Emphasis on primary health care and community participation",
+      "c. Centralized health system management",
+      "d. Exclusive reliance on private healthcare providers"
+    ],
+    "answer": "b. Emphasis on primary health care and community participation",
+    "explanation": "The policy was health-focused and equitable, aimed at addressing the health needs of the population through primary health care (PHC). It emphasized community involvement in planning and implementation to ensure sustainability."
+  },
+  {
+    "question": "A public health team is planning an intervention to reduce the incidence of a specific disease. They are currently in the stage of identifying the most at-risk groups and determining the best methods to reach them. Which of the following BEST describes this stage of the intervention planning process?",
+    "choices": [
+      "a. Setting strategies",
+      "b. Situation analysis",
+      "c. Implementation",
+      "d. Evaluation"
+    ],
+    "answer": "b. Situation analysis",
+    "explanation": ""
+  },
+  {
+    "question": "A 60-year-old man with a history of osteoarthritis presents with black tarry stools (melena) and coffee-ground emesis. He has been taking prednisone for several months for his arthritis. On physical examination, he has epigastric tenderness and guarding. Which of the following is the BEST initial diagnostic investigation?",
+    "choices": [
+      "a. Abdominal ultrasound",
+      "b. Upper endoscopy",
+      "c. Abdominal CT scan",
+      "d. Barium swallow study"
+    ],
+    "answer": "b. Upper endoscopy",
+    "explanation": "Black tarry stools (melena), Coffee-ground emesis indicates upper gastrointestinal (GI) bleeding. Prednisone use is associated with gastric mucosal injury, increasing the risk of peptic ulcer disease (PUD). Upper endoscopy can visualize the source of bleeding."
+  },
+  {
+    "question": "A 27-Year-old man has come with complaints of palpitation and exercise intolerance of three months duration. His investigation result shows Hgb level of 5.7mg/dl with MCV of 56fl and iron studies consistent with iron deficiency. The physician following this patient has decided to start him on Ferrous sulfate. What is the most appropriate duration of treatment in this case?",
+    "choices": [
+      "a. Six-twelve months after correction of Hgb",
+      "b. Total of six months",
+      "c. Three months after correction of Hgb",
+      "d. Total of three months"
+    ],
+    "answer": "a. Six-twelve months after correction of Hgb",
+    "explanation": "The main goal of treatment is to correct anemia and replenish iron stores. After hemoglobin levels normalize, iron supplementation should continue for 6–12 months to rebuild iron reserves in the bone marrow and tissues."
+  },
+  {
+    "question": "A group of researchers planned to assess the prevalence of depression and associated factors in an urban community comprising individuals who are able to read and write. A questionnaire containing sensitive questions was prepared in English and translated to local language. What is the most appropriate data collection tool for the above scenario?",
+    "choices": [
+      "a. Telephone interviewing",
+      "b. Self-administered questionnaire",
+      "c. Observation",
+      "d. Face to face interview"
+    ],
+    "answer": "b. Self-administered questionnaire",
+    "explanation": "The population is literate (able to read and write), making self-administration feasible. This method ensures anonymity, which is crucial for collecting accurate responses to sensitive questions."
+  },
+  {
+    "question": "A 22-year-old boy went to a health center for HIV/AIDS testing. The healthcare provider working at that health facility shared the test result to the boy's father without the knowledge of the client. What is the most likely ethical principle violated in this scenario?",
+    "choices": [
+      "a. Beneficence",
+      "b. Informed consent",
+      "c. Confidentiality",
+      "d. Fairness and justice"
+    ],
+    "answer": "c. Confidentiality",
+    "explanation": "Confidentiality involves protecting personal and sensitive information shared by a patient. It is a cornerstone of medical ethics and is essential for maintaining trust in the patient-provider relationship."
+  },
+  {
+    "question": "A nine-year-old male child was brought by his parents to a surgical emergency OPD with complaint of abdominal pain and anorexia of four days duration. The pain was initially periumbilical then it involves the whole abdomen. The patient also had high-grade intermittent fever. On physical examination, he was acutely sick looking, pulse rate was 128/min and respiratory rate was 82/min and temperature was 99.6 degree centigrade. The abdomen was tender and rigid. What is the most likely diagnosis?",
+    "choices": [
+      "a. Simple appendicitis",
+      "b. Mesenteric lymphadenitis",
+      "c. Perforated PUD",
+      "d. Perforated appendicitis"
+    ],
+    "answer": "d. Perforated appendicitis",
+    "explanation": "The child has clear signs of advanced intra-abdominal infection with peritonitis. The clinical presentation of appendicitis with delayed diagnosis fits the timeline for perforation (typically after 48 hours)."
+  },
+  {
+    "question": "A 62-year-old male patient, who was stabbed by the horn of an Ox on to his back, came to a clinic with a complaint of difficulty of moving his left leg. His bowl and bladder control is intact. On physical examination, vital signs are in normal range and on nervous system examination, the tone of left leg is increased, the power is zero on the left side and 5/5 on the right leg and sensation is lost on the right leg. What is the most likely diagnosis in this case?",
+    "choices": [
+      "a. Brown-Sequard syndrome",
+      "b. Anterior Cord syndrome",
+      "c. Cauda Equina syndrome",
+      "d. Central cord syndrome"
+    ],
+    "answer": "a. Brown-Sequard syndrome",
+    "explanation": "The combination of ipsilateral motor and proprioceptive loss with contralateral sensory loss strongly suggests Brown-Sequard syndrome (BSS)."
+  },
+  {
+    "question": "A 5-year-old boy is brought to the ED by his parents because of multiple episodes of bruising and petechiae over the past few days. The child appears well and has no significant past medical history. On examination, the child has scattered petechiae and ecchymoses, but no hepatosplenomegaly or lymphadenopathy. CBC reveals a platelet count of 6,000/μL. The rest of the CBC is within normal limits, and other cell lines are not affected. The clinical presentation and lab results suggest immune thrombocytopenia. What is the first step in management?",
+    "choices": [
+      "a. Administer corticosteroids",
+      "b. Transfuse platelets",
+      "c. Administer IVIG",
+      "d. Splenectomy"
+    ],
+    "answer": "c. Administer IVIG",
+    "explanation": "The classic presentation of ITP is a previously healthy 1-4 yr old child who has sudden onset of generalized petechiae and purpura. IVIG is often preferred for rapid elevation of platelet counts."
+  },
+  {
+    "question": "A 24-year-old woman in her first trimester of pregnancy presents to the clinic with a two-week history of severe nausea and vomiting. She reports being unable to keep food or liquids down and has lost 5% of her pre-pregnancy body weight. She denies abdominal pain, fever, or diarrhea. On examination, she appears dehydrated, and her urine dipstick test shows ketones +3.",
+    "choices": [
+      "a. Esophageal rupture",
+      "b. Wernicke's encephalopathy",
+      "c. Acute tubular necrosis",
+      "d. Preeclampsia"
+    ],
+    "answer": "b. Wernicke's encephalopathy",
+    "explanation": "Serious Maternal life threatening complications of HEG can include Wernicke's encephalopathy due to thiamine (vitamin B1) deficiency."
+  },
+  {
+    "question": "A 30-year-old male patient came to an OPD with compliant of productive cough, pleuritic chest pain and fever of six days duration. On examination, his blood pressure is 90/60mmHg respiratory rate is 28/min, temperature is 38.4 degree centigrade, and there is dullness and absent air entry on the left lower third of chest. Chest x-ray reveals left pleural effusion. Pleural fluid analysis shows LDH level of 800, glucose level of 80mg/dl, WBC count 15000/mm3, and gram-positive cocci in chains on gram stain. What is the most likely indication for insertion of chest tube in this case?",
+    "choices": [
+      "a. Pleural LDH level",
+      "b. Pleural gram stain result",
+      "c. Pleural WBC count",
+      "d. Pleural glucose level"
+    ],
+    "answer": "b. Pleural gram stain result",
+    "explanation": "Empyema diagnosis or Positive Gram stain (gram-positive cocci in chains) confirms infection in pleural space which is an indication for Chest Tube Insertion."
+  },
+  {
+    "question": "A significant number of prisoners visited a nearby hospital due to epidemic typhus and louse borne relapsing fever. The manager of the prison consulted health workers or the hospital to suggest sustainable solution besides diagnosis and treatment What is the most appropriate control mechanism of the disease in this case?",
+    "choices": [
+      "a. Cleaning the surrounding",
+      "b. Boiling cloths",
+      "c. Insecticide",
+      "d. Personal hygiene"
+    ],
+    "answer": "c. Insecticide",
+    "explanation": "Control Mechanisms are: Insecticide application (e.g., permethrin, malathion) is the most effective intervention for eliminating lice in large populations."
+  },
+  {
+    "question": "A manager of a Zonal Health Department involves her subordinates in decision making by consulting team members. She values group discussions and input from team members: she maximizes the members' strong points in order to obtain the best performance from the entire team. What is the most likely leadership style the manager applied to carry out her roles?",
+    "choices": [
+      "a. Free-rein",
+      "b. Laissez-faire",
+      "c. Autocratic",
+      "d. Participative"
+    ],
+    "answer": "d. Participative",
+    "explanation": "Participative (Democratic) leadership style involves collaboration and input from team members in decision-making. It values communication, teamwork, and the strengths of individual members."
+  },
+  {
+    "question": "A 45-year-old male patient came to an emergency department with a complaint of abdominal pain and coffee ground vomiting of three days duration. He used to take Prednisolone from nearby pharmacy for asthma without any prescription. On evaluation, his pulse rate was 108/min and blood pressure was 90/60mmHg. He had diffused abdominal tenderness-and rigidity. What is the most effective initial management for this patient?",
+    "choices": [
+      "a. Send him for erect chest x-ray",
+      "b. Fluid resuscitation, antibiotics and serum amylase",
+      "c. Fluid resuscitation and antibiotics",
+      "d. Fluid resuscitation, antibiotics and CT-scan"
+    ],
+    "answer": "b. Fluid resuscitation, antibiotics and serum amylase",
+    "explanation": "This presentation is suggestive of perforated peptic ulcer with peritonitis. Initial Management starts with fluid Resuscitation, Antibiotics and determine serum Amylase."
+  },
+  {
+    "question": "A mother claimed that her 24-hour-old neonate does not urinate. On examination, the neonate's bladder is palpable and has well-developed external genitalia. Ultrasound shows thickened bladder wall with bilateral hydronephrosis. There is no evidence of vesicoureteral reflux on voiding cystourethrogram. What is the most likely diagnosis?",
+    "choices": [
+      "a. Vesicoureteral reflux",
+      "b. Posterior urethral valve",
+      "c. PUJ obstruction",
+      "d. Multicystic dysplastic kidney"
+    ],
+    "answer": "b. Posterior urethral valve",
+    "explanation": "PUV is a congenital obstruction of the posterior urethra caused by abnormal membranous folds, leading to bladder outlet obstruction. Palpalble bladder and hydronephrosis strongly suggest bladder outlet obstruction."
+  },
+  {
+    "question": "A health center has planned to provide long-acting modern family planning services for 500 users in its annual operational plan. At the end of the year, the center assesses its performance and found that 510 women utilized the services. What is the most appropriate conclusion regarding the plan and the performance?",
+    "choices": [
+      "a. Effective and Efficient",
+      "b. Efficient and Equitable",
+      "c. Effective",
+      "d. Efficient"
+    ],
+    "answer": "a. Effective and Efficient",
+    "explanation": "The goal of the annual operational plan was to serve 500 users, and the center exceeded this target by providing services to 510 women. This indicates the plan was effective because it achieved its intended outcome. By exceeding the goal, the center demonstrated efficiency."
+  },
+  {
+    "question": "A manager of a Zonal Health Department annually gives orientation to the heads of district health offices on the main components of the 1993 health policy of the Transitional Government of Ethiopia and how to incorporate this policy areas to their strategic plan. What component of this health policy could be the focus area for the heads?",
+    "choices": [
+      "a. Give a special focus on the construction of new specialize hospitals",
+      "b. Provision of health care for the rural population for tree of charge",
+      "c. Focus on the development of curative ang ren alitatite health care",
+      "d. Promoting the participation of the private hector in service delivery"
+    ],
+    "answer": "d. Promoting the participation of the private hector in service delivery",
+    "explanation": "The policy emphasizes decentralization, expanding health services to rural areas, and encouraging private sector involvement to complement government efforts in delivering healthcare services."
+  },
+  {
+    "question": "A 72-year-old man came to a clinic with a swelling under his chin associated with fever and swallowing difficulty of three days duration. Physical examination showed a 3cm x 4 cm firm, tender and diffuse submandibular mass associated with limited capability of opening his mouth. What is the most likely microbe responsible for this patient's problem?",
+    "choices": [
+      "a. Polymicrobial",
+      "b. Aerobic",
+      "c. Gram-negatives",
+      "d. Anaerobes"
+    ],
+    "answer": "a. Polymicrobial",
+    "explanation": "This presentation suggests Ludwig's angina, a severe cellulitis of the submandibular and sublingual spaces. Ludwig's angina is almost always polymicrobial, involving a mix of anaerobic and aerobic bacteria."
+  },
+  {
+    "question": "A patient came to a hospital with four lower anterior teeth displaced lingually along with their socket. He gave a history of a fall down accident. However, radiograph investigation showed no root fracture. What is the most likely diagnosis to explain the finding?",
+    "choices": [
+      "a. Alveolar bone fracture",
+      "b. Avulsion",
+      "c. Subluxation",
+      "d. Ligament disruption"
+    ],
+    "answer": "c. Subluxation",
+    "explanation": "Subluxation is the loosening of a tooth due to injury, resulting in damage to the periodontal ligament but no displacement from the alveolus or socket fracture."
+  },
+  {
+    "question": "A 25-year-old male patient came to a medical OPD with complaints of shortness of breath, palpitation and generalized body swelling for two weeks. Evaluation result show, temperature 36.4°C, respiratory rate of 28/min, pulse rate of 98/min, and blood pressure of 100/60mmHg. There is a diastolic murmur at the apex. Echocardiography shows LVEF of 35 percent, MVA of 1.5 cm², mitral valve leaflets are shortened and thickened. What is the most likely underlying cause of this patient's illness?",
+    "choices": [
+      "a. Atherosclerosis",
+      "b. Rheumatic heart disease",
+      "c. Carcinoid tumor",
+      "d. Dilated cardiomyopathy"
+    ],
+    "answer": "b. Rheumatic heart disease",
+    "explanation": "The narrowed mitral valve area (1.5 cm²) with thickened and shortened leaflets strongly suggests mitral stenosis, which is a hallmark of chronic rheumatic heart disease (RHD)."
+  },
+  {
+    "question": "A primary hospital hired a new director about six months ago. He is upset by the fact that immediately after leaving the main office in the morning, nurses congregate at a local coffee house. He called the head nurse to his office and made it clear that this \"socializing during working hours\" must end. The nurse told the director that she believes that the nurses' informal conversations over morning coffee are vital to her unit's high performance. The director at all convinced and he is set in his opinion because he does not want the nurse to win over him. The head nurse accepted his decision and informed her colleagues to stop gathering in the coffee house. What is the most likely conflict management style used by the new director?",
+    "choices": [
+      "a. Collaboration",
+      "b. Compromise",
+      "c. Competition",
+      "d. Avoidance"
+    ],
+    "answer": "c. Competition",
+    "explanation": "Competition refers to an assertive and uncooperative approach to conflict resolution where one party prioritizes their own goals over others. The director disregards the head nurse's perspective and insists on enforcing the decision."
+  },
+  {
+    "question": "A community health team planned to give health education activities in a district. The team prioritizes different health problems based on whichever problems could be manageable with the available resources. What is the most likely criterion of problem prioritization used in the scenario?",
+    "choices": [
+      "a. Community concern",
+      "b. Severity",
+      "c. Magnitude",
+      "d. Feasibility"
+    ],
+    "answer": "d. Feasibility",
+    "explanation": "Feasibility refers to the practicality of addressing a problem given the available resources, including finances, personnel, materials, and infrastructure."
+  },
+  {
+    "question": "During supervision, a director of a new primary hospital identified that nurses working in an obstetrics and gynecology Ward usually did not use partograph during labor and delivery due to lack of adequate knowledge and skill to apply the instrument. The director decided to organize a five day on job training for all nurses in the hospital on how to use the instrument. At the end, a post assessment by the trainers on the knowledge and skill of using the instrument indicated that the training was effective. What is the most likely component of monitoring and evaluation assessed by the trainers in this case?",
+    "choices": [
+      "a. Output",
+      "b. Outcome",
+      "c. Impact",
+      "d. Process"
+    ],
+    "answer": "b. Outcome",
+    "explanation": "Outcome refers to the short- to medium-term effects of an intervention. In this case, the improvement in knowledge and skills among the nurses after the training reflects the direct result of the educational intervention."
+  },
+  {
+    "question": "A 60-year-old male patient, who is on his third postoperative day for colonic cancer, has developed abdominal pain and vomiting. The pain is at the epigastric area and it radiates to the back. Abdominal ultrasound shows thickened gall bladder wall and peri-cholecystic fluid collection but no gallstone. CBC shows WBC count of 19000cells/mm3. What is the most effective management for this patient?",
+    "choices": [
+      "a. Exploratory laparotomy and colostomy",
+      "b. Fluid resuscitation and IV antibiotic",
+      "c. IV antibiotics and immediate cholecystectomy",
+      "d. Exploratory laparotomy"
+    ],
+    "answer": "b. Fluid resuscitation and IV antibiotic",
+    "explanation": "The thickened gallbladder wall, peri-cholecystic fluid collection, and elevated WBC count in the absence of gallstones are classic findings of acalculous cholecystitis. Initial step of management is fluid resuscitation and IV antibiotics."
+  },
+  {
+    "question": "A young girl in a waiting room of a health center is spontaneously acting-out as a pregnant woman to feel the experience of being pregnant and teach others. What is the most likely method of education used in this scenario?",
+    "choices": [
+      "a. Demonstration",
+      "b. Fablea",
+      "c. Role-play",
+      "d. Drama"
+    ],
+    "answer": "c. Role-play",
+    "explanation": "Role-play is an educational method where participants act out scenarios or roles to understand or convey an experience, concept, or process."
+  },
+  {
+    "question": "A 27-year-old female patient came to a medical OPD with complaints of reddish discoloration of skin, which is exacerbated by exposure to sun light and arthralgia of two years duration. On examination, there is a slightly raised erythematous rash on her cheeks, chest and arms. Her hand joints are tender and swollen. A laboratory result shows Hgb level of 8.1g/dl, WBC count of 4.1X10,000/micro litter and platelet count of 126,000/micro litter. What is the most specific antibody associated with this disease?",
+    "choices": [
+      "a. Rheumatoid factor",
+      "b. Anti-dsDNA",
+      "c. Anti-Ro",
+      "d. Anti-histone"
+    ],
+    "answer": "b. Anti-dsDNA",
+    "explanation": "The clinical findings of photosensitivity, malar rash, and arthralgia along with anemia, leukopenia, and thrombocytopenia are strongly suggestive of SLE. Anti-dsDNA is highly specific for SLE."
+  },
+  {
+    "question": "A 57-year-old male patient came to a regular OPD with complaints of constipation and rectal bleeding. He is chronically sick looking and has pale conjunctiva. On per-rectal examination there is no fissure or hemorrhoid. What is the most appropriate diagnostic method in this patient's care?",
+    "choices": [
+      "a. Abdomino-pelvic US",
+      "b. Colonoscopy",
+      "c. Air-contrast enema",
+      "d. Fecal Occult blood test"
+    ],
+    "answer": "b. Colonoscopy",
+    "explanation": "Chronic constipation, rectal bleeding, and pallor suggest colorectal cancer or another lower gastrointestinal (GI) pathology. Colonoscopy is gold Standard for detecting and diagnosing colorectal cancer."
+  },
+  {
+    "question": "A 32-year-old male patient sustained road traffic accident after a car he was in rolled over many times. He was immediately brought to an emergency room and he was conscious and complaining right side flank pain and reddish discoloration of urine. What best investigation modality should be used to identify the cause of hematuria?",
+    "choices": [
+      "a. CT with IV contrast",
+      "b. Cystourethrogram",
+      "c. Abdominopelvic ultrasound",
+      "d. Plain abdominal X-ray"
+    ],
+    "answer": "a. CT with IV contrast",
+    "explanation": "Hematuria and flank pain following trauma are suggestive of renal or urinary tract injury. Contrast-enhanced CT of the abdomen and pelvis is the gold standard for assessing renal, ureteral, and bladder injuries."
+  },
+  {
+    "question": "In an area a significant number of pregnant mothers and children are found to be affected by micro-nutrient deficiency. As a long-term solution, people in the catchment area are encouraged to grow and consume various items f foods. What is most appropriate intervention applied in this scenario?",
+    "choices": [
+      "a. Fortification",
+      "b. Diversification",
+      "c. Supplementation",
+      "d. Modification"
+    ],
+    "answer": "b. Diversification",
+    "explanation": "Refers to encouraging the consumption of a variety of locally available foods to improve dietary quality and address micronutrient deficiencies sustainably."
+  },
+  {
+    "question": "A medical doctor planned to test the claim that the mean fasting blood sugar level of type II diabetic patients is 126 mg/dL. The doctor selected 36 diabetic patients randomly and their mean blood sugar level was found to 136 mg/dL with standard deviation of 9 mg/dL. The 95 percent CI for the population mean blood level was 138.94. What is the most appropriate conclusion based on the given evidences?",
+    "choices": [
+      "a. The population mean blood sugar level of diabetic patients was greater than 136 mg/dL",
+      "b. The population mean blood sugar level of diabetic patients was not 126 mg/dL",
+      "c. The population mean blood sugar level of diabetic patients was 136 mg/d",
+      "d. The population mean blood sugar level of diabetic patients was 126 mg/d"
+    ],
+    "answer": "b. The population mean blood sugar level of diabetic patients was not 126 mg/dL",
+    "explanation": "The provided 95% Confidence Interval (CI) does not include 126 mg/dL, suggesting that the population mean is statistically significantly different from 126 mg/dL at the 5% significance level."
+  },
+  {
+    "question": "A 65-year-old male patient came with abdominal pain of three days duration. Associated with this he had abdominal distention and failure to pass feces and flatus. His pulse rate was 120/min and respiratory rate was 32/min. Plain abdominal x-ray showed coffee bean appearance, with the convexity of the loop lying in the right upper quadrant. What is the most likely diagnosis?",
+    "choices": [
+      "a. Large bowel obstruction secondary to cecal volvulus",
+      "b. Large bowel obstruction secondary to sigmoid volvulus",
+      "c. Large bowel obstruction secondary to rectal cancer",
+      "d. Small bowel obstruction secondary to small bowel volvulus"
+    ],
+    "answer": "b. Large bowel obstruction secondary to sigmoid volvulus",
+    "explanation": "Coffee bean appearance is a hallmark radiographic sign of sigmoid volvulus. The two limbs of the dilated sigmoid colon create the characteristic shape."
+  },
+  {
+    "question": "A 24-year-old man, who was a known chronic liver disease patient taking Furosemide 80mg/d and Spironolactone 200mg/d, came to a follow up clinic with complaints of sleep disturbance and irritability of two weeks duration with recent altered mental status. On physical examination, he had confusion, ascites and asterixis. What is the most appropriate first step in the management of this patient?",
+    "choices": [
+      "a. Perform therapeutic ascitic tap",
+      "b. Empirically start on antibiotics",
+      "c. Start on Lactulose",
+      "d. Continue diuretics"
+    ],
+    "answer": "c. Start on Lactulose",
+    "explanation": ""
+  },
+  {
+    "question": "A ten-year-old boy came to an OPD with cough, fever, breathing difficulty and loss of appetite. He was given antibiotics and anti-pyretic. At home, he became agitated, crying and uncomfortable around family members. His mom became uncomfortable and decided to check on him thoroughly which she realized that while being treated in the clinic, there was inappropriate examination on his private parts. She reported to the medical director next day a and complained of inappropriate sexual harassment in the clinic. What must the medical director do to avoid such a scenario for next time?",
+    "choices": [
+      "a. Take administrative procedure to the attending officer though there is no proof for sexual harassment",
+      "b. Deny that the clinic has never done this kind of sexual harassment",
+      "c. Apologize to the mother for what has happened already and discuss with his staff.",
+      "d. The clinic has to develop a protocol, guideline and manual of handling minors."
+    ],
+    "answer": "d. The clinic has to develop a protocol, guideline and manual of handling minors.",
+    "explanation": "This case raises serious allegations of inappropriate conduct, which highlight the lack of a clear protocol for handling minors during clinical examinations. Developing protocols, guidelines, and manuals ensures protection of patients and adherence to ethical standards."
+  },
+  {
+    "question": "In which of the following cases is the individual's right to autonomy violated?",
+    "choices": [
+      "a. A Jehovah's witness patient with symptomatic anemia who refuses blood transfusion",
+      "b. An athlete who seeks a second opinion",
+      "c. An infant whose parents elect for surgery to correct a congenital heart defect"
+    ],
+    "answer": "c. An infant whose parents elect for surgery to correct a congenital heart defect",
+    "explanation": "Autonomy refers to an individual's right to be self-governing. Although the procedures may be in the best interests of the patient, if the patient refuses and this refusal is informed, then the doctor or relatives cannot coerce that person into having the procedure."
+  },
+  {
+    "question": "A 28-year-old female patient came to a regular surgical OPD with a complaint of intermittent vomiting of six months duration. The vomiting was large in volume and of ingested mater. She had also marked weight loss and on and off type of epigastric pain for the last three years. Physical examination showed significant malnutrition succession splash was positive. What is the most likely diagnosis for this patient?",
+    "choices": [
+      "a. GOO secondary to gastric cancer",
+      "b. GERD",
+      "c. GOO secondary Chronic PUD",
+      "d. Gastric Volvulus"
+    ],
+    "answer": "c. GOO secondary Chronic PUD",
+    "explanation": "GOO a condition where the gastric contents cannot pass through the pylorus into the duodenum. Chronic PUD the most common cause of GOO in this demographic, due to scarring and fibrosis from repeated ulcer healing."
+  },
+  {
+    "question": "A hospital director and a head of a pharmacy department are discussing to determine the quantity of medical supplies to be ordered. They list out constant and variable factors that influence order quantity. What is the most likely factor that makes the order quantity unreliable?",
+    "choices": [
+      "a. Supplier lead time",
+      "b. Storage capacity",
+      "c. Order frequency",
+      "d. Disease outbreaks"
+    ],
+    "answer": "a. Supplier lead time",
+    "explanation": "Supplier lead time: Refers to the time between placing an order and receiving it. Delays make accurate inventory planning challenging and lead to stockouts or overstocking, which can directly impact healthcare delivery."
+  },
+  {
+    "question": "A 22-year-old female patient came to a surgical OPD with a complaint of groin swelling of three days duration. On evaluation, there was 2x3cm globular mass just below the inguinal ligament. The mass bulges out while coughing What is the most likely diagnosis of this fencing",
+    "choices": [
+      "a. Hydrocele of the cord",
+      "b. Vaginal hydrocele",
+      "c. Inguinal hernia",
+      "d. Femoral hernia"
+    ],
+    "answer": "d. Femoral hernia",
+    "explanation": "Femoral hernia is common in women due to the wider pelvis. Anatomical location is below the inguinal ligament, where femoral structures pass. Bulging on coughing supports a hernia diagnosis."
+  },
+  {
+    "question": "A 25-year-old patient, who had sustained bullet injury to the abdomen, came to an emergency room lately. Physical examination revealed that he has blood pressure of 70/30mmHg pulse rate of 130/min, respiratory rate of 30/min and abdominal examination showed rigidity and diffused tenderness. Which organ is most likely injured in this case?",
+    "choices": [
+      "a. Liver",
+      "b. Spleen",
+      "c. Small bowl",
+      "d. Large bowl"
+    ],
+    "answer": "a. Liver",
+    "explanation": "Gunshot wounds to the abdomen are associated with damage to highly vascular organs. The liver is the largest intra-abdominal organ and is highly vascularized, making it the most commonly injured organ in penetrating trauma."
+  },
+  {
+    "question": "A 65-year-old construction worker who had sustained fall down injury from stairs, was diagnosed to have seven consecutive fractures on chest CT. What is the most appropriate approach for this patient?",
+    "choices": [
+      "a. Should be admitted to ICU",
+      "b. Surgical fixation is mandatory",
+      "c. Start deep breath exercise immediately",
+      "d. Treat as pulmonary contusion"
+    ],
+    "answer": "a. Should be admitted to ICU",
+    "explanation": "Flail chest is likely diagnosis with seven consecutive fractures, leading to paradoxical chest wall movement and potential respiratory failure. ICU admission is essential for close monitoring of respiratory function, oxygenation, and potential need for mechanical ventilation."
+  },
+  {
+    "question": "A 35-year-old female patient, who was on her 3rd postoperative day after near total thyroidectomy was done for the diagnosis of Graves's disease, has started to complain circumoral and fingertip numbness. Her physical examination reveals positive Trousseau's sign with carpopedal spasm. Laboratory result shows serum calcium level of 7 mg/dL What is the most appropriate next step to treat this patient?",
+    "choices": [
+      "a. Treat with Thyroxing",
+      "b. Treat with Oral calcium",
+      "c. Treat with IV Calcium gluconate",
+      "d. Reassure the patient that it will resolver"
+    ],
+    "answer": "c. Treat with IV Calcium gluconate",
+    "explanation": "Normal calcium: 8.5–10.2 mg/dL; this patient has severe hypocalcemia (<8 mg/dL). Post-thyroidectomy hypocalcemia is likely due to transient hypoparathyroidism, a common complication of thyroid surgery. Optimal Management with IV calcium gluconate rapidly correct of symptomatic hypocalcemia."
+  },
+  {
+    "question": "A 27-year-old male patient who is a known CKD secondary to chronic glomerulonephritis is on follow up. His laboratory result shows hemoglobin of 4.7mg/dl and MCV of 75mg/dl. After further work up with Transferrin saturation and serum EPO level, the physician started him on iron with epoiten Alfa. What is the most appropriate target hemoglobulin in this case?",
+    "choices": [
+      "a. 9-10.5g/dl",
+      "b. 10-11.5g/dl",
+      "c. 7-8g/d1",
+      "d. 8-9g/dl"
+    ],
+    "answer": "b. 10-11.5g/dl",
+    "explanation": "Caused by reduced erythropoietin production, compounded by iron deficiency and inflammation. KDIGO Improving Global Outcomes guidelines recommend maintaining hemoglobin between 10-11.5 g/dL to optimize outcomes."
+  },
+  {
+    "question": "A 50-year-old male patient, who had been smoking for the last 30 years, has come to a clinic with productive cough of blood tingled sputum since the last eight months. He has right side chest pain though he has no other complaint On examination, there is wheeze over right mid lung field. PA and lateral CXR show heterogeneous opacification at middle lobe of right lung. What is the most appropriate next step to diagnosis the case?",
+    "choices": [
+      "a. Chest CT-scan",
+      "b. Sputum gene exper",
+      "c. Bronchoscopy",
+      "d. Chest MRI"
+    ],
+    "answer": "a. Chest CT-scan",
+    "explanation": "The patient's age, long smoking history, and symptoms (hemoptysis, chest pain) are highly suspicious for malignancy. CXR abnormalities warrant further characterization. Chest CT should be the next step."
+  },
+  {
+    "question": "A 34-year-old male patient came to an OPD with complaints of diarrhea for the last six months for which he was treated with antibiotics but with no improvement. In the last month, he became irritable and developed rash around the mouth and perineum. On physical examination he has muscle wasting, and vesicle and pustular crusting with scaling around oral and anal area. What is the most likely deficient nutrient in this patient?",
+    "choices": [
+      "a. Vitamin C",
+      "b. Niacin",
+      "c. Zinc",
+      "d. Selenium"
+    ],
+    "answer": "c. Zinc",
+    "explanation": "The clinical scenario is consistent with zinc deficiency. Key features supporting this diagnosis. Chronic diarrhea can lead to zinc loss, compounding the deficiency. Periorificial and perineal dermatitis is a hallmark of acrodermatitis enteropathica, a condition related to zinc deficiency."
+  },
+  {
+    "question": "A 52-year-old patient was admitted to a COVID ICU ward. He was intubated and is using Oxygen. The oxygen and the tube must be checked regularly to avoid any complication. The attending ICU nurse was very busy with other patients where she did not make a visit to this patient. Unfortunately, the intubation was blocked with secretion and consequently, the Oxygen level dropped and the patient died to that effect. How should the head of ICU respond to this situation?",
+    "choices": [
+      "a. The head should inform the family about the cause of death and they will decide whether to take it to the legal process or not.",
+      "b. The situation is very sensitive, this could happen when many patients are admitted in an ICU. Hence, the head can bring the case rather in \"Death Audit\" period for his team.",
+      "c. The head should not disclose the incident; inform the family that the patient has died because of natural course of COVID.",
+      "d. The head should take administrative decision to the nurse, tell the family the patient has died and later discuss the case for others to learn from it"
+    ],
+    "answer": "b. The situation is very sensitive, this could happen when many patients are admitted in an ICU. Hence, the head can bring the case rather in \"Death Audit\" period for his team.",
+    "explanation": "Transparency: It is essential to disclose the facts to the family. Identifying the cause of the event (nurse being busy) can help improve future care delivery. The death audit allows the team to understand systemic gaps without targeting individuals, ensuring collective learning."
+  },
+  {
+    "question": "A surgeon wants to prepare surgical site of a patient who is on a table. He has given spinal anesthesia for herniorrhaphy, and has planned to apply strict measures to prevent surgical site infection. What is the most appropriate initial step to be applied by the surgeon?",
+    "choices": [
+      "a. Wear surgical glove",
+      "b. Shave the hair on surgical field",
+      "c. Wash the surgical field with Povidone iodine",
+      "d. Wash his hands with medicated soap"
+    ],
+    "answer": "d. Wash his hands with medicated soap",
+    "explanation": "Hand hygiene is the cornerstone of preventing surgical site infections (SSIs). It removes transient microorganisms and reduces the risk of contamination. This step is performed before any direct interaction with the patient or surgical field."
+  },
+  {
+    "question": "A 34-year-old male patient came to a surgical OPD with a complaint of protruding mass per rectum. The mass reduced by itself and toilet paper was stained with blood. What is the most likely diagnosis?",
+    "choices": [
+      "a. Fistula in ano",
+      "b. Hemorrhoid",
+      "c. Anal fissure",
+      "d. Perianal abscess"
+    ],
+    "answer": "b. Hemorrhoid",
+    "explanation": "The mass that reduces spontaneously is characteristic of second-degree internal hemorrhoids, which prolapse with straining but retract on their own. Bright red blood on toilet paper (painless bleeding) is typical of internal hemorrhoids."
+  },
+  {
+    "question": "A 75-year-old male patient was brought to a surgical regular OPD with a complaint of epigastric pain that radiates to the back of two days duration. He had some improvement while he was leaning forward. Previously, he had abdominal pain and he was told to have stones on his gall bladder but had no follow up for this condition. On evaluation, he had mild epigastric tenderness. His random blood glucose level was 300 mg/dl and WBC count was 20,000cells/mm3. Serum amylase and lipase was elevated 8 times each. What is the best management for this patient?",
+    "choices": [
+      "a. Admit to ICU for IV antibiotics then PO/NG tube feeding",
+      "b. Adequate resuscitation then keep him NPO for at least for 3 days",
+      "c. Keep him in the ward, IV antibiotics, then keep NPO for 3 days",
+      "d. Admit to ICU, keep him NPO for three days and IV antibiotics"
+    ],
+    "answer": "b. Adequate resuscitation then keep him NPO for at least for 3 days",
+    "explanation": ""
+  },
+  {
+    "question": "A 30-year-old male was brought to an emergency room after he sustained fall down accident from six-meter-high tree. He was in distress and physical examination revealed a blood pressure of 90/60 mmHg, pulse rate of 120/min. respiratory rate of 38/min, oxygen saturation of 80 percent and absent air entry over the entire right lung. Chest X ray showed the whole right-side haziness. What is the most likely diagnosis of this patient?",
+    "choices": [
+      "a. Tension pneumothorax",
+      "b. Hemothorax",
+      "c. Lung Contusion",
+      "d. Simple pneumothorax"
+    ],
+    "answer": "b. Hemothorax",
+    "explanation": "Trauma history fall from a height is a high-risk mechanism for thoracic injuries. Hypotension (90/60 mmHg) and tachycardia (120/min): Indicate hemorrhagic shock, which is consistent with massive blood loss into the thoracic cavity. Absent air entry over the right lung suggests fluid or air accumulation compressing the lung. Chest X-ray finding strongly suggests fluid accumulation (blood in hemothorax)."
+  },
+  {
+    "question": "A 19-year-old high school student with recent behavioral change has been brought to a medical OPD by his family. The student has unexplained daydreaming and a decline in school performance recognized by the teacher Evaluation result show, temperature of 36.7-degree centigrade respiratory rate of 20/min, pulse rate of 70/min, and blood pressure of 120/80mmHg. There is no other remarkable finding. Laboratory results show that: Hgb level da 12.6g/dl, WBC count of 8.8x10,000/micro litter and platelet count of 310,000/micro litter. Other biochemical tests are normal. What is the most likely diagnosis of the student?",
+    "choices": [
+      "a. Absence seizures",
+      "b. Syncope",
+      "c. Benign paroxysmal vertigo",
+      "d. Transient ischemic attack"
+    ],
+    "answer": "a. Absence seizures",
+    "explanation": "This patient has unexplained daydreaming episodes and a decline in school performance, both of which are hallmark features of absence seizures. Daydreaming behavior reflects episodes of loss of consciousness during seizures. An EEG is diagnostic, showing generalized 3 Hz spike-and-wave discharges during episodes."
+  },
+  {
+    "question": "A 45-year-old man presents to the emergency department with a severe headache, nausea, and vomiting. He has a history of ulcerative colitis and is on chronic steroid therapy. On examination, he has papilledema, focal neurologic deficits, and signs of increased intracranial pressure. What is the best imaging modality to confirm the diagnosis of sagittal sinus thrombosis in this patient?",
+    "choices": [
+      "a. MRI angiography",
+      "b. MRI venography",
+      "c. Brain CT with contrast",
+      "d. Brain CT without contrast"
+    ],
+    "answer": "b. MRI venography",
+    "explanation": "Sagittal sinus thrombosis is a rare condition that occurs when a blood clot forms in the superior sagittal sinus. The diagnosis is based on the imaging findings of a filling defect. The best imaging modality to confirm the diagnosis is MRI venography, which uses contrast-enhanced MRI to visualize the venous structures of the brain."
+  },
+  {
+    "question": "A 60-year-old woman with rheumatoid arthritis on NSAIDs for 2 years presents to the clinic with decreased urine output and elevated creatinine. She has no history of diabetes, hypertension, or kidney disease. She has normal blood pressure and no edema. Her urine analysis shows no protein, blood, or casts. What is the most likely mechanism of her renal impairment?",
+    "choices": [
+      "a. Tubular necrosis",
+      "b. Impaired renal autoregulation",
+      "c. Interstitial nephritis",
+      "d. Glomerulonephritis"
+    ],
+    "answer": "b. Impaired renal autoregulation",
+    "explanation": "NSAIDs are a class of drugs that inhibit the synthesis of prostaglandins, which are mediators of inflammation and pain. However, prostaglandins also play a role in maintaining renal blood flow and glomerular filtration rate. NSAIDs block this effect and impair the renal autoregulation, which leads to a decrease in renal blood flow and glomerular filtration rate."
+  },
+  {
+    "question": "A 50-year-old man with a history of alcohol abuse and hepatitis C infection presents to the emergency department with hematemesis and melena. He has a distended abdomen with shifting dullness and a positive fluid wave. He has spider angiomas, palmar erythema, and gynecomastia. He is confused and disoriented. His blood tests show anemia, thrombocytopenia, coagulopathy, and elevated liver enzymes. What is the most likely cause of his portal hypertension?",
+    "choices": [
+      "a. Cirrhosis",
+      "b. Portal vein thrombosis",
+      "c. Schistosomiasis",
+      "d. Budd-Chiari syndrome"
+    ],
+    "answer": "a. Cirrhosis",
+    "explanation": "Portal hypertension is an increase in the pressure in the portal vein, which drains blood from the gastrointestinal tract, spleen, pancreas, and gallbladder to the liver. The most common cause of portal hypertension is cirrhosis, which is scarring and fibrosis of the liver due to chronic liver injury."
+  },
+  {
+    "question": "A 55-year-old man with a history of alcohol abuse and hepatitis C infection presents to the clinic with abdominal distension, leg swelling, and shortness of breath. He has spider angiomas, palmar erythema, and gynecomastia on physical examination. His blood tests show anemia, thrombocytopenia, coagulopathy, and elevated liver enzymes. An abdominal ultrasound shows cirrhosis, portal hypertension, and ascites. How would you like to manage his cirrhotic ascites?",
+    "choices": [
+      "a. Dietary sodium restriction and oral diuretics",
+      "b. Large-volume paracentesis and intravenous albumin",
+      "c. Transjugular intrahepatic portosystemic shunt (TIPS)",
+      "d. Liver transplantation"
+    ],
+    "answer": "a. Dietary sodium restriction and oral diuretics",
+    "explanation": ""
+  }
+]

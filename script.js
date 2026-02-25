@@ -26,7 +26,8 @@ const loadQuizBtn = document.getElementById("load-quiz-btn");
 const bundledQuizzes = [
     { name: 'Exit Honey', file: 'questions/exit_honey.json' },
     { name: 'Exit 01', file: 'questions/exit_01.json' },
-    { name: 'Exit Feb', file: 'questions/exit_feb_1.json' }
+    { name: 'Exit Feb', file: 'questions/exit_feb_1.json' },
+    { name: 'Exit Jul', file: 'questions/exit_jul.json' }
     // Add more quizzes here if needed
 ];
 
