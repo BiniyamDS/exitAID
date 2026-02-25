@@ -17,19 +17,61 @@ const nextBtn = document.getElementById("next-btn");
 const quizScreen = document.getElementById("quiz-screen");
 const resultsScreen = document.getElementById("results-screen");
 
-// 1. FETCH THE DATA
-async function loadQuizData() {
+// New selection elements
+const selectionScreen = document.getElementById("selection-screen");
+const quizSelect = document.getElementById("quiz-select");
+const loadQuizBtn = document.getElementById("load-quiz-btn");
+
+// Bundled quizzes (add filenames that exist in the project)
+const bundledQuizzes = [
+    { name: 'Exit Honey', file: 'questions/exit_honey.json' },
+    { name: 'Exit 01', file: 'questions/exit_01.json' },
+    { name: 'Exit Feb', file: 'questions/exit_feb_1.json' }
+    // Add more quizzes here if needed
+];
+
+// Populate the selection dropdown
+function populateQuizOptions() {
+    quizSelect.innerHTML = '';
+    bundledQuizzes.forEach(q => {
+        const opt = document.createElement('option');
+        opt.value = q.file;
+        opt.innerText = q.name;
+        quizSelect.appendChild(opt);
+    });
+}
+
+// 1. FETCH THE DATA (accepts only a URL string)
+async function loadQuizData(source) {
     try {
-        const response = await fetch('exit_honey.json');
+        let data;
+
+        if (!source) throw new Error('No quiz source provided.');
+
+        const response = await fetch(source);
         if (!response.ok) throw new Error("Could not load questions.");
-        
-        quizData = await response.json();
+        data = await response.json();
+
+        // Basic validation
+        if (!Array.isArray(data) || data.length === 0) {
+            throw new Error('Quiz data is invalid or empty.');
+        }
+
+        quizData = data;
+        currentQuestionIndex = 0;
+        score = 0;
+        liveScore.innerText = score;
         userAnswers = new Array(quizData.length).fill(null);
-        
+
+        // Hide selection and show quiz
+        selectionScreen.style.display = 'none';
+        quizScreen.style.display = 'block';
+        resultsScreen.style.display = 'none';
+
         // Start the quiz once data is ready
         renderQuestion();
     } catch (error) {
-        questionText.innerText = "Error loading questions. Please ensure you are using a local server.";
+        questionText.innerText = "Error loading questions. Please ensure the JSON is valid and you are using a local server if loading bundled files.";
         console.error(error);
     }
 }
@@ -114,5 +156,16 @@ function reviewQuiz() {
     renderQuestion();
 }
 
-// Initial Call
-loadQuizData();
+// Wire up selection UI
+loadQuizBtn.addEventListener('click', () => {
+    const selected = quizSelect.value;
+    if (selected) loadQuizData(selected);
+});
+
+// Initial setup: populate options and show selection
+populateQuizOptions();
+selectionScreen.style.display = 'block';
+quizScreen.style.display = 'none';
+resultsScreen.style.display = 'none';
+
+// Note: do not auto-load a quiz on startup; user must choose one from the selection screen.

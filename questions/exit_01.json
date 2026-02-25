@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "A 35-year-old patient presents with gum bleeding upon slight touch. The bleeding has been persistent for 6 months. On examination, you notice mobile teeth, spacing between teeth, and plaque accumulation. The patient previously visited a local healthcare provider and was given antibiotics, but there was no improvement. What is the most appropriate management?",
+    "choices": [
+      "Observation",
+      "Continue antibiotics",
+      "Mouth wash",
+      "Refer to a specialist"
+    ],
+    "answer": "Refer to a specialist",
+    "explanation": "This is a chronic inflammatory disease affecting the gums and supporting structures. Referral to a specialist ensures comprehensive care, including possible deep cleaning and tailored periodontal maintenance, as previous antibiotic treatment did not lead to improvement."
+  },
+  {
+    "question": "A 45-year-old man frequently visits the clinic for peptic ulcer disease (PUD). He presents with a 1-day history of bloody vomiting. On physical examination, he's BP 100/60 mm Hg, PR 110/min, RR 25/min, and T° 36.8°C. Laboratory results show Hgb of 10g/dL. He was resuscitated. What is the next step in management?",
+    "choices": [
+      "Octreotide 50 mg IV bolus",
+      "Omeprazole 80 mg IV bolus",
+      "Blood transfusion",
+      "Ceftriaxone 1 g IV"
+    ],
+    "answer": "Omeprazole 80 mg IV bolus",
+    "explanation": "Given the presentation of acute upper GI bleeding from peptic ulcer disease, the most appropriate immediate step after resuscitation is Omeprazole 80 mg IV bolus loading dose to reduce gastric acid secretion and stabilize blood clots."
+  },
+  {
+    "question": "A 53-year-old man was hit on the head with a stick and lost consciousness immediately. On examination, his blood pressure is 180/100 mm Hg, pulse rate is 56 beats/minute and weak, and respiratory rate is 17 breaths/minute and irregular. He is restless, localizes to pain, moans, and opens his eyes to command. There is anisocoria. What is the appropriate treatment?",
+    "choices": [
+      "Haloperidol",
+      "Mannitol",
+      "Normal saline",
+      "Nifedipine"
+    ],
+    "answer": "Mannitol",
+    "explanation": "The patient presents with signs of increased intracranial pressure (Cushing's triad: hypertension, bradycardia, irregular respirations) and anisocoria following head trauma. Mannitol is an osmotic diuretic used to reduce intracranial pressure."
+  },
+  {
+    "question": "A physician and his colleague laughed at a patient's accent during rounds. What type of disrespectful care is this?",
+    "choices": [
+      "Non-conscience care",
+      "Discrimination",
+      "Non-dignified care",
+      "Abandonment"
+    ],
+    "answer": "Discrimination",
+    "explanation": "Discrimination involves treating someone unfairly or differently based on certain characteristics, such as race, ethnicity, gender, or accent. Laughing at the patient's accent during rounds could be considered discriminatory behavior."
+  },
+  {
+    "question": "A 17-year-old female patient presents with vaginal discharge lasting for 2 weeks. She denies any sexual contact. On further questioning, she admits to poor hygiene during menstruation. What is the likely cause of her symptoms?",
+    "choices": [
+      "Lymphogranuloma venereum",
+      "Syphilis",
+      "Bacterial vaginosis",
+      "Trichomonas vaginalis"
+    ],
+    "answer": "Bacterial vaginosis",
+    "explanation": "Bacterial vaginosis (BV) is caused by an imbalance of normal vaginal flora, often triggered by factors like poor hygiene during menstruation, which can disrupt the vaginal flora. The lack of sexual contact makes STIs unlikely."
+  },
+  {
+    "question": "A family arrives at the emergency department after a road traffic accident. The triage nurse just got done performing the primary survey. What is the next step in management?",
+    "choices": [
+      "Admit to the ICU",
+      "Exposure with environmental control",
+      "Disability assessment",
+      "Take an AMPLE history"
+    ],
+    "answer": "Take an AMPLE history",
+    "explanation": "Once the primary survey (ABCDE) is completed, the next step in the secondary survey involves obtaining a detailed patient history using the AMPLE mnemonic and performing a head-to-toe examination."
+  },
+  {
+    "question": "You want to estimate the proportion of patients who have depression among those admitted to the surgical ward. Which data collection tool would be most appropriate for this purpose?",
+    "choices": [
+      "Published survey",
+      "Questionnaire",
+      "Data extraction format",
+      "Observation checklist"
+    ],
+    "answer": "Questionnaire",
+    "explanation": "A questionnaire specifically designed to assess depression symptoms or history among surgical patients would be the most appropriate data collection tool to estimate the proportion of affected patients."
+  },
+  {
+    "question": "A 23-year-old patient with type 1 diabetes mellitus presents to the ED unresponsive. He had one episode of vomiting on the way. On physical examination, he is comatose, with a BP 90/60 mm Hg, HR 132 beats/min, RR 34 breaths/min (deep and fast), pH of 7.20, and HCO3 of 17 mEq/L. What is the most likely explanation for his condition?",
+    "choices": [
+      "Diabetic ketoacidosis (DKA)",
+      "Sepsis",
+      "Hyperosmolar hyperglycemic state (HHS)",
+      "Hypoglycemia"
+    ],
+    "answer": "Diabetic ketoacidosis (DKA)",
+    "explanation": "Diabetic ketoacidosis (DKA) is strongly suggested by hyperglycemia, ketosis, metabolic acidosis (low pH and low bicarbonate), Kussmaul respirations, tachycardia, and a history of type 1 diabetes."
+  },
+  {
+    "question": "A 70-year-old man is led into the ophthalmologist's room by his family members. He complains of progressive loss of vision in both eyes over the past 2 years. On examination, bilateral finger counting vision is noted, and both pupils are round and reactive with a whitish pupillary reflex bilaterally. What is the likely diagnosis?",
+    "choices": [
+      "Optic atrophy",
+      "Retinal tumor",
+      "Glaucoma",
+      "Cataract"
+    ],
+    "answer": "Cataract",
+    "explanation": "A cataract is a clouding of the lens commonly seen in older individuals causing progressive bilateral vision loss. The presence of a whitish pupillary reflex (leukocoria) is a hallmark sign of cataracts."
+  },
+  {
+    "question": "A 1-year-old toddler presents with sudden choking while playing. On physical examination, the child appears well, has a loud wheeze, and absent air entry on the right side of the lung. What is the appropriate next step for diagnosis?",
+    "choices": [
+      "Send for chest X-ray",
+      "Take a nasal culture swab",
+      "Trial with nebulized epinephrine",
+      "Do Chest CT"
+    ],
+    "answer": "Send for chest X-ray",
+    "explanation": "Sudden choking with a loud wheeze and unilateral absent air entry is highly suspicious for foreign body aspiration. Plain chest X-ray films are recommended first to look for radiopaque bodies or secondary signs like air trapping."
+  },
+  {
+    "question": "A 50-year-old patient presents with ulceration on the right leg of 6 months' duration. She sustained a burn injury on the same leg 2 years ago, which initially healed but later ulcerated again. On examination, there are hard and multiple lymph nodes in the right inguinal region. An irregular ulcer with central necrosis is noted on the lateral side of her right leg, surrounded by scar tissue. What is the most likely diagnosis?",
+    "choices": [
+      "Bourneville disease",
+      "Marjolin's ulcer",
+      "Actinic keratosis",
+      "Pyoderma gangrenosum"
+    ],
+    "answer": "Marjolin's ulcer",
+    "explanation": "Marjolin's ulcer is a type of squamous cell carcinoma that arises in previously traumatized or chronically inflamed skin, such as old burn scars, characteristically presenting with an irregular ulcer and regional lymphadenopathy."
+  },
+  {
+    "question": "A 30-year-old male presents to the emergency department with a stab wound to the abdomen. He is hemodynamically stable with a blood pressure of 120/80 mmHg and a heart rate of 85 beats per minute. The patient is conscious and alert, reporting mild abdominal pain but no other symptoms. A Focused Assessment with Sonography for Trauma (FAST) is performed and returns negative for free fluid in the abdomen. His initial hematocrit is within normal limits. The surgical team is consulted for further evaluation. What is the next best step in management?",
+    "choices": [
+      "Local wound exploration",
+      "CT scan of the abdomen with triple contrast",
+      "Observation for 6 hours",
+      "Emergent laparotomy"
+    ],
+    "answer": "CT scan of the abdomen with triple contrast",
+    "explanation": "Abdominopelvic CT with IV contrast is the noninvasive gold standard study for stable patients with penetrating abdominal trauma to evaluate for potential internal injuries that might not be apparent on initial FAST or physical examination."
+  },
+  {
+    "question": "A 1-year-old child is brought to the emergency department by his parents with a history of vomiting ingested matter for the past 24 hours. The parents report that the child has been unusually lethargic, sleeping more than usual, and refusing to eat. On physical examination, the child appears lethargic and has sunken eyeballs. His extremities are cool to the touch. Vital signs reveal a heart rate of 150 beats/min, respiratory rate of 40 breaths/min, and blood pressure of 70/40 mm Hg. Capillary refill time is prolonged at 4 seconds. What is the most likely diagnosis?",
+    "choices": [
+      "Obstructive shock",
+      "Hypovolemic shock",
+      "Child abuse",
+      "Sepsis"
+    ],
+    "answer": "Hypovolemic shock",
+    "explanation": "Hypovolemic shock occurs due to significant fluid loss, in this case from vomiting. Lethargy, sunken eyeballs, prolonged capillary refill, and cool extremities are classic indicators of severe dehydration leading to hypovolemic shock."
+  },
+  {
+    "question": "A 28-year-old man with a suprapubic catheter for 3 months following pelvic trauma from a car accident. He currently has no complaints, and the physical examination is normal. CBC and renal function tests are also normal. What is the next appropriate investigation for diagnosis?",
+    "choices": [
+      "KUB X-ray",
+      "CT-Scan",
+      "Cystourethrography",
+      "Intravenous pyelogram"
+    ],
+    "answer": "Cystourethrography",
+    "explanation": "Cystourethrography is specifically designed to visualize the bladder and urethra, making it the most appropriate investigation to assess for strictures, fistulas, leaks, and other abnormalities in a patient with a history of pelvic trauma and long-term catheter use."
+  },
+  {
+    "question": "A young patient presents to the dermatology unit with a complaint of an asymptomatic rash of 10 days' duration. The rash started after the patient took medication for an upper respiratory tract infection (URTI). On examination, there are reddish to skin-colored maculopapular lesions over the face, trunk, and proximal extremities. What is the most appropriate management?",
+    "choices": [
+      "Systemic antiviral",
+      "Anti-pruritics",
+      "Reassurance",
+      "Systemic steroids"
+    ],
+    "answer": "Reassurance",
+    "explanation": "Reassurance is appropriate for a drug-induced exanthema if the rash is asymptomatic and there are no signs of severe drug reactions. Drug-induced rashes are usually self-limiting and resolve once the offending medication is discontinued."
+  },
+  {
+    "question": "A 16-year-old male with a known history of epilepsy is brought to the emergency department by his parents. He was diagnosed with acute bacterial meningitis two days ago and is currently receiving appropriate antibiotic treatment. While in the ED, the physician witnesses the patient experiencing a generalized tonic-clonic seizure that lasts for 8 minutes. Despite the seizure, he has a postictal state characterized by confusion and lethargy that persists. What diagnosis best describes the patient's condition?",
+    "choices": [
+      "Non-epileptic seizure",
+      "Hysterical conversion",
+      "Unprovoked seizure",
+      "Status epilepticus"
+    ],
+    "answer": "Status epilepticus",
+    "explanation": "Status epilepticus is defined as a seizure lasting longer than 5 minutes or two or more seizures without full recovery of consciousness between them. This is a medical emergency requiring prompt treatment."
+  },
+  {
+    "question": "A 61-year-old retired man presents to his primary care physician with complaints of feeling persistently low and disinterested in almost all activities for the past month. He reports a poor appetite, significant fatigue, difficulty maintaining sleep, and feelings of hopelessness. He denies having any suicidal ideation. What is the likely diagnosis?",
+    "choices": [
+      "Dysthymia",
+      "Cyclothymia",
+      "Major depressive disorder",
+      "Persistent depressive disorder"
+    ],
+    "answer": "Major depressive disorder",
+    "explanation": "Major Depressive Disorder is characterized by a depressed mood, loss of interest/pleasure, weight/appetite changes, sleep disturbances, and fatigue, lasting nearly every day for at least 2 weeks. The patient's 1-month duration meets the criteria."
+  },
+  {
+    "question": "A 60-year-old patient presents to the clinic with frequent episodes of temporomandibular joint (TMJ) pain over the past few months. He describes that occasionally, after yawning, his mouth remains open and he is unable to close it for a short period of time. When his mouth does eventually close, he experiences significant pain. These episodes are becoming more frequent and are causing him considerable discomfort. On physical examination, there is tenderness over the TMJ region, but no signs of infection or inflammation. His range of motion is otherwise normal between episodes. What is the most likely diagnosis?",
+    "choices": [
+      "TMJ trismus",
+      "TMJ subluxation",
+      "Acute TMJ dislocation",
+      "TMJ ankylosis"
+    ],
+    "answer": "TMJ subluxation",
+    "explanation": "TMJ subluxation occurs when the joint partially dislocates and then returns to its normal position, causing a clicking/popping sensation and pain. The episodic, transient nature of the open mouth after yawning that resolves spontaneously points to subluxation rather than acute dislocation."
+  },
+  {
+    "question": "A 50-year-old patient presents with swelling on the floor of the mouth, associated with dysphagia and difficulty of speech. On physical examination, the submandibular lymph node is enlarged and tender. The floor of the mouth is raised, and the tongue is pushed superiorly. What is the appropriate initial step in management?",
+    "choices": [
+      "IV antibiotics",
+      "Hydration",
+      "Secure airway",
+      "Incision and drainage"
+    ],
+    "answer": "Secure airway",
+    "explanation": "With severe swelling on the floor of the mouth pushing the tongue superiorly (classic for Ludwig's angina), securing the airway is the most immediate, life-saving step, as airway compromise can rapidly occur."
+  },
+  {
+    "question": "A 67-year-old diabetic patient was admitted with a diagnosis of community-acquired pneumonia 2 days ago. Now he complains of worsening shortness of breath and fast breathing. His blood pressure is 130/80 mm Hg, heart rate is 113 beats/min, respiratory rate is 36 breaths/min, and oxygen saturation is 78%. A repeat chest X-ray shows bilateral patchy opacities. What is the likely diagnosis?",
+    "choices": [
+      "Pulmonary embolism",
+      "Septicemia",
+      "Acute respiratory distress syndrome",
+      "Hospital-acquired pneumonia"
+    ],
+    "answer": "Acute respiratory distress syndrome",
+    "explanation": "The rapid worsening of respiratory symptoms, hypoxemia, and new bilateral patchy opacities on chest X-ray in the setting of a recent infection (pneumonia) strongly point to Acute Respiratory Distress Syndrome (ARDS)."
+  },
+  {
+    "question": "A business owner calculates the average profit for their company and obtains a value of 11.9 birr. The 90% confidence interval (CI) for this average profit is (6.77, 15.42). Which conclusion is appropriate based on this information?",
+    "choices": [
+      "The business owner is 90% confident that the average profit is 11.9 birr.",
+      "The business owner is 10% confident that the average profit is 11.9 birr.",
+      "The business owner is 90% confident that the average profit lies between 6.77 and 15.43 birr.",
+      "The business owner is 10% confident that the average profit lies between 6.77 and 15.43 birr."
+    ],
+    "answer": "The business owner is 90% confident that the average profit lies between 6.77 and 15.43 birr.",
+    "explanation": "A 90% confidence interval means the business owner can be 90% confident that the true population average profit lies within the calculated range of 6.77 to 15.43 birr."
+  },
+  {
+    "question": "A 3100g healthy neonate is born with a cleft lip and palate. Her parents noticed the facial deformity shortly after birth. The cleft involves the upper lip and extends into the roof of her mouth. What is the initial step in management?",
+    "choices": [
+      "Emergency surgery and correction of the defect",
+      "Early intubation to protect the airway",
+      "Nursing the baby in a supine position",
+      "Counseling the mother on feeding the neonate"
+    ],
+    "answer": "Counseling the mother on feeding the neonate",
+    "explanation": "Surgical correction is not performed immediately. Infants with cleft lip/palate have difficulties feeding, so counseling the mother on proper feeding techniques and specialized bottles is the most crucial initial step to ensure adequate nutrition and avoid aspiration."
+  },
+  {
+    "question": "A 23-year-old patient presents with sore throat and difficulty swallowing. He reports symptoms lasting for 4 hours. On examination, there is limited mouth opening, deviation of the uvula to the right side, and bulging of the left anterior pillar. What is the most likely diagnosis?",
+    "choices": [
+      "Acute epiglottitis",
+      "Oropharyngeal diphtheria",
+      "Tetanus infection",
+      "Peritonsillar abscess"
+    ],
+    "answer": "Peritonsillar abscess",
+    "explanation": "Peritonsillar abscess (quinsy) presents with severe sore throat, dysphagia, trismus, an asymmetric tonsillar bulge, and deviation of the uvula away from the affected side (the left anterior pillar is bulging)."
+  },
+  {
+    "question": "A 34-year-old patient presents to the emergency department with a stab injury in the back. The injury site exhibits a small laceration with minimal bleeding on right side. Upon examination, the patient reports an inability to move the right upper extremity and numbness below the level of the injury. Additionally, there is loss of pain sensation and temperature on the left side. What is the most likely diagnosis?",
+    "choices": [
+      "Posterior cord syndrome",
+      "Brown-Séquard syndrome",
+      "Anterior cord syndrome",
+      "Central cord syndrome"
+    ],
+    "answer": "Brown-Séquard syndrome",
+    "explanation": "Brown-Séquard syndrome results from hemisection of the spinal cord (e.g., from a stab wound). It presents with ipsilateral motor paralysis and proprioception loss, alongside contralateral loss of pain and temperature sensation below the injury level."
+  },
+  {
+    "question": "A 30-year-old male patient is brought to the emergency department after being involved in a motor vehicle accident. He presents with a deep laceration extending from the lateral canthus of his right eye to the angle of his mandible. The patient is conscious and in significant pain. On physical examination, there is noticeable asymmetry of his facial expressions. Specifically, he is unable to close his right eye completely, has difficulty elevating the right side of his mouth, and shows weakness in the muscles of facial expression on the right side. There is no evidence of any other major trauma or injury. Which cranial nerve is most likely injured in this patient?",
+    "choices": [
+      "Oculomotor nerve (CN III)",
+      "Hypoglossal nerve (CN XII)",
+      "Trigeminal nerve (CN V)",
+      "Facial nerve (CN VII)"
+    ],
+    "answer": "Facial nerve (CN VII)",
+    "explanation": "Cranial Nerve VII (Facial nerve) provides motor innervation to the muscles of facial expression. Damage to its branches (e.g., from a laceration across the cheek/mandible) results in facial muscle weakness and inability to fully close the eye on the affected side."
+  },
+  {
+    "question": "A 2-hour-old neonate is recognized to have an abnormal anal opening on routine examination. The anal canal is anteriorly misplaced, with an opening just at the beginning of the scrotum. The perineal dimple and sacral bone are well developed. What is the most likely diagnosis?",
+    "choices": [
+      "Rectal atresia",
+      "Rectobladder neck fistula",
+      "Rectoperineal fistula",
+      "Rectourethral fistula"
+    ],
+    "answer": "Rectoperineal fistula",
+    "explanation": "An anteriorly misplaced anal opening on the perineum (near the scrotum) corresponds to an abnormal connection between the rectum and the perineum, known as a rectoperineal fistula."
+  },
+  {
+    "question": "A 3-year-old child is suspected of poisoning after presenting with bradycardia, excessive lacrimation, meiosis (pupil constriction), wheezing, and profound drooling. What is the best drug treatment in this case?",
+    "choices": [
+      "N-acetylcysteine",
+      "Atropine",
+      "Naloxone",
+      "100% oxygen"
+    ],
+    "answer": "Atropine",
+    "explanation": "The symptoms described (DUMBELS mnemonic) point to cholinergic toxicity (e.g., organophosphate poisoning). Atropine is a muscarinic receptor antagonist that reverses the excessive cholinergic stimulation."
+  },
+  {
+    "question": "A 22-year-old patient presents with urethral discharge and is started on syndromic management. However, when reevaluated on a check-up after one week, the patient still has discharge. What is the next step in management?",
+    "choices": [
+      "Assess the compliance for treatment",
+      "Treat him for M. genitalium and T. vaginalis",
+      "Retreat with the initial regimen",
+      "Declare drug resistance and refer"
+    ],
+    "answer": "Assess the compliance for treatment",
+    "explanation": "Before assuming treatment failure due to drug resistance or other pathogens, the very first step in a patient returning with persisting symptoms on syndromic management is to assess their compliance with the initial prescribed regimen."
+  },
+  {
+    "question": "A 23-year-old patient is brought by his strict religious father to the psychiatry ward for follow-up. The father asks the doctor to take his son to a holy place, but the doctor refuses and continues to provide medication. The next day, the father takes his son to the holy place and stops the medication. The patient's illness relapses. What is the reason affecting the patient's health outcome?",
+    "choices": [
+      "The doctor and patient's father working relationship",
+      "The doctor religious belief",
+      "The patient's family religious affliction",
+      "The patient and his father's relationship"
+    ],
+    "answer": "The doctor and patient's father working relationship",
+    "explanation": "The core issue is the breakdown in the therapeutic alliance and communication between the doctor and the father. A stronger doctor-patient/family relationship addressing religious concerns could have mitigated the father's unilateral decision to stop medication."
+  },
+  {
+    "question": "A 23-year-old patient presents with a 4-hour history of a stab injury to the back of the left chest. The patient is experiencing shortness of breath, pain at the site of injury, and has vital signs indicating BP 80/40 mmHg, HR 132 bpm, RR 38 bpm, and oxygen saturation SpO2 83%. Upon examination, there is no air entry on the affected side. A chest tube is inserted, and it drains 1500 ml of blood in the first few minutes. What is the most likely diagnosis?",
+    "choices": [
+      "Hemopneumothorax",
+      "Massive hemothorax",
+      "Sucking wound",
+      "Simple hemothorax"
+    ],
+    "answer": "Massive hemothorax",
+    "explanation": "A massive hemothorax is classically defined by the immediate drainage of more than 1500 ml of blood from the pleural cavity after chest tube insertion, accompanied by clinical signs of hemorrhagic shock."
+  },
+  {
+    "question": "A 34-year-old primigravida presents to the emergency department with altered mental status. Her gestational age is 36 weeks, and her antenatal care has been uneventful. Her GCS score is 9/15. Vital signs include BP 140/90 mm Hg, HR 101 bpm, RR 23 breaths/min, temperature 37°C, and oxygen saturation 88% on room air. Pupils are symmetric and react bilaterally. She can move all extremities. Fetal heart rate is positive. What is the most likely cause of her coma?",
+    "choices": [
+      "Cerebral malaria",
+      "Eclampsia",
+      "Stroke",
+      "Subdural hematoma"
+    ],
+    "answer": "Eclampsia",
+    "explanation": "In a pregnant woman at 36 weeks gestation presenting with altered mental status/coma and hypertension, eclampsia is the most likely cause. The lack of fever or focal neurological deficits makes cerebral malaria or stroke less likely."
+  },
+  {
+    "question": "A 2-year-old child is brought to the clinic by their mother with a complaint of inward deviation of the left eye. The mother also noticed a whitish glow at the center of the eye, which began approximately 3 months ago. On examination, the left eye is esodeviated, and there is a whitish pupillary light reflex. What is the most likely diagnosis?",
+    "choices": [
+      "Retinoblastoma",
+      "Corneal opacity",
+      "Cataract",
+      "Glaucoma"
+    ],
+    "answer": "Retinoblastoma",
+    "explanation": "Inward deviation of the eye (esotropia) combined with a whitish pupillary reflex (leukocoria) in a young child are hallmark presentations of retinoblastoma, a malignant tumor of the retina."
+  },
+  {
+    "question": "A 67-year-old patient with known diabetic and insulin use presents with a complaint of dull left-sided ear pain persisting for 1 week. Additionally, there is right-sided ear discharge and facial deviation to the left side over the past 3 days. On physical examination, there is tragal tenderness, a narrowed external auditory canal with granulation tissue. What is the most likely diagnosis?",
+    "choices": [
+      "Acute osteomastoiditis",
+      "Aural chondritis",
+      "Bullous myringitis",
+      "Malignant otitis externa"
+    ],
+    "answer": "Malignant otitis externa",
+    "explanation": "Malignant otitis externa typically presents in elderly diabetic patients with severe ear pain, discharge, granulation tissue in the ear canal, and possible cranial nerve involvement (like facial nerve palsy)."
+  },
+  {
+    "question": "A 35-year-old known HIV-positive patient with a CD4 count of 50 cells/microliter presents with symmetric pruritic papules over the distal extremities that spare the palms and soles. The lesions have been present for several months. What is the most likely diagnosis?",
+    "choices": [
+      "Eosinophilic folliculitis",
+      "Pruritic papular eruption",
+      "Norwegian scabies",
+      "Prurigonodularis"
+    ],
+    "answer": "Pruritic papular eruption",
+    "explanation": "Pruritic papular eruption (PPE) is common in advanced HIV (low CD4 counts) and presents as chronic, itchy papules symmetrically located on the extremities, often sparing the palms and soles."
+  },
+  {
+    "question": "A 58-year-old female patient presents with a complaint of irritation, dryness, and redness of both eyes lasting for 6 months. She has a history of repeated episodes of chalazia in both eyes. On lid examination, there is a thickened eyelid margin with dilated vessels and whitish crusting surrounding the lash base. What is the most likely diagnosis?",
+    "choices": [
+      "Blepharitis",
+      "Meibomian gland dysfunction",
+      "Keratitis",
+      "Keratoconjunctivitis"
+    ],
+    "answer": "Blepharitis",
+    "explanation": "Blepharitis is an inflammation of the eyelid margins characterized by irritation, redness, thickened eyelid margins with dilated vessels, and whitish crusting at the lash base, often predisposing to recurrent chalazia."
+  },
+  {
+    "question": "A 3-year-old child with a history of cough and fever presents for examination. On physical examination, the heart rate is 146 beats per minute, respiratory rate is 50 breaths per minute, temperature is 39 degrees Celsius, and weight is 15 kilograms. The child was given 300 milliliters of intravenous fluid over 40 minutes. What is the next step in management?",
+    "choices": [
+      "Initiate steroid",
+      "Repeat crystalloid",
+      "Start colloid",
+      "Start vasopressor"
+    ],
+    "answer": "Repeat crystalloid",
+    "explanation": "The child shows signs of tachycardia and tachypnea indicating persistent dehydration/shock. The appropriate initial management step after a first fluid bolus in a pediatric patient is to repeat the crystalloid fluid administration."
+  },
+  {
+    "question": "A 4-week-old neonate presents with a noisy breathing sound that has been present for 2 weeks. The noise worsens during breastfeeding and crying but is relieved when the baby sleeps in the prone position. There are no other pertinent historical findings. What is the most likely diagnosis?",
+    "choices": [
+      "Subglottic hemangioma",
+      "Laryngomalacia",
+      "Congenital vocal cord palsy",
+      "Choanal atresia"
+    ],
+    "answer": "Laryngomalacia",
+    "explanation": "Laryngomalacia presents as inspiratory stridor that worsens with feeding/crying and improves when the infant is placed in a prone position. It is the most common cause of chronic stridor in infants."
+  },
+  {
+    "question": "A 79-year-old woman presents with difficulty recalling recent events. She blames her grandchild for stealing items from her, but she can only remember her wedding day. Which of the following is the most likely diagnosis?",
+    "choices": [
+      "Aging",
+      "Delirium",
+      "Dementia",
+      "Behavior"
+    ],
+    "answer": "Dementia",
+    "explanation": "Significant recent memory impairment, unfounded accusations (paranoia), and preserved distant memory (wedding day) indicate a progressive cognitive disorder consistent with dementia rather than normal aging or acute delirium."
+  },
+  {
+    "question": "A 45-year-old patient presents to the emergency department with a sudden onset of severe headache associated with vomiting and severe eye pain. On examination, the anterior chamber pressure is measured to be 50 mmHg. What is the best initial management for this patient?",
+    "choices": [
+      "Metoclopramide",
+      "Diclofenac",
+      "Surgery",
+      "Acetazolamide"
+    ],
+    "answer": "Acetazolamide",
+    "explanation": "The patient has an acute angle-closure glaucoma attack characterized by extremely high intraocular pressure. IV Acetazolamide is a fast-acting carbonic anhydrase inhibitor used as the initial medical management to rapidly lower IOP."
+  },
+  {
+    "question": "A 4-month-old child presents with abdominal distention and failure to pass feces. The child did not pass meconium for 3 days after birth. On physical examination, the abdomen is distended and hypertympanic. A digital rectal examination reveals a \"blast sign.\" What is the gold standard diagnostic test for this condition?",
+    "choices": [
+      "Enema",
+      "X-ray",
+      "Rectal biopsy",
+      "Ultrasound (U/S)"
+    ],
+    "answer": "Rectal biopsy",
+    "explanation": "The presentation of delayed meconium passage, abdominal distension, and a \"blast sign\" upon rectal exam is highly suggestive of Hirschsprung's disease. The gold standard diagnostic test is a rectal suction biopsy to check for the absence of ganglion cells."
+  },
+  {
+    "question": "A 28-year-old man presents to the emergency department with a laceration on his scrotum. The wound is clean and not actively bleeding. What is the best initial management for wound care?",
+    "choices": [
+      "Povidone iodine",
+      "20% Alcohol",
+      "Iodine",
+      "Aldehyde"
+    ],
+    "answer": "Povidone iodine",
+    "explanation": "Povidone iodine is a broadly effective, well-tolerated antiseptic suitable for cleaning open wounds on the skin, reducing infection risk without causing the severe tissue irritation associated with alcohol or pure iodine."
+  },
+  {
+    "question": "A 24-year-old primigravida presents with clinical features consistent with hyperemesis gravidarum. Despite resuscitation and cessation of vomiting, her urine ketones remain elevated at +3. What is the most likely cause of persistent ketonuria in this patient?",
+    "choices": [
+      "Incorrect clinical diagnosis",
+      "Inadequate diet",
+      "Inadequate vitamin intake",
+      "Incorrect management"
+    ],
+    "answer": "Inadequate diet",
+    "explanation": "Persistent ketonuria after the cessation of vomiting in hyperemesis gravidarum is most commonly due to an ongoing inadequate caloric/carbohydrate diet, leading the body to continue burning fat and producing ketones."
+  },
+  {
+    "question": "What is the typical weight of a 1-year-old toddler?",
+    "choices": [
+      "10 kg",
+      "6 kg",
+      "15 kg",
+      "8 kg"
+    ],
+    "answer": "10 kg",
+    "explanation": "By the first birthday, a healthy infant's birth weight has typically tripled, making approximately 10 kg the average expected weight for a 1-year-old."
+  },
+  {
+    "question": "A 30-year-old man presents with an anterior neck swelling. On physical examination, the swelling is firm to hard, and a cervical lymph node is palpable. Histology reveals the characteristic \"orphan Annie eye\" appearance. What is the most likely diagnosis based on these findings?",
+    "choices": [
+      "Papillary carcinoma",
+      "Medullary carcinoma",
+      "Follicular carcinoma",
+      "Anaplastic carcinoma"
+    ],
+    "answer": "Papillary carcinoma",
+    "explanation": "Papillary thyroid carcinoma is the most common type of thyroid cancer and is classically characterized on histology by optically clear, empty-appearing nuclei known as \"Orphan Annie eye\" inclusions."
+  },
+  {
+    "question": "A 10-month-old infant presents with persistent physiologic jaundice since birth. On examination, the head circumference is larger than the body, and the infant exhibits poor appetite, sluggishness, cold and mottled skin, and a lack of interaction. What is the most likely diagnosis?",
+    "choices": [
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Congenital adrenal hyperplasia",
+      "Phenylketonuria"
+    ],
+    "answer": "Hypothyroidism",
+    "explanation": "Congenital hypothyroidism presents with persistent jaundice, delayed fontanelle closure (large head circumference), poor feeding, lethargy, and cold mottled skin due to insufficient thyroid hormones essential for growth."
+  },
+  {
+    "question": "A 16-year-old girl presents with vaginal bleeding after being raped one hour ago. On physical examination, there is a tear of the hymenal ring and a deep laceration of the posterior fornix. What is the most appropriate next step in management?",
+    "choices": [
+      "Repair the tear",
+      "Give her antibiotics",
+      "Give her post-pill prophylaxis",
+      "Inform for police"
+    ],
+    "answer": "Repair the tear",
+    "explanation": "Immediate surgical repair of the deep posterior fornix laceration is necessary to control acute bleeding and prevent life-threatening hemorrhagic shock. Medical and legal steps follow physical stabilization."
+  },
+  {
+    "question": "A 7-week-old infant presents to the clinic for a check-up after being born to an HIV-positive mother. Which test should be performed to assess the infant's HIV status?",
+    "choices": [
+      "DNA PCR",
+      "Antibody testing",
+      "P24 antigen test",
+      "Rapid tests"
+    ],
+    "answer": "DNA PCR",
+    "explanation": "Maternal HIV antibodies cross the placenta, rendering standard antibody tests inaccurate in infants under 18 months. An HIV DNA (or RNA) PCR test is the preferred diagnostic modality for infants exposed to HIV."
+  },
+  {
+    "question": "A 4-year-old child is brought to the clinic by their parents. The child plays alone, strongly reacts to tests and smells of food, avoids social interaction, and is less communicative. Physical examination reveals no abnormalities. What is the most likely diagnosis?",
+    "choices": [
+      "Autistic disorder",
+      "ADHD",
+      "Stereotypical disorder",
+      "Oppositional defiant disorder"
+    ],
+    "answer": "Autistic disorder",
+    "explanation": "Autism Spectrum Disorder (ASD) involves social communication challenges, playing alone, avoidance of social interaction, and strong reactivity to sensory stimuli (smells/textures)."
+  },
+  {
+    "question": "A 65-year-old patient presents to the emergency department with sudden-onset right-sided hemiparesis. His blood pressure is 230/110 mmHg. A CT scan confirms a hemorrhage in the left basal ganglia. The patient has no known history of hypertension. What is the most appropriate initial management for his blood pressure?",
+    "choices": [
+      "Labetalol",
+      "Nifedipine",
+      "HCT (hydrochlorothiazide)",
+      "Enalapril"
+    ],
+    "answer": "Labetalol",
+    "explanation": "In an acute hypertensive emergency with an intracerebral hemorrhage (BP > 220 mmHg), rapidly but controllably reducing BP is critical. Labetalol, an IV beta/alpha blocker, provides precise blood pressure control."
+  },
+  {
+    "question": "A 10-year-old patient with known history of chronic rheumatic valvular heart disease presents with shortness of Breath, easy fatigability and bilateral leg swelling. What is the drug of choice for secondary prophylaxis in this patient?",
+    "choices": [
+      "Benzathine penicillin every 4 weeks for 10 years or until age 21, whichever is longer",
+      "Benzathine penicillin every 4 weeks for 5 years or until age 18, whichever is longer",
+      "Oral penicillin twice daily for 10 years or until age 21, whichever is longer",
+      "Oral penicillin twice daily for 5 years or until age 18, whichever is longer"
+    ],
+    "answer": "Benzathine penicillin every 4 weeks for 10 years or until age 21, whichever is longer",
+    "explanation": "For patients with Rheumatic Heart Disease (carditis with residual valve disease), secondary prophylaxis involves Benzathine Penicillin G every 4 weeks. The recommended duration is 10 years after the last attack or until 21 years of age, whichever is longer."
+  },
+  {
+    "question": "A pregnant woman presents with a complaint of fever, chills, and rigors. All vital signs are within normal ranges, except for a temperature of 39°C. Laboratory testing confirms the presence of Plasmodium falciparum Infection. What is the most appropriate treatment for this patient?",
+    "choices": [
+      "Quinine",
+      "Artesunate",
+      "Artemether",
+      "Chloroquine"
+    ],
+    "answer": "Artesunate",
+    "explanation": "Artesunate-based combination therapies are the recommended first-line treatment for uncomplicated P. falciparum malaria in all trimesters of pregnancy due to their established safety and efficacy."
+  },
+  {
+    "question": "A 32 years old, G3, P2, known Diabetic on insulin with good blood sugar control. She had 3 ANC contact; all were uneventful. On 32-week of pregnancy she presents with a complaint of a gush of fluid 1hr duration and decreased fetal movement since then. Her second-trimester anatomical scan was normal, but upon examination, the baby is found to be in a transverse lie position, and fetal heart rate is negative. What is the most likely cause of fetal death in this case?",
+    "choices": [
+      "Cord prolapse",
+      "Congenital malformation",
+      "Abruptio placenta",
+      "Chorioamnionitis"
+    ],
+    "answer": "Cord prolapse",
+    "explanation": "A gush of fluid (ruptured membranes) combined with a transverse lie strongly predisposes to umbilical cord prolapse. The sudden decreased fetal movements and absent fetal heart rate point to acute asphyxia from a compressed cord."
+  },
+  {
+    "question": "A 62-year-old woman presents with a complaint of vaginal bleeding of 3 months duration. On physical examination she has non tender soft 14 wks size uterus. An ultrasound reveals a 2 intramural mass and an endometrial thickness of 9mm. What is the most likely cause of the vaginal bleeding in this patient?",
+    "choices": [
+      "Endometrial hyperplasia",
+      "Myoma",
+      "Cervical cancer",
+      "Endometrial polyp"
+    ],
+    "answer": "Endometrial hyperplasia",
+    "explanation": "In a postmenopausal woman, an endometrial thickness greater than 4-5 mm on ultrasound is highly suspicious for endometrial hyperplasia or malignancy, making it the most likely cause of her postmenopausal bleeding."
+  },
+  {
+    "question": "A patient presents with confirmed Plasmodium falciparum infection. On physical examination, their blood pressure is 70/50 mmHg, pulse rate is 112 beats per minute, respiratory rate is 26 breaths per minute, and temperature is 39.4°C. Laboratory results reveal a hemoglobin level of 10 g/dL, platelet count of 175,000/mm³, and a white blood cell count of 12,500/mm³. The patient appears prostrate. Which of the following combinations best represents the severity evidence in this case?",
+    "choices": [
+      "Low blood pressure with prostration",
+      "Low blood pressure, anemia, and prostration",
+      "Low blood pressure, anemia, and leukocytosis",
+      "High fever and thrombocytopenia"
+    ],
+    "answer": "Low blood pressure with prostration",
+    "explanation": "Severe malaria criteria include severe hypotension (shock) and prostration (inability to sit/stand). The patient has BP 70/50 and is prostrate. The hemoglobin (10 g/dL) does not meet the severe anemia threshold (<5 g/dL in adults)."
+  },
+  {
+    "question": "A primigravida presents with signs and symptoms of heart failure. An echocardiogram reveals a mitral valve measuring 1 cm and an ejection fraction of 45%. What is the most likely cause of her heart failure symptoms?",
+    "choices": [
+      "Mitral stenosis (MS)",
+      "Aortic stenosis (AS)",
+      "Aortic regurgitation (AR)",
+      "Mitral regurgitation (MR)"
+    ],
+    "answer": "Mitral stenosis (MS)",
+    "explanation": "A severely narrowed mitral valve orifice measuring 1 cm indicates Mitral Stenosis, which impedes blood flow from the left atrium to the left ventricle, causing back-pressure and symptoms of heart failure."
+  },
+  {
+    "question": "A baby is born from an HBsAg-positive mother. Twelve hours after delivery, the baby is given the hepatitis B vaccine and immunoglobulin. Which of the following confirm that the baby is immunized against hepatitis B?",
+    "choices": [
+      "Positive HBs antibody only",
+      "Positive HBsAg and positive HBs antibody",
+      "Positive HBsAg and negative HBs antibody",
+      "Negative HBsAg and positive HBs antibody"
+    ],
+    "answer": "Negative HBsAg and positive HBs antibody",
+    "explanation": "Immunity to Hepatitis B due to successful vaccination (or resolved infection) is demonstrated by the presence of Hepatitis B surface antibodies (Anti-HBs) and the absence of Hepatitis B surface antigen (HBsAg)."
+  },
+  {
+    "question": "A 32-year-old pregnant woman, G2P1, presents at 30 weeks gestation with complaints of nasal congestion and occasional shortness of breath. She also reports having a runny nose and sneezing episodes. On examination, her nose appears erythematous, and she has clear nasal discharge. She denies fever, cough, or chest pain. What is the most likely cause of her symptoms?",
+    "choices": [
+      "Engorgement of the nasopharynx",
+      "Pulmonary edema",
+      "Pneumonia",
+      "Pulmonary embolism"
+    ],
+    "answer": "Engorgement of the nasopharynx",
+    "explanation": "Pregnancy-induced hormonal changes lead to increased blood flow, causing engorgement and edema of the nasal mucosa, presenting as pregnancy rhinitis with nasal congestion and clear discharge."
+  },
+  {
+    "question": "A 42-year-old woman presents to the emergency department with a one-day history of severe colicky right upper quadrant pain. The pain radiates to her right shoulder and is associated with nausea and vomiting. On physical examination, she appears uncomfortable and is tender to palpation in the RUQ. Laboratory tests show an elevated white blood cell count. An ultrasound reveals a 10 mm dilated gallbladder with no evidence of gallstones or other abnormalities. What is the most appropriate management for this patient?",
+    "choices": [
+      "Maintenance fluid, IV antibiotics, analgesia, laparoscopy",
+      "Maintenance fluid, IV antibiotics, analgesia",
+      "Laparoscopy after 6 weeks",
+      "Observation and symptomatic management"
+    ],
+    "answer": "Maintenance fluid, IV antibiotics, analgesia, laparoscopy",
+    "explanation": "The patient presents with signs of acute acalculous cholecystitis. Initial management includes IV fluids, broad-spectrum antibiotics, and analgesics, followed by early cholecystectomy (laparoscopy) as the definitive treatment."
+  },
+  {
+    "question": "A 25-year-old man presents to the emergency department after falling from a tree and sustaining an injury to his right leg. Instead of seeking immediate medical attention, he sought treatment from a traditional healer who applied a bamboo splint to his leg. The patient now presents with significant pain when moving his leg and a noticeable decrease in distal pulse relative to his other leg. What is the most appropriate management for this patient?",
+    "choices": [
+      "Fasciotomy",
+      "Analgesia",
+      "Observation and reassurance",
+      "Immediate removal of the bamboo splints"
+    ],
+    "answer": "Immediate removal of the bamboo splints",
+    "explanation": "The tight bamboo splints are likely causing an external compartment syndrome. The immediate first step is the complete removal of any constricting casts, splints, or dressings to alleviate pressure and restore circulation."
+  },
+  {
+    "question": "A 32-year-old patient presents to the emergency department with a sudden onset of episodic high-grade fever, petechial rash that starts on the wrists and ankles and spreads centrally, tachycardia (heart rate of 110 beats per minute), tachypnea (respiratory rate of 25 breaths per minute), and a temperature of 39°C. On examination, the patient's spleen is enlarged to 3 cm below the costal margin. Laboratory results show a platelet count of 50,000/mm³ and a serum creatinine level of 1.2 mg/dL. Based on these findings, what is the most likely diagnosis for this patient?",
+    "choices": [
+      "Typhoid fever",
+      "Typhus fever",
+      "Rickettsial fever",
+      "Scarlet fever"
+    ],
+    "answer": "Rickettsial fever",
+    "explanation": "The classic presentation of a petechial rash starting on the wrists and ankles and spreading centrally, combined with high fever, splenomegaly, and thrombocytopenia, is highly characteristic of Rickettsial infections (like Rocky Mountain Spotted Fever)."
+  },
+  {
+    "question": "A 55-year-old patient presents with shortness of breath and fever. On physical examination, there is decreased air entry, dullness to percussion, and increased tactile fremitus. What is the most likely cause of these findings?",
+    "choices": [
+      "Consolidation",
+      "Lung mass",
+      "Pleural effusion",
+      "Pulmonary edema"
+    ],
+    "answer": "Consolidation",
+    "explanation": "Increased tactile fremitus combined with dullness to percussion and decreased air entry are the hallmark physical examination findings of lung consolidation, typically seen in lobar pneumonia."
+  },
+  {
+    "question": "A 32-year-old male presents to the emergency department with complaints of severe headache, fever, and altered mental status for the past week. On examination, he is found to have neck stiffness and positive Kernig's sign. Lumbar puncture reveals elevated protein levels and decreased glucose levels in the cerebrospinal fluid, along with numerous acid-fast bacilli on staining. A diagnosis of tuberculous meningitis is suspected. Which of the following is the most appropriate duration of anti-tuberculosis treatment for this patient?",
+    "choices": [
+      "2(RHIZ), 8(RI)",
+      "2(RHIZ), 6(RI)",
+      "2(RHIZ), 4(RI)",
+      "2(RHIZ), 10(RI)"
+    ],
+    "answer": "2(RHIZ), 10(RI)",
+    "explanation": "Guidelines for Tuberculous Meningitis recommend an intensive phase of 2 months of Rifampicin, Isoniazid, Pyrazinamide, and Ethambutol, followed by a prolonged continuation phase of 10 months of Rifampicin and Isoniazid (total 12 months) to ensure CNS penetration."
+  },
+  {
+    "question": "A 4-year-old child presents to the pediatric clinic with a 2-week history of a severe cough. The cough is paroxysmal in nature, with episodes of rapid coughing followed by a high-pitched \"whoop\" sound. The child's parents report that the episodes often cause vomiting. The child has not been fully immunized, with the last vaccination occurring over a year ago. On examination, the child appears fatigued but is in no acute distress. Vital signs are within normal limits, and physical examination is unremarkable except for mild nasal congestion. What is the most appropriate antibiotic for the treatment of this child's condition?",
+    "choices": [
+      "Azithromycin",
+      "Amoxicillin",
+      "Co-trimoxazole",
+      "Ceftriaxone"
+    ],
+    "answer": "Azithromycin",
+    "explanation": "The clinical presentation is classic for pertussis (whooping cough). Macrolides, such as Azithromycin, are the preferred first-line antibiotics to eradicate Bordetella pertussis and reduce transmission."
+  },
+  {
+    "question": "A 30-year-old pregnant woman in her third trimester presents to the clinic with complaints of persistent dyspepsia, characterized by a burning sensation in the chest and upper abdomen, especially after meals. She denies any previous history of gastrointestinal disorders and reports that the symptoms have progressively worsened during her pregnancy. She has been managing with dietary changes and antacids, but the relief is temporary. On physical examination, she appears well, and there are no signs of acute distress. What is the most likely cause of her dyspepsia?",
+    "choices": [
+      "Progesterone",
+      "Prostaglandin",
+      "Gastrin",
+      "Increased intra-abdominal pressure"
+    ],
+    "answer": "Progesterone",
+    "explanation": "Elevated progesterone during pregnancy causes relaxation of smooth muscles, including the lower esophageal sphincter, leading to gastroesophageal reflux and symptoms of dyspepsia."
+  },
+  {
+    "question": "A 35-year-old pregnant woman, gravida 3 para 2, at 38 weeks of gestation, presents to the labor and delivery unit in active labor. She has a history of gestational diabetes mellitus and a previous stillbirth at 36 weeks. Ultrasound today estimates the fetal weight to be approximately 4 kg. Her cervix is 3 cm dilated, 80% effaced, and the fetal head is at -2 station. The patient expresses concern about the safety of her baby due to her previous stillbirth. What is the most appropriate management for this patient?",
+    "choices": [
+      "Emergency cesarean section",
+      "Induction and augmentation of labor",
+      "Observe labor progress",
+      "Planned cesarean section"
+    ],
+    "answer": "Emergency cesarean section",
+    "explanation": "Given the combination of suspected fetal macrosomia (est. 4 kg), active labor, maternal gestational diabetes, and a poor obstetric history of previous stillbirth, an emergency cesarean section is indicated to prevent severe complications like shoulder dystocia."
+  },
+  {
+    "question": "A 1-year-old child is brought to the pediatric clinic by his parents who are concerned about his delayed growth and recent difficulty in walking. They report that he has been exclusively breastfed and has not been given any vitamin supplements. On examination, the child shows signs of bowing of the legs and a prominent forehead. Blood tests reveal low serum calcium, low phosphate levels, and elevated alkaline phosphatase. X-rays of the wrists and knees show cupping and fraying of the metaphysis. What is the most appropriate management for this child?",
+    "choices": [
+      "Vitamin D2",
+      "Vitamin D3",
+      "Vitamin D2 with calcium and phosphate",
+      "Vitamin D3 with calcium and phosphate"
+    ],
+    "answer": "Vitamin D3 with calcium and phosphate",
+    "explanation": "The child presents with nutritional rickets (bowing of legs, un-supplemented breastfeeding, cupping of metaphyses). Management includes supplementing Vitamin D3 (cholecalciferol) combined with calcium and phosphate to actively remineralize the bone."
+  },
+  {
+    "question": "A 70-year-old male patient presents to the geriatric clinic with complaints of progressive memory loss over the past several months. According to the patient's family, he has been experiencing increasing forgetfulness, difficulty recalling recent events, and frequently misplacing items around the house. Additionally, they note that he seems more withdrawn and disoriented lately, often repeating questions and struggling to follow conversations. The patient's family expresses concern about his declining cognitive function and its impact on his daily activities. What is the most likely diagnosis?",
+    "choices": [
+      "Delirium",
+      "Delusion",
+      "Dementia",
+      "Depression"
+    ],
+    "answer": "Dementia",
+    "explanation": "A slow, progressive decline in cognitive functions (memory, executive function) that is severe enough to interfere with daily activities over months points to Dementia, distinguishing it from the acute, fluctuating nature of delirium."
+  },
+  {
+    "question": "A 40-year-old HIV-positive patient presents to the clinic with complaints of mucocutaneous bleeding, including easy bruising and bleeding gums, as well as symptoms of anemia such as fatigue and shortness of breath. The patient has been on antiretroviral therapy consisting of lamivudine (3TC), tenofovir disoproxil fumarate (TDF), and nevirapine (NVP) for the past 6 months. Laboratory tests reveal a hemoglobin level of 8 g/dL, a low platelet count of 30,000/μL, and elevated liver enzymes. What is the most appropriate management for this patient?",
+    "choices": [
+      "Change NVP to efavirenz (EFV)",
+      "Stop all antiretroviral therapy",
+      "Change the entire antiretroviral regimen",
+      "Add corticosteroids to the current regime"
+    ],
+    "answer": "Change the entire antiretroviral regimen",
+    "explanation": "The patient has severe drug-induced hematotoxicity (anemia, thrombocytopenia) and hepatotoxicity. Such extensive, life-threatening multi-lineage side effects typically warrant changing the entire ART regimen rather than just a single drug substitution."
+  },
+  {
+    "question": "A 45-year-old patient presents to the emergency department with severe back pain that radiates down the left leg for the past 3months. The pain is described as electric shock-like and is exacerbated when the patient attempts to move forward or stand up from a seated position. On physical examination, there is tenderness over the lumbar spine, and straight leg raising test is positive on the left side. Neurological examination reveals decreased sensation and weakness in the left leg consistent with a lumbar disc prolapse. What is the most appropriate immediate management for this patient?",
+    "choices": [
+      "Dexamethasone",
+      "Surgery",
+      "Bed rest and analgesics",
+      "Physical therapy"
+    ],
+    "answer": "Surgery",
+    "explanation": "While simple sciatica is treated conservatively, the presence of progressive motor deficits (weakness) and pain persisting beyond conservative timeframes (>6-8 weeks, here it's 3 months) implies neurological compromise, making surgery (microdiscectomy) the indicated management."
+  },
+  {
+    "question": "A 30-year-old patient from a certain geographical area presents to the clinic with complaints of fever, weight loss, and hepato-splenomegaly. The patient reports experiencing intermittent fevers and night sweats for the past few months, along with fatigue and decreased appetite. Physical examination reveals palpable liver and spleen enlargement. Microscopic examination of a bone marrow aspirate reveals the presence of amastigotes. What is the most appropriate management for this patient?",
+    "choices": [
+      "Sodium stibogluconate + paromomycin",
+      "Amphotericin B",
+      "Itraconazole",
+      "Miltefosine + Amphotericin B"
+    ],
+    "answer": "Sodium stibogluconate + paromomycin",
+    "explanation": "The presence of amastigotes in the bone marrow confirms Visceral Leishmaniasis (Kala-azar). Combination therapy with Sodium stibogluconate and paromomycin is a highly effective, recommended first-line treatment to reduce the parasite burden."
+  },
+  {
+    "question": "A 35-year-old patient presents to the clinic with complaints of facial pain and swelling that worsen when leaning forward. The patient also reports a history of runny nose and sneezing for the past week. On physical examination, there is tenderness over the maxillary sinuses, and percussion of the sinuses elicits pain. Nasal endoscopy reveals purulent discharge in the nasal passages. What is the most appropriate management for this patient?",
+    "choices": [
+      "Amoxicillin-clavulanate",
+      "Azithromycin",
+      "Amoxicillin with metronidazole",
+      "Nasal decongestants and analgesics"
+    ],
+    "answer": "Amoxicillin-clavulanate",
+    "explanation": "The patient has signs of acute bacterial rhinosinusitis. Amoxicillin-clavulanate is the appropriate first-line antibiotic treatment, addressing common causative pathogens like Streptococcus pneumoniae and Haemophilus influenzae."
+  },
+  {
+    "question": "A 16-year-old patient presents to the emergency department with vaginal bleeding. She reports having attempted a self-induced abortion two weeks ago using medication obtained online. On examination, her vital signs are within normal limits. Pelvic ultrasound reveals an echogenic mass measuring 2x3 cm within the uterine cavity. What is the most likely cause of the patient's presentation?",
+    "choices": [
+      "Retained conception",
+      "Myoma",
+      "Endometrial hyperplasia",
+      "Pelvic inflammatory disease (PID)"
+    ],
+    "answer": "Retained conception",
+    "explanation": "A history of a self-induced medical abortion followed by continued bleeding and an echogenic mass within the uterine cavity strongly suggests retained products of conception (incomplete abortion)."
+  },
+  {
+    "question": "A 68-year-old male with a known history of CHF presents to the emergency department with complaints of worsening shortness of breath, fatigue, and episodes of palpitations over the past few days. He also reports experiencing increased swelling in his legs and a reduced ability to perform daily activities. On examination, his heart rate is 132 beats per minute and irregular, and he has elevated JVP, bilateral crackles on lung auscultation, and pitting edema in both legs. An ECG is performed and shows an irregularly irregular rhythm without distinct P waves. What is the most likely cause of his symptoms?",
+    "choices": [
+      "Worsening of baseline CHF",
+      "Acute myocardial infarction",
+      "Pulmonary embolism",
+      "Atrial fibrillation"
+    ],
+    "answer": "Atrial fibrillation",
+    "explanation": "An irregularly irregular heart rhythm with the absence of distinct P waves on an ECG is the hallmark of Atrial Fibrillation, which commonly exacerbates CHF and causes palpitations and tachycardia."
+  },
+  {
+    "question": "A manager at a company encourages employees to actively identify and eliminate unsatisfactory aspects of their work environment while striving to create a more effective and fulfilling atmosphere. The manager believes that providing opportunities for personal growth and recognition, as well as fostering a supportive team environment, will enhance employee motivation and job satisfaction. Which theory of motivation best aligns with the manager's approach?",
+    "choices": [
+      "McGregor theory",
+      "ERG theory",
+      "Hierarchy of need theory",
+      "Motivational-Hygiene theory"
+    ],
+    "answer": "Motivational-Hygiene theory",
+    "explanation": "Frederick Herzberg's Motivational-Hygiene theory separates factors into those that drive job satisfaction (motivators like growth and recognition) and those that prevent dissatisfaction (hygiene factors like work environment). This perfectly aligns with the manager's approach."
+  },
+  {
+    "question": "A 45-year-old patient presents to the clinic with complaints of hearing loss in the left ear. On examination, the ear canal is occluded by a doughy brown substance. The patient denies any recent ear trauma or discharge. What is the most appropriate management for this patient?",
+    "choices": [
+      "Ear irrigation",
+      "Antibiotic drops",
+      "Reassurance",
+      "Referral to an ENT specialist"
+    ],
+    "answer": "Ear irrigation",
+    "explanation": "The presentation of conductive hearing loss with a doughy brown substance occluding the canal is classic for cerumen (earwax) impaction. Ear irrigation (syringing) is a safe and common first-line procedure to remove it."
+  },
+  {
+    "question": "A 25-year-old patient presents to the clinic with complaints of intermittent watery diarrhea lasting for one year. The patient reports that the diarrhea occurs several times a week and is associated with urgency, but it often improves after defecation and during periods of rest or sleep. There is no history of blood in the stool, fever, weight loss, or other gastrointestinal symptoms. What is the most likely diagnosis?",
+    "choices": [
+      "Irritable bowel syndrome (IBS)",
+      "Psychogenic diarrhea",
+      "Inflammatory bowel disease (IBD)",
+      "Infectious gastroenteritis"
+    ],
+    "answer": "Irritable bowel syndrome (IBS)",
+    "explanation": "Chronic intermittent diarrhea associated with urgency that is relieved by defecation, without alarm features (weight loss, bloody stools), is characteristic of Irritable Bowel Syndrome (IBS)."
+  },
+  {
+    "question": "A head office encourages its subordinates by providing motivational speeches, bonuses, and recognition programs. However, despite these efforts, the office fails to recognize and acknowledge the actual performance and contributions of its subordinates. Which of the following best describes the situation described in the case?",
+    "choices": [
+      "Good leadership, poor management",
+      "Good management, poor leadership",
+      "Poor leadership, poor management",
+      "Good leadership, good management"
+    ],
+    "answer": "Good leadership, poor management",
+    "explanation": "Inspiring and encouraging subordinates represents good leadership traits. However, failing to effectively evaluate, recognize, and manage the actual work performance represents poor management systems."
+  },
+  {
+    "question": "A doctor is instructing a mother on how to prepare ORS for her child who is experiencing diarrhea. Which of the following methods would be the most effective way for the doctor to teach the mother how to prepare ORS?",
+    "choices": [
+      "Demonstration",
+      "Teaching",
+      "Educational",
+      "Verbal instruction"
+    ],
+    "answer": "Demonstration",
+    "explanation": "For teaching a practical, physical skill like mixing Oral Rehydration Solution (ORS), live demonstration is the most effective method, allowing the mother to see the correct proportions and techniques visually."
+  },
+  {
+    "question": "A 50-year-old alcoholic patient presents to the emergency department with severe right upper quadrant (RUQ) abdominal pain that radiates to the back. The pain is persistent and severe. On further inquiry, the patient admits to excessive alcohol consumption. What is the most appropriate initial investigation for this patient?",
+    "choices": [
+      "Serum lipase",
+      "Serum amylase",
+      "Liver function tests",
+      "Abdominal ultrasound"
+    ],
+    "answer": "Serum lipase",
+    "explanation": "The presentation of severe upper abdominal pain radiating to the back in an alcoholic strongly suggests acute pancreatitis. Serum lipase is a more specific and sensitive marker for pancreatic injury than serum amylase and is the most appropriate initial test."
+  },
+  {
+    "question": "A 30-year-old individual who frequently wears plastic boots presents to the clinic with complaints of malodorous feet and skin peeling between the toes. Which of the following conditions is most likely to be associated with the patient's presentation?",
+    "choices": [
+      "Tinea pedis",
+      "Pitted keratolysis",
+      "Onychomycosis",
+      "Plantar warts"
+    ],
+    "answer": "Pitted keratolysis",
+    "explanation": "Malodorous feet with pits or craters on the plantar surface, heavily associated with occlusion (plastic boots) and hyperhidrosis, is highly suggestive of pitted keratolysis, caused by Corynebacterium species."
+  },
+  {
+    "question": "A 45-year-old patient presents to the emergency department with severe colicky right flank pain that radiates to the scrotum. On examination, the patient appears to be in distress, and tenderness is noted in the right flank region. Ultrasound reveals the presence of a stone. Which of the following sites is most likely associated with the patient's presentation?",
+    "choices": [
+      "PUJ",
+      "Bladder",
+      "Kidney",
+      "Urethra"
+    ],
+    "answer": "PUJ",
+    "explanation": "Colicky flank pain radiating to the groin/scrotum is classic for a ureteral stone. The Pelvi-Ureteric Junction (PUJ) is a common site for stones to lodge as they transition from the renal pelvis to the ureter."
+  },
+  {
+    "question": "A 55-year-old patient presents to the emergency department with severe flank pain and a tender fluctuating mass on examination. The patient also has a fever of 39°C. Which of the following conditions is the most likely cause of the patient's presentation?",
+    "choices": [
+      "Perinephric abscess",
+      "Pyelonephritis",
+      "Renal cell carcinoma",
+      "Ureteral stone"
+    ],
+    "answer": "Perinephric abscess",
+    "explanation": "A tender, fluctuant mass in the flank associated with high fever and severe pain is classic for a perinephric abscess, representing a collection of pus in the perirenal space."
+  },
+  {
+    "question": "The following are RBS values of diabetic patient 140, 168, 180, 196 and 210. Which numerical measures summarize data best? Which of the following measures of central tendency best represents the given set of numbers?",
+    "choices": [
+      "Median",
+      "Mean",
+      "Mode",
+      "Range"
+    ],
+    "answer": "Median",
+    "explanation": "The median (the middle value of an ordered dataset, which here is 180) is highly effective at representing the central value of this data set, especially useful in clinical values that may skew."
+  },
+  {
+    "question": "A 35-year-old male presents to the emergency department after being hit in the right eye by a thrown stone. He has lid edema, subconjunctival hemorrhage, and blurring of vision. On dilated fundoscopic examination, a retinal tear is observed on the temporal side. The patient also reports sudden onset of visual disturbances and floaters in the affected eye. Which of the following complications poses the greatest risk for this patient?",
+    "choices": [
+      "Retinal detachment",
+      "Vitreous hemorrhage",
+      "Optic atrophy",
+      "Macular degeneration"
+    ],
+    "answer": "Retinal detachment",
+    "explanation": "A retinal tear secondary to trauma, especially when accompanied by floaters, creates a high risk for fluid tracking underneath and causing a retinal detachment, a serious condition leading to permanent vision loss."
+  },
+  {
+    "question": "A 50-year-old patient presents to the clinic with a palpable left supraclavicular lymph node. The patient reports unintentional weight loss of 10 pounds over the past few months, along with persistent fatigue and occasional night sweats. On further inquiry, the patient denies any recent infections or travel history. The patient also reports a history of chronic acid reflux and occasional episodes of bloody stool. Given the patient's presentation, which of the following is the most likely diagnosis?",
+    "choices": [
+      "Gastrointestinal cancer",
+      "Lymphoma",
+      "Benign lymphadenopathy",
+      "Infectious mononucleosis"
+    ],
+    "answer": "Gastrointestinal cancer",
+    "explanation": "A palpable left supraclavicular lymph node is known as Virchow's node, which is a classic sentinel sign indicating metastatic disease from abdominal malignancies, particularly gastric or colorectal cancers."
+  },
+  {
+    "question": "A 35-year-old patient with HIV on HAART presents to the clinic with complaints of fatigue, weakness, and pallor. Laboratory tests reveal a hemoglobin level of 6.6 g/dL, WBC 3000 and platelet 80,000. The patient's current HAART regimen includes zidovudine (AZT), lamivudine (3TC), and efavirenz (EFV). There is no history of recent bleeding or other obvious causes for the anemia. What is the next best action?",
+    "choices": [
+      "Stopping all the drugs",
+      "Replacing zidovudine with nevirapine",
+      "Replacing zidovudine with tenofovir",
+      "Adding erythropoietin"
+    ],
+    "answer": "Replacing zidovudine with tenofovir",
+    "explanation": "Zidovudine (AZT) is well-known for causing bone marrow suppression and severe anemia. The correct action is to swap it for another NRTI that does not cause anemia, such as Tenofovir (TDF)."
+  },
+  {
+    "question": "A 62-year-old male patient underwent a right hemicolectomy for colon cancer. On the second postoperative day, he develops a fever (38.5°C), shortness of breath, and decreased air entry in the lower lung fields on physical examination. His oxygen saturation has dropped to 82% on room air. He has no history of chronic respiratory disease, and his preoperative chest X-ray was normal. What is the most likely cause of these symptoms?",
+    "choices": [
+      "Atelectasis",
+      "Hospital-acquired pneumonia",
+      "Pulmonary embolism",
+      "Pleural effusion"
+    ],
+    "answer": "Atelectasis",
+    "explanation": "Atelectasis (collapse of lung tissue) is very common within the first 48 hours postoperatively due to shallow breathing from pain and anesthesia. It typically presents with fever, hypoxemia, and decreased breath sounds."
+  },
+  {
+    "question": "A 32-year-old male presents to the emergency department with bilateral lower extremity weakness and pain. He reports that the symptoms started gradually over the past few days. Two weeks ago, he experienced a dry cough and fever that lasted for several days. On examination, he has reduced strength (2/5) in both lower extremities and diminished reflexes. Sensation is decreased below the T10 level. There is no bladder or bowel incontinence. An MRI of the spine reveals a hyperintense signal on T2-weighted images, spanning multiple segments of the thoracic spinal cord, suggestive of transverse myelitis. What is the next step in the management of this patient?",
+    "choices": [
+      "Amitriptyline",
+      "Dexamethasone",
+      "Physiotherapy",
+      "Antibiotics"
+    ],
+    "answer": "Dexamethasone",
+    "explanation": "The immediate management of transverse myelitis aims to reduce spinal cord inflammation to prevent further neurological damage. High-dose IV glucocorticoids (like Dexamethasone or Methylprednisolone) are the standard first-line therapy."
+  },
+  {
+    "question": "An 11-year-old boy presents to the emergency department with pain and swelling in his lower leg. He sustained trauma to the area 4 days ago while playing soccer. Over the past two days, he has developed increasing pain and noticeable swelling. He also has a fever of 38.5°C. On examination, there is erythema, warmth, and tenderness over the affected area. The range of motion of the nearby joints is preserved, but the pain increases with movement. What is the most likely diagnosis?",
+    "choices": [
+      "Septic arthritis",
+      "Osteomyelitis",
+      "Cellulitis",
+      "Deep vein thrombosis"
+    ],
+    "answer": "Osteomyelitis",
+    "explanation": "Localized bone pain, swelling, erythema, and systemic fever following trauma in a child strongly suggest acute osteomyelitis, particularly since joint motion is preserved (making septic arthritis less likely)."
+  },
+  {
+    "question": "A 28-year-old male presents to the dermatology clinic with a 6-month history of itchy, scaly skin lesions on the extensor surfaces of his elbows and knees. He mentions that the lesions have gradually increased in size and number. On physical examination, there are well-demarcated, erythematous plaques covered with silvery scales. When the scales are gently removed, small pinpoint areas of bleeding are noted. What is the most likely diagnosis?",
+    "choices": [
+      "Atopic dermatitis",
+      "Psoriasis",
+      "Lichen planus",
+      "Seborrheic dermatitis"
+    ],
+    "answer": "Psoriasis",
+    "explanation": "Well-demarcated erythematous plaques with silvery scales on extensor surfaces (elbows/knees) displaying pinpoint bleeding upon scale removal (Auspitz sign) are classic clinical features of psoriasis."
+  },
+  {
+    "question": "A 30-year-old male factory worker presents to the emergency department after accidentally splashing an unknown chemical into his right eye. He immediately experienced severe pain, redness, and tearing in the affected eye. He is visibly distressed and holding his eye shut. There is no mention of any pre-existing ocular conditions. What is the next immediate step in the management of this patient?",
+    "choices": [
+      "Measure visual acuity",
+      "Irrigate with normal saline",
+      "Apply antibiotic ointment",
+      "Refer to an ophthalmologist"
+    ],
+    "answer": "Irrigate with normal saline",
+    "explanation": "In chemical eye burns, immediate, copious, and continuous irrigation with normal saline (or any clean water source) takes absolute precedence over all other examinations to rapidly dilute the chemical and halt tissue destruction."
+  },
+  {
+    "question": "After the initial irrigation with normal saline, the patient's pain has slightly decreased, but he still experiences significant discomfort and blurred vision. The eye appears red and swollen, and there is some corneal haze observed. What should be the next step in the management of this patient?",
+    "choices": [
+      "Measure visual acuity",
+      "Apply antibiotic ointment",
+      "Continue irrigation",
+      "Refer to an ophthalmologist"
+    ],
+    "answer": "Refer to an ophthalmologist",
+    "explanation": "Following emergency irrigation, any patient presenting with signs of severe ocular damage such as corneal haze (clouding) or epithelial defects needs prompt evaluation and specialized care from an ophthalmologist."
+  },
+  {
+    "question": "A 34-year-old male presents to the emergency department with a 5-day history of cough, fever, and shortness of breath. On physical examination, he has decreased breath sounds and crackles in the right lower lung field. A chest X-ray confirms the presence of a right lower lobe consolidation. His medical history reveals that he has never been tested for HIV before. Laboratory investigations reveal that he is HIV positive with a CD4 count of 180 cells/μL. How should this case be managed initially?",
+    "choices": [
+      "Start cotrimoxazole",
+      "Start HAART",
+      "Start both cotrimoxazole and HAART simultaneously",
+      "Provide supportive care and reassess in a week"
+    ],
+    "answer": "Start cotrimoxazole",
+    "explanation": "In a patient newly diagnosed with HIV, a low CD4 count (<200), and an active opportunistic infection (pneumonia), the initial priority is to treat the acute infection and start prophylaxis (cotrimoxazole) before initiating HAART to avoid IRIS."
+  },
+  {
+    "question": "A 25-year-old female patient presented with productive cough of 2 weeks. Physical examination – vital sign- BP: 120/70mmHg, PR: 96/min, Temp: 380C, chest has bilateral rhales. Laboratory investigation: sputum AFB positive. What is the most likely type of hypersensitivity reaction?",
+    "choices": [
+      "Hypersensitivity IV",
+      "Hypersensitivity III",
+      "Hypersensitivity I",
+      "Hypersensitivity II"
+    ],
+    "answer": "Hypersensitivity IV",
+    "explanation": "Tuberculosis (indicated by AFB positive sputum) involves a delayed-type, cell-mediated immune response characterized by T cell and macrophage activation leading to granuloma formation, which is a Type IV hypersensitivity reaction."
+  },
+  {
+    "question": "A 7-year-old boy is brought to the pediatrician by his mother, who noticed that his urine has been dark and frothy for the past two days. She also says that he has been less active and has complained of abdominal pain and swelling. He had a sore throat and fever two weeks ago, which resolved with rest and fluids. He has no past medical history and takes no medications. On physical examination, he has periorbital and pedal edema, blood pressure of 150/90 mmHg, and heart rate of 110 beats per minute. His urine dipstick shows 3+ protein and 2+ blood. His serum creatinine is 1.8 mg/dL (normal 0.5-1.0 mg/dL) and his serum albumin is 2.5 g/dL (normal 3.5-5.0 g/dL). What is the most likely complication of his condition?",
+    "choices": [
+      "Acute kidney injury",
+      "Chronic kidney disease",
+      "Nephrotic syndrome",
+      "Poststreptococcal glomerulonephritis"
+    ],
+    "answer": "Poststreptococcal glomerulonephritis",
+    "explanation": "A history of a sore throat 1-2 weeks prior, followed by hematuria (dark urine), hypertension, periorbital edema, and elevated creatinine is a classic presentation of Poststreptococcal glomerulonephritis (PSGN)."
+  },
+  {
+    "question": "A study conducted in X hospital investigated the prevalence of anemia among patients. The results revealed that a certain percentage of patients exhibited various degrees of anemia: 30% had mild anemia, 15% had moderate anemia, and 5% had severe anemia. Which graphical representation would best represent the findings of the study?",
+    "choices": [
+      "Line graph",
+      "Bar graph",
+      "Pie chart",
+      "Histogram"
+    ],
+    "answer": "Bar graph",
+    "explanation": "A bar graph is most suitable for representing categorical data showing prevalence across discrete severity groups (mild, moderate, severe) allowing for easy comparison of the distinct categories."
+  },
+  {
+    "question": "A 40-year-old oUpToDateoor worker presents with a skin lesion on his face that has been gradually increasing in size over the past year. He describes the lesion as appearing similar in color to his surrounding skin, but upon shaving, he notices a small black dot with minimal bleeding. What is the most likely diagnosis for the skin lesion described in this patient with occupational sun exposure?",
+    "choices": [
+      "Psoriasis",
+      "Lichen planus",
+      "Pityriasis versicolor",
+      "Basal cell carcinoma"
+    ],
+    "answer": "Basal cell carcinoma",
+    "explanation": "A slowly growing, flesh-colored skin lesion on a sun-exposed area (face of an outdoor worker) that tends to bleed minimally when traumatized (shaving) strongly suggests Basal Cell Carcinoma."
+  },
+  {
+    "question": "A 9-month-old infant is brought to the health center by his mother, who reports that he has been crying excessively, passing bloody stools, and having abdominal distension and swelling for the past two days. He was given cotrimoxazole and oral rehydration solution, but his condition did not improve. On physical examination, you palpate a sausage-shaped mass in the right upper quadrant of his abdomen. What is the most likely diagnosis?",
+    "choices": [
+      "Idiopathic intussusception",
+      "Intussusception with Meckel diverticulum",
+      "Intussusception with polyp",
+      "Intussusception with lymphoma"
+    ],
+    "answer": "Idiopathic intussusception",
+    "explanation": "Colicky abdominal pain, \"currant jelly\" bloody stools, and a palpable sausage-shaped abdominal mass in an infant under 2 years are the classic triad of intussusception, which is typically idiopathic (~90%) in this age group."
+  },
+  {
+    "question": "A 32-year-old female patient, who works in a factory, presents to the emergency department with complaints of sudden-onset fast breathing, palpitations, and an overwhelming sense of impending doom, akin to experiencing a heart attack. She describes experiencing similar episodes over the past month, each lasting for several minutes and subsiding spontaneously without any medical intervention. Upon further inquiry, she reports no specific triggers or identifiable stressors preceding these episodes. What is the most likely diagnosis?",
+    "choices": [
+      "Somatic symptom disorder",
+      "Social anxiety disorder",
+      "Panic disorder",
+      "Generalized anxiety disorder (GAD)"
+    ],
+    "answer": "Panic disorder",
+    "explanation": "Recurrent, unexpected panic attacks involving sudden palpitations, fast breathing, and an overwhelming fear of dying/doom without specific triggers are the hallmark features of Panic Disorder."
+  },
+  {
+    "question": "A 29-year-old female patient, who recently gave birth 2 months ago, presents to the psychiatric outpatient clinic with concerns about her mental health. She reports experiencing distressing thoughts and beliefs, stating, \"God told me to sacrifice my baby.\" Despite these thoughts, she acknowledges that her family is currently taking care of the baby and ensuring its safety. The patient expresses significant distress over these intrusive thoughts and is seeking help to address them. What is the most appropriate treatment option?",
+    "choices": [
+      "Psychotherapy",
+      "Antidepressants",
+      "Anxiolytics",
+      "Antipsychotics"
+    ],
+    "answer": "Psychotherapy",
+    "explanation": "The patient is experiencing distressing intrusive thoughts about harming the baby. Since the baby is safe and she is distressed by these ego-dystonic thoughts, this often represents severe postpartum OCD or related conditions where psychotherapy (CBT) is an essential component, though the explanation focuses on CBT for cognitive distortions."
+  }
+]
