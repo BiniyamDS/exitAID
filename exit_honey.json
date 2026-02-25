@@ -1,0 +1,750 @@
+[
+  {
+    "question": "A72-year-old man came to a clinic with a swelling under his chin associated with fever and swallowing difficulty of three days duration. Physical examination showed a 3cm x 4 cm firm, tender and diffuse sub mental mass associated with limited capability of opening his mouth. What is the most likely microbe responsible for this patient's problem?",
+    "choices": [
+      "a. Polymicrobial",
+      "b. Gram-Positives",
+      "c. Gram-negatives",
+      "d. Anaerobes"
+    ],
+    "answer": "a. Polymicrobial",
+    "explanation": "The patient's symptoms of a firm, tender, diffuse submental swelling, fever, difficulty swallowing (dysphagia), and inability to open the mouth (trismus) are classic for Ludwig's angina. This is a rapidly progressive cellulitis of the submandibular space, usually arising from a dental infection. The infection is characteristically polymicrobial, involving a mix of aerobic and anaerobic oral flora."
+  },
+  {
+    "question": "A patient came to a hospital with four lower anterior teeth displaced lingually along with their socket. He gave a history of a fall down accident. However, radiograph investigation showed no root fracture. What is the most likely diagnosis to explain the finding?",
+    "choices": [
+      "a. Alveolar bone fracture",
+      "b. Avulsion",
+      "c. Subluxation",
+      "d. Mandibular fracture"
+    ],
+    "answer": "a. Alveolar bone fracture",
+    "explanation": "The key detail is the displacement of multiple teeth 'along with their socket.' This indicates that the segment of bone holding the teeth has broken away, which is the definition of an alveolar bone fracture. An avulsion refers to a tooth completely out of its socket, and subluxation is loosening without displacement."
+  },
+  {
+    "question": "A 13-year-old boy was taken to a health center after he had difficulty to see clearly at night. His parents claimed that he had been healthy all his life. Laboratory investigation revealed he had hookworm infestation. On ocular examination, he had dry conjunctiva and cornea. Dilated posterior examination revealed multiple white liner opacities in the retina in his both eyes. What is the most likely diagnosis of this patient?",
+    "choices": [
+      "a. Xerophthalmic fundus",
+      "b. Rod-cone dystrophy",
+      "c. Fundus albipunctatus",
+      "d. Retinitis pigmentosa"
+    ],
+    "answer": "a. Xerophthalmic fundus",
+    "explanation": "The patient presents with night blindness and xerophthalmia (dry conjunctiva/cornea), coupled with a hookworm infection that can cause malabsorption and malnutrition. These are signs of severe Vitamin A deficiency. The described 'multiple white linear opacities in the retina' are characteristic of a xerophthalmic fundus, a specific retinal manifestation of prolonged Vitamin A deficiency."
+  },
+  {
+    "question": "A 20-year-old male patient was admitted with a diagnosis of complicated meningitis one day back. His GCS has dropped by two points and has bilaterally dilated pupils. The nurse has reported that his most recent vital signs are blood pressure of 140/90 mmHg, pulse rate of 54/min, respiratory rate of 30/min, temperature of 38.5 degree centigrade, and oxygen saturation of 98 percent. What is the most effective management?",
+    "choices": [
+      "a. Revise his antibiotics",
+      "b. Bolus crystalloid infusion",
+      "c. Administer Dexamethasone 10 mg IV",
+      "d. Loading with Mannitol 0.5-1g/kg"
+    ],
+    "answer": "d. Loading with Mannitol 0.5-1g/kg",
+    "explanation": "The patient is showing signs of rapidly increasing intracranial pressure leading to impending brain herniation: a dropping Glasgow Coma Scale, bilaterally dilated pupils, bradycardia, and irregular/rapid respirations. The most immediate and effective medical intervention to rapidly decrease intracranial pressure in this emergency is osmotic therapy, primarily with intravenous Mannitol."
+  },
+  {
+    "question": "Twin babies delivered via SVD after 37 weeks of gestation are currently doing fine with the mother. In comparison with the first twin, the second twin (twin B) could have increased risk of developing some complications. For what complication is twin B more at risk?",
+    "choices": [
+      "a. Hypoglycemia",
+      "b. Neonatal sepsis",
+      "c. Polycythemia",
+      "d. Perinatal asphyxia"
+    ],
+    "answer": "d. Perinatal asphyxia",
+    "explanation": "The second-born twin is generally at a higher risk for adverse outcomes compared to the first. Once Twin A is born, changes in uterine volume can lead to premature placental separation or cord complications, reducing oxygen delivery. Consequently, Twin B is at a significantly higher risk for perinatal asphyxia."
+  },
+  {
+    "question": "A four-year- old female child was brought to a pediatric OPD with complaints of fever and right ear pussy discharge of one week duration. Otoscopic examination showed, frank pus coming out of right ear canal and central right tympanic membrane perforation. What is the best management option for this child?",
+    "choices": [
+      "a. Ear irrigation",
+      "b. Ear wicking with Antibiotics",
+      "c. Watchful waiting",
+      "d. Systemic and local Antibiotics"
+    ],
+    "answer": "d. Systemic and local Antibiotics",
+    "explanation": "The child has acute otitis media that has progressed to tympanic membrane perforation with active purulent discharge (otorrhea) and systemic signs (fever). The standard of care for a perforated eardrum with active infection is a combination of an oral systemic antibiotic (to treat the underlying infection) and topical antibiotic ear drops (to treat the local area directly through the perforation)."
+  },
+  {
+    "question": "A patient with a referral paper for Ludwig's angina was brought to an emergency room. The patient was restless and had difficulty breathing on general examination. The responsible physician needs to take an immediate action to salvage the patient's life. What is the most likely initial step in this patient's care?",
+    "choices": [
+      "a. Incision and drainage",
+      "b. Tracheostomy",
+      "c. Hydrocortisone",
+      "d. Intense IV antibiotics"
+    ],
+    "answer": "b. Tracheostomy",
+    "explanation": "Ludwig's angina causes massive swelling of the floor of the mouth, which rapidly pushes the tongue upward and backward, obstructing the airway. A patient presenting as 'restless' with 'difficulty breathing' is exhibiting signs of critical airway compromise. Securing the airway is the absolute highest priority, and due to the altered anatomy, a surgical airway like a tracheostomy is often required immediately to save the patient's life."
+  },
+  {
+    "question": "A primiparous mother has brought her three -day-old male neonate to a neonatal OPD after she noticed yellowish discoloration of his body since the day before. His birth weight was 3200 gm. On examination, he has tachycardia and signs of dehydration, otherwise all neonatal reflexes are intact. His current weight is 2500 gm, total serum bilirubin measures 15 mg/dl and indirect one is 14 mg/dl. What is the most likely cause of jaundice in this case?",
+    "choices": [
+      "a. Neonatal sepsis",
+      "b. Breast feeding",
+      "c. Neonatal hepatitis",
+      "d. Breast milk"
+    ],
+    "answer": "b. Breast feeding",
+    "explanation": "The neonate presents on day 3 with indirect hyperbilirubinemia, significant weight loss (approx 22% of birth weight), and signs of dehydration. This is the classic presentation of breastfeeding jaundice (also called lactation failure jaundice), which occurs in the first week of life due to insufficient milk intake, leading to dehydration and increased enterohepatic circulation of bilirubin."
+  },
+  {
+    "question": "A Six-year-old female child was brought to OPD with a complaint of exertional dyspnea for one year. He echocardiography examination revealed features of chronic rheumatic heart disease with severe mitral re and good biventricular function. What is the best preventive method applicable for this child?",
+    "choices": [
+      "a. Primordial",
+      "b. Tertiary",
+      "c. Primary",
+      "d. Secondary"
+    ],
+    "answer": "b. Tertiary",
+    "explanation": "The patient already has established, chronic rheumatic heart disease with structural complications (severe mitral regurgitation). Interventions at this stage aim to reduce the impact of the disease, manage symptoms, prevent further deterioration (like heart failure), and improve quality of life. This level of management for existing advanced disease is defined as tertiary prevention."
+  },
+  {
+    "question": "A midwife on duty called a doctor when she noticed a massive bleeding from a Para-II woman who gave birth spontaneously 30 minutes back. She has no tear so no episiotomy was done. Quick evaluation revealed a 20 week sized atonic uterus, blood soaked perineum and open cervix. What is the most appropriate initial step in the management of this patient?",
+    "choices": [
+      "a. Curettage",
+      "b. Manual exploration",
+      "c. Uterine packing",
+      "d. Bimanual compression"
+    ],
+    "answer": "d. Bimanual compression",
+    "explanation": "The patient is experiencing severe postpartum hemorrhage due to an atonic uterus (indicated by the large, soft '20-week sized' uterus). The most immediate, hands-on, first-line intervention to physically control bleeding from uterine atony while medications are prepared is bimanual uterine compression."
+  },
+  {
+    "question": "An adult patient who was seeking medical attention came to a health center. He was diagnosed with a type of parasitic food borne disease caused due to a neurotoxin produced by a bacteria found in the food consumed two weeks ago. What is the most likely type of food served for this person?",
+    "choices": [
+      "a. Contaminated water",
+      "b. Home canned food",
+      "c. Raw meat",
+      "d. Undercooked vegetable"
+    ],
+    "answer": "b. Home canned food",
+    "explanation": "Despite the confusing use of the word 'parasitic', the description clearly points to a disease caused by a bacterial neurotoxin found in food, which is the hallmark of Botulism caused by Clostridium botulinum. This bacterium requires anaerobic conditions to produce its toxin, and improperly sterilized home-canned foods are the most classic source."
+  },
+  {
+    "question": "A primary hospital planned to hire health professionals for the vacant positions. The human resource department announced the jobs through newspapers and many health professionals applied for the positions. Then, the responsible hiring committee screened the documents of the applicants based on pre-set criteria. The committee also investigated the background of those applicants who met the required criteria. Which human resource management function has been addressed by the committee in this case?",
+    "choices": [
+      "a. Job Induction",
+      "b. Recruitment",
+      "c. Selection",
+      "d. Performance evaluation"
+    ],
+    "answer": "c. Selection",
+    "explanation": "The scenario describes the process of filtering through a pool of applicants (screening documents, background checks) to choose the best candidate based on specific criteria. In Human Resources, this specific phase of evaluating and choosing candidates is known as the Selection process."
+  },
+  {
+    "question": "A five-year-old female child was brought to an emergency OPD after a high-speed vehicle hit her. On primary survey, air way was patent and C-spine was stabilized, chest was clear with good air entry, but her blood pressure was un-recordable and pulse was feeble. However, there was no visible external bleeding. The nurse faced difficulty to secure IV line. What is the most appropriate and rapid IV site to resuscitate this patient?",
+    "choices": [
+      "a. Venous cut down",
+      "b. Intra-osseous",
+      "c. Mid-cubital vein",
+      "d. Central line insertion"
+    ],
+    "answer": "b. Intra-osseous",
+    "explanation": "The child is in severe shock and requires immediate fluid resuscitation. In a pediatric trauma or shock emergency where peripheral IV access cannot be obtained rapidly, establishing intra-osseous (IO) access is the recommended and fastest life-saving alternative to deliver fluids and medications."
+  },
+  {
+    "question": "A full term pregnant woman was admitted to a labour ward for the last 36 hours. The obstetrician decided to perform a cesarean section because of dystocia, for which the patient and her husband agreed. During the operation, heavy bleeding occurred and became paramount to do a total hysterectomy. Since the operation was done under general anesthesia, the patient could not sign the necessary consent form for another major surgery. The doctor took her fingerprint and did the operation. Unfortunately, the mother died on the OR table. The family took the case to court. How should this case be dealt with?",
+    "choices": [
+      "a. The death can occur as a complication of underlying condition.",
+      "b. The family must understand the situation and drop the case from court.",
+      "c. The doctor should not have performed the operation without the patients' signature.",
+      "d. The doctor and the family should be called to solve the case amicably."
+    ],
+    "answer": "c. The doctor should not have performed the operation without the patients' signature.",
+    "explanation": "This question highlights medical ethics. Obtaining a fingerprint from an unconscious patient under anesthesia is coercive and does not constitute valid informed consent. While implied consent applies in true emergencies, faking documented consent is legally and ethically flawed. The highlighted answer reflects a strict adherence to proper consent procedures."
+  },
+  {
+    "question": "A 62-year-old male patient came to a regular OPD with a complaint of difficulty to initiate urine of three months duration. He tried to compress his abdomen and frequently strain to pass urine. What is the most likely explanation for this complaint?",
+    "choices": [
+      "a. Bladder stone",
+      "b. Stricture",
+      "c. BPH",
+      "d. Overactive bladder"
+    ],
+    "answer": "c. BPH",
+    "explanation": "A man in his 60s presenting with lower urinary tract symptoms, specifically hesitancy (difficulty initiating urination) and the need to strain, is exhibiting signs of bladder outlet obstruction. Benign Prostatic Hyperplasia (BPH) is the most common cause of these progressive symptoms in older men."
+  },
+  {
+    "question": "A 30-year-old male patient, who sustained injury to his head after he fell down from eight meter high tree, has come to a hospital. On examination, his blood pressure is 80/50mmHg, there is 4cm laceration over left parietal area and GCS is 10/15. However, he has no focal neurologic deficit. What is the most appropriate fluid to resuscitate this patient?",
+    "choices": [
+      "a. Dextrose in 0.45 percent normal saline",
+      "b. 5 percent Dextrose",
+      "c. Blood",
+      "d. Normal saline"
+    ],
+    "answer": "d. Normal saline",
+    "explanation": "The patient has a traumatic brain injury and is in hemorrhagic shock. The priority is to restore blood pressure to ensure cerebral perfusion without exacerbating brain swelling. Normal saline (0.9% NaCl), an isotonic crystalloid, is the resuscitation fluid of choice. Hypotonic fluids containing dextrose are contraindicated as they can increase cerebral edema."
+  },
+  {
+    "question": "A 45-year-old female patient has come with anterior neck swelling of three years duration. Since the last seven months, she has started to experience palpitation and hot intolerance with no history of bone pain, cough or yellowish discoloration of the eyes. On examination, her pulse rate is 100/min, blood pressure is 130/70 mmHg; there is lid lag and lid retraction. On thyroid examination, there is an enlarged multiple thyroid nodules the largest measuring 6*8cm. The lower border is reachable. She has been investigated and thyroid function test reveals: TSH of 0.06 micro unit/mL (Normal 0.5-5 micro unit/mL), Total T4 of 170nmol/L (55-150 nmol/L), and Total T3 of 6nmol/L (1.5-3.5 nmol/L). What is the most appropriate next step in managing this patient?",
+    "choices": [
+      "a. Thyroidectomy",
+      "b. Put on anti thyroid drugs",
+      "c. Radio ablation therapy",
+      "d. Put on lugols iodine"
+    ],
+    "answer": "b. Put on anti thyroid drugs",
+    "explanation": "The patient has clinical and biochemical evidence of overt hyperthyroidism due to a toxic multinodular goiter. The immediate next step in management is to control the hyperthyroid state before considering definitive treatment like surgery. Therefore, initiating medical therapy with antithyroid drugs is the appropriate first step."
+  },
+  {
+    "question": "A 56-year-old male patient came to ART clinic with complaints of productive cough, night sweat and loss of appetite. He had been taking HAART (TDF + 3TC + DTG) for the past two years. On examination, he has erythematous tongue. Air entry has decreased in left posterior chest. On investigation, the viral load is 2400 copies/ml. What is the most appropriate next step in the management of this patient?",
+    "choices": [
+      "a. Repeat viral load after a month",
+      "b. Switch to 2nd or 3rd line ART regimen",
+      "c. Enhanced adherence support for 3 months",
+      "d. Discontinue HAART"
+    ],
+    "answer": "c. Enhanced adherence support for 3 months",
+    "explanation": "The patient on first-line ART has an elevated viral load (virological failure). However, before switching to a second-line regimen, the most common cause of failure—poor adherence—must be addressed. Standard guidelines dictate instituting enhanced adherence counseling/support for a period (usually 3 months) before retesting the viral load to make a final decision."
+  },
+  {
+    "question": "A 50-year-old male patient has come to a hospital with progressive dysphagia since eight months which is associated with significant weight loss. Currently, he swallows liquids with difficulty. On examination, he is emaciated and his vital signs are all in normal range. Barium swallow shows distal esophageal narrowing with shouldering. What is the most likely diagnosis?",
+    "choices": [
+      "a. Gastro esophageal reflux disease",
+      "b. Esophageal cancer",
+      "c. Esophageal stricture",
+      "d. Achalasia"
+    ],
+    "answer": "b. Esophageal cancer",
+    "explanation": "Progressive dysphagia (solids then liquids) in an older adult with significant weight loss are highly concerning 'red flag' symptoms. The barium swallow finding of a stricture with 'shouldering' (irregular, overhanging edges) is a classic radiological sign of a malignant lesion, making esophageal cancer the most likely diagnosis."
+  },
+  {
+    "question": "A 55-year-old male patient, who is a known diabetic taking Metformin and Liraglutide, has come to a clinic for check up. His blood pressure is 135/84mmHg, waist circumference is 102cm and BMI is 29kg/m2. An investigation result shows FBS of 110mg/dl, HbA1C of 6.2 percent and LDL of 110mg/dl. What is the best cardiovascular risk reduction measure to be taken in this case?",
+    "choices": [
+      "a. Enalapril",
+      "b. Add Insulin",
+      "c. Rosuvastatin",
+      "d. ASA"
+    ],
+    "answer": "c. Rosuvastatin",
+    "explanation": "According to cardiovascular disease prevention guidelines, diabetic patients aged 40-75 are recommended to be on a moderate to high-intensity statin to reduce cardiovascular risk, regardless of baseline lipid levels. Given his age and diabetes status, initiating a statin like Rosuvastatin is the most significant step among the choices for risk reduction."
+  },
+  {
+    "question": "A 25-year-old male patient came to a medical OPD with complaints of shortness of breath, palpitation and generalized body swelling for two weeks. Evaluation result show, temperature 36.4 degree centigrade, respiratory rate of 28/min, pulse rate of 98/min, and blood pressure of 100/60mmHg. There is a diastolic murmur at the apex. Echocardiography shows LVEF of 35 percent, MVA of 1.5 cm2, mitral valve leaflets are shortened and thickened. What is the most likely underlying cause of this patient's illness?",
+    "choices": [
+      "a. Atherosclerosis",
+      "b. Rheumatic heart disease",
+      "c. Carcinoid tumour",
+      "d. Dilated cardiomyopathy"
+    ],
+    "answer": "b. Rheumatic heart disease",
+    "explanation": "A young patient presenting with heart failure, a diastolic murmur at the apex, and echocardiographic findings of mitral stenosis (MVA 1.5 cm2) with shortened and thickened leaflets. Acquired structural mitral valve stenosis in a young adult is overwhelmingly caused by Rheumatic Heart Disease."
+  },
+  {
+    "question": "A primary hospital hired a new director about six months ago. He is upset by the fact that immediately after leaving the main office in the morning, nurses congregate at a local coffee house. He called the head nurse to his office and made it clear that this \"socializing during working hours\" must end. The nurse told the director that she believes that the nurses' informal conversations over morning coffee are vital to her unit's high performance. The director was not at all convinced and he is set in his opinion because he does not want the nurse to win over him. The head nurse accepted his decision and informed her colleagues to stop gathering in the coffee house. What is the most likely conflict management style used by the new director?",
+    "choices": [
+      "a. Collaboration",
+      "b. Compromise",
+      "c. Competition",
+      "d. Avoidance"
+    ],
+    "answer": "c. Competition",
+    "explanation": "The director enforces his decision purely through authority and views the interaction as a win/lose scenario ('does not want the nurse to win over him'), without considering the opposing viewpoint. This approach defines the 'Competition' or 'Forcing' style of conflict management."
+  },
+  {
+    "question": "A community health team planned to give health education activities in a district. The team prioritizes different health problems based on whichever problems could be manageable with the available resources. What is the most likely criterion of problem prioritization used in the scenario?",
+    "choices": [
+      "a. Community concern",
+      "b. Severity",
+      "c. Magnitude",
+      "d. Feasibility"
+    ],
+    "answer": "d. Feasibility",
+    "explanation": "Selecting priorities based on what is 'manageable with the available resources' assesses whether an intervention can practically be accomplished given constraints like budget, time, and personnel. This specific criterion is known as Feasibility."
+  },
+  {
+    "question": "A 60-year-old male patient, who is on his third postoperative day for colonic cancer, has developed abdominal pain and vomiting. The pain is at the epigastric area and it radiates to the back. Abdominal ultrasound shows thickened gall bladder wall and peri-cholecystic fluid collection but no gallstone. CBC shows WBC count of 19000cells/mm3. What is the most effective management for this patient?",
+    "choices": [
+      "a. Exploratory laparotomy and colostomy",
+      "b. Fluid resuscitation and IV antibiotics",
+      "c. IV antibiotics and immediate cholecystectomy",
+      "d. Exploratory laparatomy"
+    ],
+    "answer": "b. Fluid resuscitation and IV antibiotics",
+    "explanation": "The patient has developed acalculous cholecystitis (inflammation without stones), a known complication in critically ill postoperative patients. Given his recent major surgery and signs of severe infection (high WBC), the most effective and safest initial management is medical stabilization with fluid resuscitation and broad-spectrum IV antibiotics."
+  },
+  {
+    "question": "During supervision, a director of a new primary hospital identified that nurses working in an obstetrics and gynecology ward usually did not use partograph during labor and delivery due to lack of adequate knowledge and skill to apply the instrument. The director decided to organize a five day on job training for all nurses in the hospital on how to use the instrument. At the end, a post assessment by the trainers on the knowledge and skill of using the instrument indicated that the training was effective. What is the most likely component of monitoring and evaluation assessed by the trainers in this case?",
+    "choices": [
+      "a. Output",
+      "b. Outcome",
+      "c. Impact",
+      "d. Process"
+    ],
+    "answer": "b. Outcome",
+    "explanation": "In program evaluation, measuring the short-term changes resulting from an intervention—such as changes in knowledge, skills, or attitudes following training—is evaluating the 'Outcome'. It assesses if the immediate learning objectives were met."
+  },
+  {
+    "question": "A 22-year-old patient, who sustained a car accident by a high speed moving car while she was crossing the road, was brought to an emergency room. Upon arrival, she was unconscious and there was significant secretion and bleeding from the mouth as well as an open sucking wound over left anterior chest. What is the most appropriate initial management for this patient?",
+    "choices": [
+      "a. Suck out the secretion",
+      "b. Insert chest tube",
+      "c. Apply three way dressing",
+      "d. Putting her on Oxygen"
+    ],
+    "answer": "a. Suck out the secretion",
+    "explanation": "Following ATLS protocols, the absolute first priority in any trauma patient is Airway. An unconscious patient with significant oral bleeding and secretions is at imminent risk of airway obstruction and aspiration. Therefore, clearing the airway via suctioning is the most critical initial step before addressing breathing issues."
+  },
+  {
+    "question": "A 27-year-old female patient came to a medical OPD with complaints of reddish discoloration of skin, which is exacerbated by exposure to sun light and arthralgia of two years duration. On examination, there is a slightly raised erythematous rash on her cheeks, chest and arms. Her hand joints are tender and swollen. A laboratory result shows Hgb level of 8.1g/dl, WBC count of 4.1X10,000/micro litter and platelet count of 126,000/micro litter. What is the most specific antibody associated with this disease?",
+    "choices": [
+      "a. Rheumatoid factor",
+      "b. Anti-dsDNA",
+      "c. Anti-Ro",
+      "d. Antihistone"
+    ],
+    "answer": "b. Anti-dsDNA",
+    "explanation": "The clinical picture of a young female with a photosensitive malar rash, arthritis, and pancytopenia is highly characteristic of Systemic Lupus Erythematosus (SLE). While several antibodies can be positive, Anti-dsDNA is one of the most specific markers for diagnosing SLE."
+  },
+  {
+    "question": "A young girl in a waiting room of a health center is spontaneously acting-out as a pregnant woman to feel the experience of being pregnant and teach others. What is the most likely method of education used in this scenario?",
+    "choices": [
+      "a. Demonstration",
+      "b. Fable",
+      "c. Role-play",
+      "d. Drama"
+    ],
+    "answer": "c. Role-play",
+    "explanation": "The act of taking on a specific persona and acting out a scenario to understand an experience or convey information is the definition of role-playing."
+  },
+  {
+    "question": "A 57-year-old male patient came to a regular OPD with complaints of constipation and rectal bleeding. He is chronically sick looking and has pale conjunctiva. On per-rectal examination there is no fissure or hemorrhoid. What is the most appropriate diagnostic method in this patient's care?",
+    "choices": [
+      "a. Abdomino-pelvic US",
+      "b. Colonoscopy",
+      "c. Air-contrast enema",
+      "d. Fecal Occult blood test"
+    ],
+    "answer": "b. Colonoscopy",
+    "explanation": "New onset constipation, rectal bleeding without an obvious anal source, and signs of anemia in a 57-year-old man are severe red flags for colorectal cancer. The most appropriate and definitive diagnostic step is a colonoscopy, which allows for direct visualization and biopsy of the entire colon."
+  },
+  {
+    "question": "A 32-year-old male patient sustained road traffic accident after a car he was in rolled over many times. He was immediately brought to an emergency room and he was conscious and complaining right side flank pain and reddish discoloration of urine. What best investigation modality should be used to identify the cause of hematuria?",
+    "choices": [
+      "a. CT with IV contrast",
+      "b. Csytouerethrogram",
+      "c. Abdominopelvic ultrasound",
+      "d. Plain abdominal X-ray"
+    ],
+    "answer": "a. CT with IV contrast",
+    "explanation": "Following severe blunt abdominal trauma, flank pain and gross hematuria strongly suggest a traumatic renal injury. The gold standard imaging modality to evaluate, grade, and diagnose suspected traumatic kidney injury is a CT scan of the abdomen/pelvis with IV contrast."
+  },
+  {
+    "question": "A 28-year-old female patient came to a regular surgical OPD with a complaint of intermittent vomiting of six months duration. The vomiting was large in volume and of ingested mater. She had also marked weight loss and on and off type of epigastric pain for the last three years. Physical examination showed significant malnutrition succession splash was positive. What is the most likely diagnosis for this patient?",
+    "choices": [
+      "a. GOO secondary to gastric cancer",
+      "b. GERD",
+      "c. GOO secondary to chronic PUD",
+      "d. Gastric volvulus"
+    ],
+    "answer": "c. GOO secondary to chronic PUD",
+    "explanation": "The patient has signs of Gastric Outlet Obstruction (GOO): copious vomiting of undigested food, a positive succussion splash, and weight loss. The long history (3 years) of episodic epigastric pain preceding these symptoms suggests chronic peptic ulcer disease (PUD) leading to stricture/scarring, which is a common benign cause of GOO."
+  },
+  {
+    "question": "A medical doctor planned to test the claim that the mean fasting blood sugar level of type II diabetic patients is 126 mg/dL. The doctor selected 36 diabetic patients randomly and their mean blood sugar level was found to 136 mg/dL with standard deviation of 9 mg/dL. The 95 percent CI for the population mean blood level was 138.94. What is the most appropriate conclusion based on the given evidences?",
+    "choices": [
+      "a. The population mean blood sugar level of diabetic patients was greater than 136 mg/dL",
+      "b. The population mean blood sugar level of diabetic patients was not 126 mg/dL",
+      "c. The population mean blood sugar level of diabetic patients was 136 mg/dL",
+      "d. The population mean blood sugar level of diabetic patients was 126 mg/dL"
+    ],
+    "answer": "b. The population mean blood sugar level of diabetic patients was not 126 mg/dL",
+    "explanation": "In hypothesis testing, the null hypothesis is that the mean is 126. Because the calculated sample mean (136) is significantly different from the proposed mean, the statistical conclusion is to reject the null hypothesis, meaning the population mean is *not* 126."
+  },
+  {
+    "question": "In an area a significant numbers of pregnant mothers and children are found to be affected by micro-nutrient deficiency. As a long term solution, people in the catchment area are encouraged to grow and consume various items of foods. What is most appropriate intervention applied in this scenario?",
+    "choices": [
+      "a. Fortification",
+      "b. Diversification",
+      "c. Supplementation",
+      "d. Modification"
+    ],
+    "answer": "b. Diversification",
+    "explanation": "Encouraging a community to grow and eat a wider variety of foods to combat nutrient deficiencies is a sustainable, food-based strategy known as dietary diversification."
+  },
+  {
+    "question": "A ten-year-old boy came to an OPD with cough, fever, breathing difficulty and loss of appetite. He was given antibiotics and anti-pyretic. At home, he became agitated, crying and uncomfortable around family members. His mom became uncomfortable and decided to check on him thoroughly which she realized that while being treated in the clinic, there was inappropriate examination on his private parts. She reported to the medical director next day and complained of inappropriate sexual harassment in the clinic. What must the medical director do to avoid such scenario for next time?",
+    "choices": [
+      "a. Take administrative procedure to the attending officer though there is no proof for sexual harassment.",
+      "b. Deny that the clinic has never done this kind of sexual harassment.",
+      "c. Apologize to the mother for what has happened already and discuss with his staff.",
+      "d. The clinic has to develop a protocol, guideline and manual of handling minors."
+    ],
+    "answer": "d. The clinic has to develop a protocol, guideline and manual of handling minors.",
+    "explanation": "To prevent future allegations and ensure patient safety, systemic institutional changes are required. Developing clear, mandatory protocols for examining minors (e.g., requiring chaperones) is the most effective administrative step to protect patients and guide staff behavior."
+  },
+  {
+    "question": "A 65-year-old male patient came with abdominal pain of three days duration. Associated with this he had abdominal distention and failure to pass feces and flatus. His pulse rate was 120/min and respiratory rate was 32/min. Plain abdominal x-ray showed coffee bean appearance, with the convexity of the loop lying in the right upper quadrant. What is the most likely diagnosis?",
+    "choices": [
+      "a. Large bowel obstruction secondary to cecal volvulus",
+      "b. Large bowel obstruction secondary to sigmoid volvulus",
+      "c. Large bowel obstruction secondary to rectal cancer",
+      "d. Small bowel obstruction secondary to small bowel volvulus"
+    ],
+    "answer": "b. Large bowel obstruction secondary to sigmoid volvulus",
+    "explanation": "The patient presents with large bowel obstruction. The radiological finding of a 'coffee bean' appearance on a plain abdominal X-ray, typically originating from the pelvis and pointing towards the right upper quadrant, is pathognomonic for a sigmoid volvulus."
+  },
+  {
+    "question": "A 24-year-old man, who was a known chronic liver disease patient taking Furosemide 80mg/d and Spironolactone 200mg/d, came to a follow up clinic with complaints of sleep disturbance and irritability of two weeks duration with recent altered mental status. On physical examination, he had confusion, ascites and asterixis. What is the most appropriate first step in the management of this patient?",
+    "choices": [
+      "a. Perform therapeutic ascetic tap",
+      "b. Empirically start on ant-biotics",
+      "c. Start on Lactulose",
+      "d. Continue diuretics"
+    ],
+    "answer": "c. Start on Lactulose",
+    "explanation": "The patient, with known liver disease, is presenting with classic signs of hepatic encephalopathy (altered mental status, asterixis). The first-line medical treatment to lower blood ammonia levels and reverse encephalopathy is the administration of Lactulose."
+  },
+  {
+    "question": "A 19-year-old high school student with recent behavioral change has been brought to a medical OPD by his family. The student has unexplained daydreaming and a decline in school performance recognized by the teacher. Evaluation result show, temperature of 36.7 degree centigrade, respiratory rate of 20/min, pulse rate of 70/min, and blood pressure of 120/80mmHg. There is no other remarkable finding. Laboratory results show that: Hgb level of 12.6g/dl, WBC count of 8.8X10,000/micro litter and platelet count of 310,000/micro litter. Other biochemical tests are normal. What is the most likely diagnosis of the student?",
+    "choices": [
+      "a. Absence seizure",
+      "b. Syncope",
+      "c. Benign paroxysmal vertigo",
+      "d. Transient ischemic attack"
+    ],
+    "answer": "a. Absence seizure",
+    "explanation": "Episodes presenting as brief 'staring spells' or 'unexplained daydreaming' that lead to poor school performance, especially in children or young adults with a normal physical exam, are characteristic of absence seizures."
+  },
+  {
+    "question": "In a kebele large number of population are forced to flee into a temporary shelter due to massive flooding. In the shelter, acute watery diarrhea outbreaks occur and the cumulative incidence of AWD is estimated around 0.1 per week. What is the most appropriate way to explain the incidence report?",
+    "choices": [
+      "a. There will be 10 new cases of AWD per 100 per week",
+      "b. There will be 10 cases of AWD per 1000 per week",
+      "c. Person to person transmission rate is very high",
+      "d. AWD cases will be the same throughout the month"
+    ],
+    "answer": "a. There will be 10 new cases of AWD per 100 per week",
+    "explanation": "An incidence rate of 0.1 means 10%. Interpreted as a rate per population, it translates directly to 10 new cases occurring for every 100 people in the population over the given time period (a week)."
+  },
+  {
+    "question": "A hospital director and a head of a pharmacy department are discussing to determine the quantity of medical supplies to be ordered. They list out constant and variable factors that influence order quantity. What is the most likely factor that makes the order quantity unreliable?",
+    "choices": [
+      "a. Supplier lead time",
+      "b. Storage capacity",
+      "c. Order frequency",
+      "d. Disease outbreaks"
+    ],
+    "answer": "d. Disease outbreaks",
+    "explanation": "Inventory management relies on predictable variables. Disease outbreaks cause sudden, unpredictable, and massive surges in demand for specific supplies, making any previously calculated order quantity entirely unreliable."
+  },
+  {
+    "question": "A nine-year-old male child was brought by his parents to a surgical emergency OPD with a complaint of abdominal pain and anorexia of four days duration. The pain was initially periumbilical then it involves the whole abdomen. The patient also had high-grade intermittent fever. On physical examination, he was acutely sick looking, pulse rate was 128/min and respiratory rate was 32/min and temperature was 39.6 degree centigrade. The abdomen was tender and rigid. What is the most likely diagnosis?",
+    "choices": [
+      "a. Simple appendicitis",
+      "b. Mesenteric lymphadenitis",
+      "c. Perforated PUD",
+      "d. Perforated appendicitis"
+    ],
+    "answer": "d. Perforated appendicitis",
+    "explanation": "The initial periumbilical pain is a classic early sign of appendicitis. The progression to severe systemic illness (high fever, severe tachycardia) and a 'rigid' abdomen (indicating generalized peritonitis) suggests the inflamed appendix has ruptured."
+  },
+  {
+    "question": "A head nurse of an obstetrics and gynecology ward regularly follows the performance of her team every week. She compares the performance of each member of the team with their operational plan. She also tries to make adjustments when some deviations from the plan are observed. What form of management function is applied by the head nurse?",
+    "choices": [
+      "a. Staffing",
+      "b. Organizing",
+      "c. Planning",
+      "d. Controlling"
+    ],
+    "answer": "d. Controlling",
+    "explanation": "The management process of monitoring performance, comparing it against set plans or standards, and taking corrective action to fix deviations is defined as the 'Controlling' function."
+  },
+  {
+    "question": "A health center has planned to provide long acting modern family planning services for 500 users in its annual operational plan. At the end of the year the center assesses its performance and found that 510 women utilized the services. What is the most appropriate conclusion regarding the plan and the performance?",
+    "choices": [
+      "a. Effective and Efficient",
+      "b. Efficient and Equitable",
+      "c. Effective",
+      "d. Efficient"
+    ],
+    "answer": "c. Effective",
+    "explanation": "Effectiveness measures the extent to which a goal is achieved. Since the center planned for 500 and achieved 510, the program was effective. Efficiency involves cost/resource use, which is not mentioned, so we can only confirm it was effective."
+  },
+  {
+    "question": "A 14-year-old boy has come to an OPD with a complaint of body swelling of two weeks duration. On physical examination, his blood pressure is 130/60mmHg, periorbital swelling, ascites and bilateral pitting edema. His investigation results show negative blood, protein +4 and granular cast on urine analysis, 24-hour urine protein level of 6gm, serum albumin level of 2.4mg/dl and serum Creatinine level of 0.8mg/dl. Serologic test for HIV, VDRL, HBV and HCV are negative. What is the most likely diagnosis?",
+    "choices": [
+      "a. Minimal change disease",
+      "b. ANCA small vessel Vasculitis",
+      "c. Focal segmental glomerulosclerosis",
+      "d. Post streptococcus glomerulonephritis"
+    ],
+    "answer": "a. Minimal change disease",
+    "explanation": "The patient has nephrotic syndrome: massive proteinuria (6g/day) and hypoalbuminemia (2.4mg/dl) leading to severe edema. In young adolescents presenting with pure nephrotic syndrome and normal renal function/blood pressure, Minimal Change Disease is statistically the most common primary etiology."
+  },
+  {
+    "question": "A 62-year-old male patient, who was stabbed by the horn of an Ox on to his back, came to a clinic with a complaint of difficulty of moving his left leg. His bowl and bladder control is intact. On physical examination, vital signs are in normal range and on nervous system examination, the tone of left leg is increased, the power is zero on the left side and 5/5 on the right leg and sensation is lost on the right leg. What is the most likely diagnosis in this case?",
+    "choices": [
+      "a. Brown-Sequard syndrome",
+      "b. Anterior Cord syndrome",
+      "c. Cauda Equina syndrome",
+      "d. Central cord syndrome"
+    ],
+    "answer": "a. Brown-Sequard syndrome",
+    "explanation": "The patient presents with ipsilateral motor loss (left leg paralysis) and contralateral sensory loss (right leg loss of pain/temp). This specific pattern is pathognomonic for spinal cord hemisection, known as Brown-Sequard syndrome, likely resulting from the penetrating stab injury to one side of the cord."
+  },
+  {
+    "question": "A mother claimed that her 24-hour-old neonate does not urinate. On examination, the neonate's bladder is palpable and has well developed external genitalia. Ultrasound shows thickened bladder wall with bilateral hydronephrosis. What is the most likely diagnosis?",
+    "choices": [
+      "a. Vesicoureteral reflux",
+      "b. Posterior urethral valve",
+      "c. PUJ obstruction",
+      "d. Ureterocele"
+    ],
+    "answer": "b. Posterior urethral valve",
+    "explanation": "A male neonate presenting with anuria, a distended palpable bladder, and ultrasound findings of a thick-walled bladder with bilateral hydronephrosis indicates a severe obstruction at the level of the urethra. The most common cause of this presentation is Posterior Urethral Valves."
+  },
+  {
+    "question": "A 45-year-old male patient came to an emergency department with a complaint of abdominal pain and coffee ground vomiting of three days duration. He used to take Predinsolone from nearby pharmacy for asthma without any prescription. On evaluation, his pulse rate was 108/min and blood pressure was 90/60mmHg. He had diffused abdominal tenderness and rigidity. What is the most effective initial management for this patient?",
+    "choices": [
+      "a. Send him for erect chest x-ray",
+      "b. Fluid resuscitation, antibiotics and serum amylase",
+      "c. Fluid resuscitation and antibiotics",
+      "d. Fluid resuscitation, antibiotics and CT-scan"
+    ],
+    "answer": "c. Fluid resuscitation and antibiotics",
+    "explanation": "The patient has signs of a perforated peptic ulcer (steroid use, upper GI bleed, rigid abdomen) and is in shock. The absolute priority before any imaging is aggressive fluid resuscitation to restore blood pressure and broad-spectrum antibiotics to manage the ensuing peritonitis/sepsis."
+  },
+  {
+    "question": "A 27-year-old male patient who is a known CKD secondary to chronic glomerulonephritis is on follow up. His laboratory result shows hemoglobulin of 4.7mg/dl and MCV of 75mg/dl. After further work up with Transferrin saturation and serum EPO level, the physician started him on iron with epoiten Alfa. What is the most appropriate target hemoglobulin in this case?",
+    "choices": [
+      "a. 9-10.5g/dl",
+      "b. 10-11.5g/dl",
+      "c. 7-8g/dl",
+      "d. 8-9g/dl"
+    ],
+    "answer": "b. 10-11.5g/dl",
+    "explanation": "When treating anemia associated with Chronic Kidney Disease using Erythropoiesis-Stimulating Agents (like epoetin alfa), current guidelines recommend targeting a hemoglobin level between 10.0 and 11.5 g/dL to avoid the increased cardiovascular risks associated with higher targets."
+  },
+  {
+    "question": "A manager of a Zonal Health Department annually gives orientation to the heads of district health offices on the main components of the 1993 health policy of the Transitional Government of Ethiopia and how to incorporate the policy areas to their strategic plan. What component of this health policy could be the focus area for the heads?",
+    "choices": [
+      "a. Give a special focus on the construction of new specialized hospitals",
+      "b. Provision of health care for the rural population for free of charge",
+      "c. Focus on the development of curative and rehabilitative health care",
+      "d. Promoting the participation of the private sector in service delivery"
+    ],
+    "answer": "d. Promoting the participation of the private sector in service delivery",
+    "explanation": "The 1993 Health Policy of Ethiopia was notable for shifting focus towards primary care and decentralization, and distinctly, for encouraging the involvement of the private sector in health service delivery, which was a major policy change from previous eras."
+  },
+  {
+    "question": "A 27-Year-old man has come with complaints of palpitation and exercise intolerance of three months duration. His investigation result shows Hgb level of 5.7mg/dl with MCV of 56fl and iron studies consistent with iron deficiency. The physician following this patient has decided to start him on Ferrous sulfate. What is the most appropriate duration of treatment in this case?",
+    "choices": [
+      "a. Three months after correction of Hgb",
+      "b. Total of six months",
+      "c. Six-twelve months after correction of Hgb",
+      "d. Total of three months"
+    ],
+    "answer": "a. Three months after correction of Hgb",
+    "explanation": "Treatment for iron deficiency anemia aims to normalize hemoglobin and replenish iron stores. After hemoglobin normalizes, oral iron therapy should be continued for an additional 3 to 6 months to adequately fill the body's iron stores."
+  },
+  {
+    "question": "A 20-year-old female patient has come to a clinic with breast lump of three months duration. On examination, she has no history of nipple discharge; there is 2cm firm, mobile and non-tender mass at right upper quadrant of breast. What is the most likely clinical diagnosis in this case?",
+    "choices": [
+      "a. Breast cyst",
+      "b. Fat Necrosis",
+      "c. Breast cancer",
+      "d. Fibroadenoma"
+    ],
+    "answer": "d. Fibroadenoma",
+    "explanation": "A young woman presenting with a well-circumscribed, firm, very mobile (often called a 'breast mouse'), and painless breast mass has the classic clinical presentation of a fibroadenoma, the most common benign breast lesion in this age group."
+  },
+  {
+    "question": "A 45-year-old man, who is a known diabetic taking Metformin 1gm po BID, was diagnosed recently with unstable angina and treated three months back. He came to an endocrine clinic with HbA1c of 8.2 percent, FBS of 110mg/dl, RBS of 160mg/dl and Cr of 0.9mg/dl. What is the next appropriate step in the management of this patient?",
+    "choices": [
+      "a. Escalate Metformin",
+      "b. Add Glimepiride",
+      "c. Add Insulin",
+      "d. Add Empagliflozin"
+    ],
+    "answer": "d. Add Empagliflozin",
+    "explanation": "This diabetic patient has not met his HbA1c goal and has a history of established cardiovascular disease (unstable angina). Guidelines strongly recommend adding an SGLT2 inhibitor (like Empagliflozin) due to its proven benefits in reducing cardiovascular events in diabetics with established heart disease."
+  },
+  {
+    "question": "A 75-year-old male patient was brought to a surgical regular OPD with a complaint of epigastric pain that radiates to the back of two days duration. He had some improvement while he was leaning forward. Previously, he had abdominal pain and he was told to have stones on his gall bladder but had no follow up for this condition. On evaluation, he had mild epigastric tenderness. His random blood glucose level was 300 mg/dl and WBC count was 20,000cells/mm3. Serum amylase and lipase was elevated 8 times each. What is the best management for this patient?",
+    "choices": [
+      "a. Admit to ICU for adequate resuscitation then PO/NG tube feeding",
+      "b. Adequate resuscitation then keep him NPO for at least for three days",
+      "c. Keep him in the ward, IV antibiotics, then keep NPO for three days",
+      "d. Admit to ICU, keep him NPO for three days and IV antibiotics"
+    ],
+    "answer": "a. Admit to ICU for adequate resuscitation then PO/NG tube feeding",
+    "explanation": "The patient has severe acute pancreatitis (based on age, high WBC, high glucose). Severe cases require intensive monitoring and fluid resuscitation in an ICU setting. Current guidelines favor early initiation of enteral nutrition (PO or feeding tube) over keeping the patient strictly NPO, to maintain gut integrity."
+  },
+  {
+    "question": "A 30-year-old male was brought to an emergency room after he sustained fall down accident from six meter high tree. He was in distress and physical examination revealed a blood pressure of 90/60 mmHg, pulse rate of 120/min, respiratory rate of 38/min, oxygen saturation of 80 percent and absent air entry over the entire right lung. Chest X-ray showed the whole right side haziness. What is the most likely diagnosis of this patient?",
+    "choices": [
+      "a. Tension pneumothorax",
+      "b. Hemothorax",
+      "c. Lung Contusion",
+      "d. Simple pneumothorax"
+    ],
+    "answer": "b. Hemothorax",
+    "explanation": "Following severe chest trauma, a patient presenting with shock, respiratory distress, and absent breath sounds on one side, combined with an X-ray showing complete 'haziness' or radiopacity on that side, most likely has a massive hemothorax (bleeding into the pleural cavity)."
+  },
+  {
+    "question": "A 34-year-old male patient came to a surgical OPD with a complaint of protruding mass per rectum. The mass reduced by itself and toilet paper was stained with blood. What is the most likely diagnosis?",
+    "choices": [
+      "a. Fistula in ano",
+      "b. Hemorrhoid",
+      "c. Anal fissure",
+      "d. Perianal abscess"
+    ],
+    "answer": "b. Hemorrhoid",
+    "explanation": "A painless mass protruding from the rectum that reduces spontaneously, associated with bright red bleeding on toilet paper, is the classic description of a prolapsing (Grade II) internal hemorrhoid."
+  },
+  {
+    "question": "A group of researchers planned to assess the prevalence of depression and associated factors in an urban community comprising individuals who are able to read and write. A questionnaire containing sensitive questions was prepared in English and translated to local language. What is the most appropriate data collection tool for the above scenario?",
+    "choices": [
+      "a. Telephone interviewing",
+      "b. Self-administered questionnaire",
+      "c. Observation",
+      "d. Face to face interview"
+    ],
+    "answer": "b. Self-administered questionnaire",
+    "explanation": "When collecting data on sensitive topics (like mental health) from a literate population, a self-administered questionnaire is preferred because it affords greater privacy, thereby reducing social desirability bias and encouraging more honest responses compared to direct interviews."
+  },
+  {
+    "question": "A 56-year-old male patient was hit by a vehicle while he was crossing road. He was immediately brought to an emergency room and after resuscitation, urinary foley catheter was inserted and frank blood was coming out of the catheter. He was investigated with retrograde cystography and it showed extravasation of contrast outlining bowel. What is the most appropriate management for this patient?",
+    "choices": [
+      "a. CT with IV contrast",
+      "b. Catheterization and observation",
+      "c. Exploration and repair",
+      "d. Suprapubic cystotomy"
+    ],
+    "answer": "c. Exploration and repair",
+    "explanation": "The retrograde cystogram finding of contrast 'outlining bowel' indicates an intraperitoneal bladder rupture (urine is leaking into the abdominal cavity). This type of injury mandates surgical exploration and repair of the bladder to prevent severe peritonitis."
+  },
+  {
+    "question": "A 30-year-old male patient came to an OPD with complaints of productive cough, pleuritic chest pain and fever of six days duration. On examination, his blood pressure is 90/60mmHg, respiratory rate is 28/min, temperature is 38.4 degree centigrade, and there is dullness and absent air entry on the left lower third of chest. Chest x-ray reveals left pleural effusion. Pleural fluid analysis shows LDH level of 800, glucose level of 80mg/dl, WBC count 15000/mm3, and gram positive cocci in chains on gram stain. What is the most likely indication for insertion of chest tube in this case?",
+    "choices": [
+      "a. Pleural LDH level",
+      "b. Pleural gram stain result",
+      "c. Pleural WBC count",
+      "d. Pleural glucose level"
+    ],
+    "answer": "b. Pleural gram stain result",
+    "explanation": "The patient has a parapneumonic effusion. The absolute indication for chest tube drainage (indicating a complicated effusion or empyema) is evidence of direct bacterial infection in the pleural space. A positive Gram stain showing bacteria is a definitive sign that drainage is required."
+  },
+  {
+    "question": "A 22-year-old boy went to a health center for HIV/AIDS testing. The healthcare provider working at that health facility shared the test result to the boy's father without the knowledge of the client. What is the most likely ethical principle violated in this scenario?",
+    "choices": [
+      "a. Beneficence",
+      "b. Informed consent",
+      "c. Confidentiality",
+      "d. Fairness and justice"
+    ],
+    "answer": "c. Confidentiality",
+    "explanation": "Revealing a patient's private medical information (like HIV status) to a third party, even a family member, without the adult patient's explicit consent is a direct breach of the ethical duty of confidentiality."
+  },
+  {
+    "question": "A minister of the Ministry of Health asked regional health offices to submit a report regarding the performance of the health sector under their catchment. From the report, the minister prepared a summary report to present to politicians and the media. What is the most appropriate type of data required by the minister?",
+    "choices": [
+      "a. Data indicating the impact of health services",
+      "b. Data showing the number of trained health professionals",
+      "c. Data showing monthly health service utilization",
+      "d. Data showing resource supply and utilization"
+    ],
+    "answer": "c. Data showing monthly health service utilization",
+    "explanation": "To summarize and report on the overall 'performance' and output of a health sector to stakeholders, the most direct indicator is how much the services are being used by the population, typically captured via routine service utilization data."
+  },
+  {
+    "question": "A 25-year-old patient, who had sustained bullet injury to the abdomen, came to an emergency room lately. Physical examination revealed that he has blood pressure of 70/30mmHg, pulse rate of 130/min, respiratory rate of 30/min and abdominal examination showed rigidity and diffused tenderness. Which organ is most likely injured in this case?",
+    "choices": [
+      "a. Liver",
+      "b. Spleen",
+      "c. Small bowl",
+      "d. Large bowl"
+    ],
+    "answer": "c. Small bowl",
+    "explanation": "In cases of penetrating abdominal trauma, such as a gunshot wound, the small bowel is the most frequently injured internal organ due to its large size and central position within the abdominal cavity."
+  },
+  {
+    "question": "A 50-year-old male patient, who had been smoking for the last 30 years, has come to a clinic with productive cough of blood tingled sputum since the last eight months. He has right side chest pain though he has no other complaint. On examination, there is wheeze over right mid lung field. PA and lateral CXR show heterogeneous opacification at middle lobe of right lung. What is the most appropriate next step to diagnosis the case?",
+    "choices": [
+      "a. Chest CT-scan",
+      "b. Sputum gene expert",
+      "c. Bronchoscopy",
+      "d. Chest MRI"
+    ],
+    "answer": "c. Bronchoscopy",
+    "explanation": "A long-term smoker presenting with hemoptysis, chest pain, and a localized wheeze with corresponding CXR findings is highly suspicious for lung cancer, specifically an endobronchial lesion causing obstruction. Bronchoscopy is the definitive diagnostic procedure to visualize the airway and obtain a biopsy."
+  },
+  {
+    "question": "A 65-year-old construction worker, who had sustained fall down injury from stairs, was diagnosed to have seven consecutive rib fractures on chest CT. What is the most appropriate approach for this patient?",
+    "choices": [
+      "a. Should be admitted to ICU",
+      "b. Surgical fixation is mandatory",
+      "c. Start deep breath exercise immediately",
+      "d. Treat as pulmonary contusion"
+    ],
+    "answer": "a. Should be admitted to ICU",
+    "explanation": "Elderly patients with significant chest trauma (multiple rib fractures) are at a very high risk for respiratory failure due to pain, hypoventilation, and pneumonia. Standard guidelines dictate admitting such patients to an ICU for close monitoring and aggressive pain management."
+  },
+  {
+    "question": "A manager of a Zonal Health Department involves her subordinates in decision making by consulting team members. She values group discussions and input from team members; she maximizes the members' strong points in order to obtain the best performance from the entire team. What is the most likely leadership style the manager applied to carry out her roles?",
+    "choices": [
+      "a. Free-rein",
+      "b. Laissez-faire",
+      "c. Autocratic",
+      "d. Participative"
+    ],
+    "answer": "d. Participative",
+    "explanation": "A leadership style characterized by involving team members in decision-making, seeking their input, and valuing group discussion is known as Participative (or Democratic) leadership."
+  },
+  {
+    "question": "A 35-year-old female patient, who was on her 3rd postoperative day after near total thyroidectomy was done for the diagnosis of Graves's disease, has started to complain circumoral and fingertip numbness. Her physical examination reveals positive Trousseau's sign with carpopedal spasm. Laboratory result shows serum calcium level of 7 mg/dL. What is the most appropriate next step to treat this patient?",
+    "choices": [
+      "a. Treat with Thyroxin",
+      "b. Treat with Oral calcium",
+      "c. Treat with IV Calcium gluconate",
+      "d. Reassure the patient that it will resolve"
+    ],
+    "answer": "c. Treat with IV Calcium gluconate",
+    "explanation": "The patient has developed acute, symptomatic hypocalcemia (tetany) following thyroid surgery, a medical emergency. The immediate treatment to stabilize the patient and prevent complications like arrhythmias or seizures is intravenous administration of Calcium gluconate."
+  },
+  {
+    "question": "A surgeon wants to prepare surgical site of a patient who is on a table. He has given spinal anesthesia for hernioraphy, and has planned to apply strict measures to prevent surgical site infection. What is the most appropriate initial step to be applied by the surgeon?",
+    "choices": [
+      "a. Wear surgical glove",
+      "b. Shave the hair on surgical field",
+      "c. Wash the surgical field with Povidone iodine",
+      "d. Wash his hands with medicated soap"
+    ],
+    "answer": "d. Wash his hands with medicated soap",
+    "explanation": "Before performing any aseptic task, including donning sterile gloves or prepping the patient, the initial step for the surgical team is to prepare themselves by performing a surgical hand scrub with antiseptic soap."
+  },
+  {
+    "question": "A 34-year-old male patient came to an OPD with complaints of diarrhea for the last six months for which he was treated with antibiotics but with no improvement. In the last month, he became irritable and developed rash around the mouth and perineum. On physical examination, he has muscle wasting and vesicle and pustular crusting with scaling around oral and anal area. What is the most likely deficient nutrient in this patient?",
+    "choices": [
+      "a. Vitamin C",
+      "b. Niacin",
+      "c. Zinc",
+      "d. Selenium"
+    ],
+    "answer": "c. Zinc",
+    "explanation": "The combination of chronic diarrhea, behavioral changes (irritability), and a specific rash characterized by pustules and scaling around orifices (acrodermatitis enteropathica) points strongly to a severe Zinc deficiency."
+  },
+  {
+    "question": "A significant number of prisoners visited a nearby hospital due to epidemic typhus and louse borne relapsing fever. The manager of the prison consulted health workers of the hospital to suggest sustainable solution besides diagnosis and treatment. What is the most appropriate control mechanism of the disease in this case?",
+    "choices": [
+      "a. Cleaning the surrounding",
+      "b. Boiling cloths",
+      "c. Insecticide",
+      "d. Personal hygiene"
+    ],
+    "answer": "d. Personal hygiene",
+    "explanation": "Epidemic typhus and louse-borne relapsing fever are transmitted by the human body louse, which infests clothing in environments with poor sanitation. The most sustainable, long-term preventative measure to control these outbreaks is improving basic personal hygiene, primarily regular bathing and laundering of clothes."
+  },
+  {
+    "question": "A 52-year-old patient was admitted to a COVID ICU ward. He was intubated and is using Oxygen. The oxygen and the tube must be checked regularly to avoid any complication. The attending ICU nurse was very busy with other patients where she did not make a visit to this patient. Unfortunately, the intubation was blocked with secretion and consequently, the Oxygen level dropped and the patient died to that effect. How should the head of ICU respond to this situation?",
+    "choices": [
+      "a. The head should inform the family about the cause of death and they will decide whether to take it to the legal process or not.",
+      "b. The situation is very sensitive, this could happen when many patients are admitted in an ICU. Hence, the head can bring the case rather in \"Death Audit\" period for his team.",
+      "c. The head should not disclose the incident; inform the family that the patient has died because of natural course of COVID.",
+      "d. The head should take administrative decision to the nurse, tell the family the patient has died and later, discuss the case for others to learn from it."
+    ],
+    "answer": "a. The head should inform the family about the cause of death and they will decide whether to take it to the legal process or not.",
+    "explanation": "In the event of a medical error resulting in patient harm or death, ethical principles and transparency require that the institution openly and honestly informs the family of the true cause of the incident. Concealment is unethical."
+  }
+]
