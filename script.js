@@ -80,7 +80,7 @@ async function loadQuizData(source) {
 // 2. RENDER QUESTION
 function renderQuestion() {
     const currentData = quizData[currentQuestionIndex];
-    
+
     questionText.innerText = currentData.question;
     progressText.innerText = `${currentQuestionIndex + 1}/${quizData.length}`;
     explanationBox.innerText = currentData.explanation;
@@ -93,7 +93,7 @@ function renderQuestion() {
         const btn = document.createElement("button");
         btn.classList.add("choice-btn");
         btn.innerText = choice;
-        
+
         if (alreadyAnswered) {
             btn.classList.add("disabled");
             const selectedChoice = userAnswers[currentQuestionIndex];
@@ -107,7 +107,7 @@ function renderQuestion() {
     });
 
     if (alreadyAnswered) explanationBox.style.display = "block";
-    
+
     nextBtn.disabled = !alreadyAnswered;
     prevBtn.disabled = currentQuestionIndex === 0;
     nextBtn.innerText = (currentQuestionIndex === quizData.length - 1) ? "Finish Quiz" : "Next";
@@ -116,7 +116,7 @@ function renderQuestion() {
 // 3. HANDLE USER SELECTION
 function handleSelection(selectedBtn, selectedChoice, correctAnswer) {
     userAnswers[currentQuestionIndex] = selectedChoice;
-    
+
     if (selectedChoice === correctAnswer) {
         score++;
         liveScore.innerText = score;
@@ -153,7 +153,7 @@ function showResults() {
 function reviewQuiz() {
     resultsScreen.style.display = "none";
     quizScreen.classList.remove("hidden");
-    currentQuestionIndex = 0; 
+    currentQuestionIndex = 0;
     renderQuestion();
 }
 
