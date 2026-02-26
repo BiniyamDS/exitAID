@@ -157,6 +157,19 @@ function reviewQuiz() {
     renderQuestion();
 }
 
+// 5. RETURN TO HOME
+function returnToHome() {
+    quizScreen.style.display = "none";
+    resultsScreen.style.display = "none";
+    selectionScreen.style.display = "block";
+
+    // Optional cleanup
+    quizData = [];
+    currentQuestionIndex = 0;
+    score = 0;
+    userAnswers = [];
+}
+
 // Wire up selection UI
 loadQuizBtn.addEventListener('click', () => {
     const selected = quizSelect.value;
