@@ -102,6 +102,9 @@ function renderQuestion() {
 
     const alreadyAnswered = userAnswers[currentQuestionIndex] !== null;
 
+    // OPTIMIZATION 2: Use a DocumentFragment to batch DOM insertions
+    const fragment = document.createDocumentFragment();
+
     currentData.choices.forEach(choice => {
         const btn = document.createElement("button");
         btn.classList.add("choice-btn");
@@ -116,8 +119,12 @@ function renderQuestion() {
         } else {
             btn.onclick = () => handleSelection(btn, choice, currentData.answer);
         }
-        choicesContainer.appendChild(btn);
+        
+        fragment.appendChild(btn); // Append to the fragment instead of directly to the DOM
     });
+
+    // Append all buttons to the DOM at once
+    choicesContainer.appendChild(fragment);
 
     if (alreadyAnswered) explanationBox.style.display = "block";
 
@@ -136,7 +143,26 @@ function handleSelection(selectedBtn, selectedChoice, correctAnswer) {
     }
 
     saveProgress();
-    renderQuestion(); // Re-render to apply "already answered" styles
+
+    // OPTIMIZATION 1: Update the existing DOM elements instead of re-rendering everything
+    const allChoiceBtns = choicesContainer.querySelectorAll('.choice-btn');
+    
+    allChoiceBtns.forEach(btn => {
+        btn.classList.add("disabled"); // Disable all buttons to prevent multiple clicks
+        btn.onclick = null; // Clean up event listeners
+        
+        const choiceText = btn.innerText;
+        if (choiceText === correctAnswer) {
+            btn.classList.add("correct");
+        } else if (choiceText === selectedChoice) {
+            btn.classList.add("incorrect");
+        } else {
+            btn.classList.add("grayed");
+        }
+    });
+
+    explanationBox.style.display = "block";
+    nextBtn.disabled = false;
 }
 
 // 4. NAVIGATION
@@ -220,5 +246,3 @@ populateQuizOptions();
 selectionScreen.style.display = 'block';
 quizScreen.style.display = 'none';
 resultsScreen.style.display = 'none';
-
-// Note: do not auto-load a quiz on startup; user must choose one from the selection screen.
