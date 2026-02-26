@@ -5,6 +5,7 @@ let currentQuestionIndex = 0;
 let score = 0;
 let userAnswers = [];
 let isReviewMode = false;
+let currentQuizId = null; // Store the local storage key
 
 // DOM Elements
 const questionText = document.getElementById("question-text");
@@ -59,10 +60,22 @@ async function loadQuizData(source) {
         }
 
         quizData = data;
-        currentQuestionIndex = 0;
-        score = 0;
+        currentQuizId = source; // Use source as unique quiz identifier
+
+        // Check local storage for saved progress
+        const savedData = localStorage.getItem(currentQuizId);
+        if (savedData) {
+            const parsed = JSON.parse(savedData);
+            currentQuestionIndex = parsed.currentQuestionIndex || 0;
+            score = parsed.score || 0;
+            userAnswers = parsed.userAnswers || new Array(quizData.length).fill(null);
+        } else {
+            currentQuestionIndex = 0;
+            score = 0;
+            userAnswers = new Array(quizData.length).fill(null);
+        }
+
         liveScore.innerText = score;
-        userAnswers = new Array(quizData.length).fill(null);
 
         // Hide selection and show quiz
         selectionScreen.style.display = 'none';
@@ -122,6 +135,7 @@ function handleSelection(selectedBtn, selectedChoice, correctAnswer) {
         liveScore.innerText = score;
     }
 
+    saveProgress();
     renderQuestion(); // Re-render to apply "already answered" styles
 }
 
@@ -129,6 +143,7 @@ function handleSelection(selectedBtn, selectedChoice, correctAnswer) {
 function nextQuestion() {
     if (currentQuestionIndex < quizData.length - 1) {
         currentQuestionIndex++;
+        saveProgress();
         renderQuestion();
     } else {
         showResults();
@@ -138,6 +153,7 @@ function nextQuestion() {
 function prevQuestion() {
     if (currentQuestionIndex > 0) {
         currentQuestionIndex--;
+        saveProgress();
         renderQuestion();
     }
 }
@@ -155,6 +171,29 @@ function reviewQuiz() {
     quizScreen.classList.remove("hidden");
     currentQuestionIndex = 0;
     renderQuestion();
+}
+
+// Progress Management
+function saveProgress() {
+    if (!currentQuizId) return;
+    const dataToSave = {
+        currentQuestionIndex,
+        score,
+        userAnswers
+    };
+    localStorage.setItem(currentQuizId, JSON.stringify(dataToSave));
+}
+
+function resetProgress() {
+    if (!currentQuizId) return;
+    if (confirm("Are you sure you want to reset your progress for this quiz?")) {
+        localStorage.removeItem(currentQuizId);
+        currentQuestionIndex = 0;
+        score = 0;
+        liveScore.innerText = score;
+        userAnswers = new Array(quizData.length).fill(null);
+        renderQuestion();
+    }
 }
 
 // 5. RETURN TO HOME
