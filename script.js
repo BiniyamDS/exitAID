@@ -119,7 +119,7 @@ function renderQuestion() {
         } else {
             btn.onclick = () => handleSelection(btn, choice, currentData.answer);
         }
-        
+
         fragment.appendChild(btn); // Append to the fragment instead of directly to the DOM
     });
 
@@ -146,11 +146,11 @@ function handleSelection(selectedBtn, selectedChoice, correctAnswer) {
 
     // OPTIMIZATION 1: Update the existing DOM elements instead of re-rendering everything
     const allChoiceBtns = choicesContainer.querySelectorAll('.choice-btn');
-    
+
     allChoiceBtns.forEach(btn => {
         btn.classList.add("disabled"); // Disable all buttons to prevent multiple clicks
         btn.onclick = null; // Clean up event listeners
-        
+
         const choiceText = btn.innerText;
         if (choiceText === correctAnswer) {
             btn.classList.add("correct");
@@ -195,6 +195,14 @@ function showResults() {
 function reviewQuiz() {
     resultsScreen.style.display = "none";
     quizScreen.classList.remove("hidden");
+
+    // Reset to single question view
+    if (typeof isReviewListMode !== 'undefined') {
+        isReviewListMode = false;
+        document.getElementById("single-question-view").style.display = "block";
+        document.getElementById("all-questions-view").style.display = "none";
+    }
+
     currentQuestionIndex = 0;
     renderQuestion();
 }
@@ -218,15 +226,137 @@ function resetProgress() {
         score = 0;
         liveScore.innerText = score;
         userAnswers = new Array(quizData.length).fill(null);
-        renderQuestion();
+
+        if (typeof isReviewListMode !== 'undefined' && isReviewListMode) {
+            renderAllQuestions();
+        } else {
+            renderQuestion();
+        }
     }
 }
 
-// 5. RETURN TO HOME
+// 5. REVIEW MODE LIST
+let isReviewListMode = false;
+
+function toggleReviewMode() {
+    isReviewListMode = !isReviewListMode;
+    const singleView = document.getElementById("single-question-view");
+    const allView = document.getElementById("all-questions-view");
+    const quizContainer = document.getElementById("quiz-screen");
+
+    if (isReviewListMode) {
+        singleView.style.display = "none";
+        allView.style.display = "block";
+        quizContainer.classList.add("review-mode");
+        renderAllQuestions();
+    } else {
+        singleView.style.display = "block";
+        allView.style.display = "none";
+        quizContainer.classList.remove("review-mode");
+    }
+}
+
+function renderAllQuestions() {
+    const allView = document.getElementById("all-questions-view");
+    allView.innerHTML = "";
+    const fragment = document.createDocumentFragment();
+
+    quizData.forEach((data, index) => {
+        const qDiv = document.createElement("div");
+        qDiv.className = "review-question-card";
+
+        const qHeader = document.createElement("div");
+        qHeader.className = "review-question-header";
+
+        const qTitle = document.createElement("div");
+        qTitle.className = "question";
+        qTitle.innerText = `${index + 1}. ${data.question}`;
+
+        const maxBtn = document.createElement("button");
+        maxBtn.className = "icon-btn maximize-btn";
+        maxBtn.title = "Go to question";
+        maxBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>`;
+        maxBtn.onclick = () => goToQuestion(index);
+
+        qHeader.appendChild(qTitle);
+        qHeader.appendChild(maxBtn);
+        qDiv.appendChild(qHeader);
+
+        const choicesDiv = document.createElement("div");
+        choicesDiv.className = "choices";
+
+        const alreadyAnswered = userAnswers[index] !== null;
+        const selectedChoice = userAnswers[index];
+
+        data.choices.forEach(choice => {
+            const btn = document.createElement("button");
+            btn.className = "choice-btn";
+            btn.innerText = choice;
+            // Only allow selection if not already answered
+            if (!alreadyAnswered) {
+                btn.onclick = () => {
+                    userAnswers[index] = choice;
+                    // Recalculate score
+                    score = quizData.reduce((acc, q, i) => acc + (userAnswers[i] === q.answer ? 1 : 0), 0);
+                    liveScore.innerText = score;
+                    saveProgress();
+                    renderAllQuestions();
+                };
+            } else {
+                btn.classList.add("disabled");
+            }
+            // Visual state
+            if (alreadyAnswered) {
+                if (choice === data.answer) {
+                    btn.classList.add("correct");
+                } else if (choice === selectedChoice) {
+                    btn.classList.add("incorrect");
+                } else {
+                    btn.classList.add("grayed");
+                }
+            } else if (selectedChoice === choice) {
+                btn.classList.add("selected");
+            }
+            choicesDiv.appendChild(btn);
+        });
+        qDiv.appendChild(choicesDiv);
+
+        if (alreadyAnswered && data.explanation) {
+            const exp = document.createElement("div");
+            exp.className = "explanation";
+            exp.style.display = "block";
+            exp.innerText = data.explanation;
+            qDiv.appendChild(exp);
+        }
+
+        fragment.appendChild(qDiv);
+    });
+
+    allView.appendChild(fragment);
+}
+
+function goToQuestion(index) {
+    currentQuestionIndex = index;
+    isReviewListMode = false;
+    document.getElementById("single-question-view").style.display = "block";
+    document.getElementById("all-questions-view").style.display = "none";
+    document.getElementById("quiz-screen").classList.remove("review-mode");
+    renderQuestion();
+}
+
+// 6. RETURN TO HOME
 function returnToHome() {
     quizScreen.style.display = "none";
     resultsScreen.style.display = "none";
     selectionScreen.style.display = "block";
+
+    // Reset review list mode
+    if (typeof isReviewListMode !== 'undefined') {
+        isReviewListMode = false;
+        document.getElementById("single-question-view").style.display = "block";
+        document.getElementById("all-questions-view").style.display = "none";
+        document.getElementById("quiz-screen").classList.remove("review-mode");
+    }
 
     // Optional cleanup
     quizData = [];

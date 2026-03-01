@@ -46,6 +46,11 @@ body {
     animation: fadeIn 0.4s ease-out;
 }
 
+.quiz-container.review-mode {
+    max-width: 900px;
+    transition: max-width 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -171,6 +176,13 @@ p {
     border-color: var(--border-color);
     color: #94a3b8;
     opacity: 0.7;
+}
+
+/* In review mode, keep unselected and unanswered choices white */
+.review-question-card .choice-btn:not(.correct):not(.incorrect):not(.grayed) {
+    background-color: #fff;
+    color: var(--text-main);
+    opacity: 1;
 }
 
 .choice-btn.disabled {
@@ -318,6 +330,98 @@ select#quiz-select:focus {
 
 .hidden {
     display: none !important;
+}
+
+/* Review Mode Styles */
+.progress-text-clickable {
+    cursor: pointer;
+    transition: color 0.2s;
+    user-select: none;
+}
+
+.progress-text-clickable:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.all-questions-view {
+    max-height: 65vh;
+    overflow-y: auto;
+    padding-right: 8px;
+    margin-right: -8px;
+    /* Offset padding for scrollbar */
+    width: 100%;
+}
+
+.all-questions-view::-webkit-scrollbar {
+    width: 6px;
+}
+
+.all-questions-view::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 4px;
+}
+
+.all-questions-view::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+}
+
+.all-questions-view::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+.review-question-card {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 24px;
+    margin-bottom: 24px;
+    box-shadow: var(--shadow-sm);
+}
+
+.review-question-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.review-question-header .question {
+    margin-bottom: 0;
+    font-size: 1.1rem;
+}
+
+.maximize-btn {
+    padding: 6px;
+    background-color: #f8fafc;
+    border: 1px solid var(--border-color);
+    flex-shrink: 0;
+}
+
+.maximize-btn:hover {
+    background-color: #e2e8f0;
+    color: var(--accent-color);
+}
+
+.review-choice {
+    padding: 12px 16px;
+    font-size: 0.95rem;
+    cursor: default;
+    pointer-events: none;
+}
+
+.review-question-card .choice-btn {
+    cursor: pointer;
+    pointer-events: auto;
+    opacity: 1;
+}
+
+.review-question-card .choice-btn.selected {
+    outline: 2px solid var(--accent-color);
+    box-shadow: 0 0 0 2px #bae6fd;
 }
 
 /* Responsive adjustments */
